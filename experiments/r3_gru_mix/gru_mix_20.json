@@ -1,0 +1,118 @@
+{
+ "arch": "gru d256 L2 ctx128 AdamW",
+ "steps": 20,
+ "n_params": 839265,
+ "fit_wall_s": 101.36789894104004,
+ "fit_cpu_s": 240.4375,
+ "tokens_seen": 163840,
+ "domain_bpc": {
+  "web": {
+   "bpc": 4.634750829267808,
+   "se_iid": 0.03399039255757646,
+   "se_block": 0.02177676166185584,
+   "n": 3000,
+   "val_chars": 1007363
+  },
+  "code": {
+   "bpc": 5.036974786175274,
+   "se_iid": 0.04572353882646854,
+   "se_block": 0.0615103476828567,
+   "n": 3000,
+   "val_chars": 1023551
+  },
+  "math": {
+   "bpc": 5.18552525414222,
+   "se_iid": 0.04268488098462774,
+   "se_block": 0.042511321955223336,
+   "n": 3000,
+   "val_chars": 730400
+  },
+  "chat": {
+   "bpc": 4.643984052321494,
+   "se_iid": 0.03405161424997265,
+   "se_block": 0.016652840715507527,
+   "n": 3000,
+   "val_chars": 634078
+  },
+  "books": {
+   "bpc": 4.806840349980589,
+   "se_iid": 0.03580882264071992,
+   "se_block": 0.09296973951967714,
+   "n": 3000,
+   "val_chars": 536038
+  }
+ },
+ "hellaswag": {
+  "acc": {
+   "acc": 0.275,
+   "se": 0.031573327350787724,
+   "n": 200
+  },
+  "acc_norm": {
+   "acc": 0.255,
+   "se": 0.030820042180373472,
+   "n": 200
+  },
+  "random": 0.25
+ },
+ "piqa": {
+  "acc": {
+   "acc": 0.5133333333333333,
+   "se": 0.04081031097016392,
+   "n": 150
+  },
+  "acc_norm": {
+   "acc": 0.4666666666666667,
+   "se": 0.04073400617738524,
+   "n": 150
+  },
+  "random": 0.5
+ },
+ "arc_easy": {
+  "acc": {
+   "acc": 0.23333333333333334,
+   "se": 0.03453393392871123,
+   "n": 150
+  },
+  "acc_norm": {
+   "acc": 0.23333333333333334,
+   "se": 0.03453393392871123,
+   "n": 150
+  },
+  "random": 0.25
+ },
+ "humaneval": {
+  "pass_at_1": 0.0,
+  "n": 8,
+  "syntax_valid_frac": 1.0,
+  "samples": [
+   {
+    "task": "HumanEval/0",
+    "completion": "                                                                                                                                                                                                                                                                                                            ",
+    "passed": false
+   },
+   {
+    "task": "HumanEval/1",
+    "completion": "                                                                                                                                                                                                                                                                                                            ",
+    "passed": false
+   },
+   {
+    "task": "HumanEval/2",
+    "completion": "                                                                                                                                                                                                                                                                                                            ",
+    "passed": false
+   }
+  ]
+ },
+ "code_syntax": {
+  "gen_valid": 0.125,
+  "real_continuation_valid": 0.125,
+  "n": 8
+ },
+ "samples": {
+  "web": "na  rtloitr\ns o siae  nnneyvnnoe oidhtteidmeetSn srat d er] e  iaoMte ntethenytepiireoot otu svt utrgartaiht on o oit r ceuiaata amiricernteins et rer e naot s eegurcastheya trnttosa no etimJii wi pumd,n int ho e o esetpt   smh naohhr iLrhx urhrlnt reayrhes orrdraeei e\nos orvsevuhpthsocrl e geel tnrti olrirye eoel oa.siht od neat.i  spiam oonn aley",
+  "code": "na  rtloitr\ns o siae  nnneyvnnoe oidhtteidmeetSn srat d er] e  iaoMte ntethenytepiireoot otu svt utrgartaiht on o oit r ceuiaata amiricernteins et rer e naot s eegurcastheya trnttosa no etimJii wi pumd,n int ho e o esetpt   smh naohhr iLrhx urhrlnt reayrhes orrdraeei e\nos orvsevuhpthsocrl e geel tnrti olrirye eoel oa.siht od neat.i  spiam oonn aley",
+  "math": "na  rtloitr\ns o siae  nnneyvnnoe oidhtteidmeetSn srat d er] e  iaoMte ntethenytepiireoot otu svt utrgartaiht on o oit r ceuiaata amiricernteins et rer e naot s eegurcastheya trnttosa no etimJii wi pumd,n int ho e o esetpt   smh naohhr iLrhx urhrlnt reayrhes orrdraeei e\nos orvsevuhpthsocrl e geel tnrti olrirye eoel oa.siht od neat.i  spiam oonn aley",
+  "chat": "na  rtloitr\ns o siae  nnneyvnnoe oidhtteidmeetSn srat d er] e  iaoMte ntethenytepiireoot otu svt utrgartaiht on o oit r ceuiaata amiricernteins et rer e naot s eegurcastheya trnttosa no etimJii wi pumd,n int ho e o esetpt   smh naohhr iLrhx urhrlnt reayrhes orrdraeei e\nos orvsevuhpthsocrl e geel tnrti olrirye eoel oa.siht od neat.i  spiam oonn aley",
+  "books": "na  rtloitr\ns o siae  nnneyvnnoe oidhtteidmeetSn srat d er] e  iaoMte ntethenytepiireoot otu svt utrgartaiht on o oit r ceuiaata amiricernteins et rer e naot s eegurcastheya trnttosa no etimJii wi pumd,n int ho e o esetpt   smh naohhr iLrhx urhrlnt reayrhes orrdraeei e\nos orvsevuhpthsocrl e geel tnrti olrirye eoel oa.siht od neat.i  spiam oonn aley"
+ }
+}

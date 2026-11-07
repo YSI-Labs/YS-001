@@ -1,0 +1,78 @@
+{
+ "bpc": 4.311298670032354,
+ "max_norm_err": 2.7425357984611765e-08,
+ "min_prob": 8.169242278199818e-07,
+ "eval_time_s": 0.18928313255310059,
+ "eval_chars_per_s": 105661.01998067809,
+ "leak_free": true,
+ "name": "IK-spec-r256-D2^14-pure-random",
+ "fit_cpu_s": 30.984375,
+ "fit_wall_s": 28.311213970184326,
+ "n_params": 4218976,
+ "train_chars": 4824333,
+ "train_chars_per_s": 170403.60773934663,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath hhL\n\nouorgto\ns\nl thdf\n inieyvingA re loudhRe,,sIe so.r b hn  ac ibl ue iuesakmytereasaort suw swu wts].ou;cct pi o\nohu t alvhR,s B._ere grhvTeloHat sIs e oeou t aihyoe.rte;x Stomvuou, mn drem he ye\nfwnT-n,dav en d s eresou   the lLlako l rew_wonrght seEyolet otrdrNYeh S\nno_lowofuwioueroeon e gTan uosth ononryF,creg o, siis pa oe,ucm\n toe,E poon dkhyt hibTlt'BoneA  l,w fa.opn dae aw treergsooto r he",
+ "N_fit": 4583117,
+ "N_dev": 241216,
+ "n_reg": 500000,
+ "C_nnz": 8325177,
+ "sv_top": 1.0,
+ "sv_r": 1.0,
+ "dev_table": [
+  {
+   "lam": 1e-05,
+   "alpha": 1.0,
+   "dev_bpc": 4.670013394371391,
+   "neg_mass_mean": 0.10869620573063009,
+   "frac_rows_neg": 1.0,
+   "raw_sum_mean": 0.9999999924467469
+  },
+  {
+   "lam": 0.0001,
+   "alpha": 1.0,
+   "dev_bpc": 4.669973224879729,
+   "neg_mass_mean": 0.10867846049438967,
+   "frac_rows_neg": 1.0,
+   "raw_sum_mean": 0.9999999244676717
+  },
+  {
+   "lam": 0.001,
+   "alpha": 1.0,
+   "dev_bpc": 4.669602609632302,
+   "neg_mass_mean": 0.10850123315874612,
+   "frac_rows_neg": 1.0,
+   "raw_sum_mean": 0.9999992446969758
+  },
+  {
+   "lam": 0.01,
+   "alpha": 1.0,
+   "dev_bpc": 4.665832620027673,
+   "neg_mass_mean": 0.10675009493908999,
+   "frac_rows_neg": 1.0,
+   "raw_sum_mean": 0.9999924489739663
+  },
+  {
+   "lam": 0.1,
+   "alpha": 1.0,
+   "dev_bpc": 4.614826225803129,
+   "neg_mass_mean": 0.09115985571248013,
+   "frac_rows_neg": 1.0,
+   "raw_sum_mean": 0.9999246708817439
+  },
+  {
+   "lam": 1.0,
+   "alpha": 1.0,
+   "dev_bpc": 4.402893426791371,
+   "neg_mass_mean": 0.024715599940129403,
+   "frac_rows_neg": 1.0,
+   "raw_sum_mean": 0.9992557666037392
+  }
+ ],
+ "dev_wb_bpc": 2.2211310416780674,
+ "lam_selected": 1.0,
+ "alpha_selected": 1.0,
+ "dev_bpc_selected": 4.402893426791371,
+ "tag": "ctrl_random_r256_D14_pure",
+ "alpha_final": 1.0
+}

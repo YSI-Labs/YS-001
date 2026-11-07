@@ -1,0 +1,41 @@
+{
+ "bpc": 1.9970799552678724,
+ "max_norm_err": 4.582318768875382e-08,
+ "min_prob": 1.4351511515645066e-12,
+ "eval_time_s": 1.1784119606018066,
+ "eval_chars_per_s": 16971.976215867566,
+ "leak_free": true,
+ "name": "Ixchel-v0.2-cacheB_poe",
+ "fit_cpu_s": 59.46875,
+ "fit_wall_s": 50.928929805755615,
+ "n_params": 15646976,
+ "train_chars": 4824333,
+ "train_chars_per_s": 94726.76960619717,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a storms.\nSay that Sir Mytilene. A street is naught deny\nAnd once a rull,\nSworment, treets\nkou;strecount. As An onies\nMisthes!\n\nKING HENRY.\nTherefore I have a power to dull. Out, have cried only\nmy hat. Lucius Roderigom',\nmore constancy yet, these dewy to resist,\nSav!-patius yours. O that is not words to your heart with thee by thee.\n\nI song brewing bound to face wept straight were his return lais  away strugsastile she praise.\n\nEnter Humed me to my wife.\n\nHere comes Sir John, the poor plays t",
+ "dev_bpc_mix": 1.8871603391994907,
+ "dev_bpc_experts": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063,
+  "L": 3.0272185885063947,
+  "C256": 4.278273671398547,
+  "C1024": 3.6950445471647755
+ },
+ "poe_w": [
+  0.4952750218700047,
+  0.20791276902129863,
+  0.17352622359625558,
+  -0.02929895318730011,
+  0.034756063626794634,
+  0.17962099221011862
+ ],
+ "expert_names": [
+  "A",
+  "W",
+  "S",
+  "L",
+  "C256",
+  "C1024"
+ ]
+}

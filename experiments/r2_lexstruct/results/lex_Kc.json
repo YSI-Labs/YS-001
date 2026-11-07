@@ -1,0 +1,37 @@
+{
+ "bpc": 2.067642110622298,
+ "max_norm_err": 4.373268325252866e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 0.5280125141143799,
+ "eval_chars_per_s": 37877.78751595624,
+ "leak_free": true,
+ "name": "Lex-Kc",
+ "fit_cpu_s": 47.015625,
+ "fit_wall_s": 42.91756892204285,
+ "n_params": 17388782,
+ "train_chars": 4824333,
+ "train_chars_per_s": 112409.27949025042,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a storms.\nTalbot half sovereign.\n\nKING HENRY.\nAy, that the cat o's answer overflow sure. a\ntutBypreeps interial\nanr,\"\nHere comes one mortal thereford, mething into foul weatherger;\nStane? For yommuract!\nHonour'd,\nDolous GUSTICE.\nMisprisit your month,Yough out penetia\nTo mutuant, thou shall go as to Rome. ye,\nWhich by my side it lamire o'erhe:\nNow, him: there's Gloucester,\nHe,\nExcludes.Virtue.\nAlas  IxCp.-spwiving,\nPardon, Menenius, I'll pluck among to bride. Then can I the deliver the porter t",
+ "variant": "Kc",
+ "added": [
+  "Kc"
+ ],
+ "dev_bpc_chains": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063,
+  "L": 3.0272185885063947,
+  "Kc": 2.1368939875623685
+ },
+ "dev_bpc_mix": 1.9793174133064804,
+ "pairs_per_chain": {
+  "A": 6688784,
+  "W": 5928545,
+  "S": 1322435,
+  "L": 1707212,
+  "Kc": 1741806
+ },
+ "peak_ws_mb": 2105.798656,
+ "fit_model_s": 42.86615586280823
+}

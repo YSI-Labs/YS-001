@@ -1,0 +1,25 @@
+{
+ "bpc": 2.214188745920439,
+ "max_norm_err": 4.4090983308819887e-08,
+ "min_prob": 2.106954541392092e-11,
+ "eval_time_s": 21.95560359954834,
+ "eval_chars_per_s": 2277.3228035184684,
+ "leak_free": true,
+ "name": "Tzolkin[M16_contig_exact]",
+ "fit_cpu_s": 12.671875,
+ "fit_wall_s": 17.479878425598145,
+ "n_params": 14679395,
+ "train_chars": 4824333,
+ "train_chars_per_s": 275993.50993969606,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he PATherent\ns ses, had refyring and low lard. He that hast all percme preuntoxter.\nMusticest\nYou would une; Hen s slu tchat, as I may disms, my hoaspo gas.\nWeral?\noundowery brinster Philes of may  ture pinet mone sceptres I the pitens nesty worship they joy ssing her h\nTo stureturns to that lights, what thou beheld--\ngles shall we Wathe mCaste disus no grossing a nay mingle head unto nothing.\n    ",
+ "config": {
+  "M": 16,
+  "b": 0,
+  "mask": "contig",
+  "mix": "geo_seen",
+  "hash": "exact"
+ },
+ "n_nonzero": 14679395,
+ "n_params_alloc": 14679395
+}

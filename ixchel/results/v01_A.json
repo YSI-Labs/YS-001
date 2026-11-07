@@ -1,0 +1,20 @@
+{
+ "bpc": 2.126102379047691,
+ "max_norm_err": 4.471471015676798e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 0.21975493431091309,
+ "eval_chars_per_s": 91009.87821747268,
+ "leak_free": true,
+ "name": "Ixchel-v0.1-A",
+ "fit_cpu_s": 29.96875,
+ "fit_wall_s": 26.779434204101562,
+ "n_params": 6688784,
+ "train_chars": 4824333,
+ "train_chars_per_s": 180150.66947385695,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a story?\n\nVARRO'S SERVANTS.\nThere is my lord, I say is shame of breath, like bright, this,\nswoots; but those are punish'd for a new-devised they were as pretences,\nHis functions, and choose fix' twice, but not appears that piece of Troy waterish;\nThus got the remembed.\"\nStumbrue? My fellow.\n\nMASTER.\nNow, you shall do such a kind father,\nTo leaves,\nLoather point\nQuobeaking\nKilids to thee.\nOpen them Caucifings-wouns' quality of song,\nEven on the rotten empt?\nMy father's son,\nFor the miles may, s",
+ "dev_bpc_chains": {
+  "A": 2.0460652067753147
+ },
+ "dev_bpc_mix": 2.0460652067753147
+}

@@ -1,0 +1,19 @@
+=== Kb+Kc 20:00:44
+[Lex-Kb+Kc] contando sobre train[:4583116] ...
+[Lex-Kb+Kc] dev bpc cadenas: {'A': 2.0460652067753147, 'W': 2.39968151474065, 'S': 2.218706470196063, 'L': 3.0272185885063947, 'Kb': 2.1903280292797316, 'Kc': 2.1368939875623685}  mezcla: 1.9680  (t=28.6s)
+[Lex-Kb+Kc] listo en 50.0s ; params(pares)=17,715,585
+[Lex-Kb+Kc] bpc=2.0523  params=17,715,585  fit=50.1s (cpu 54.8s, 96,335 ch/s)  leak_free=True  norm_err=4.5e-08
+dev_bpc_mix 1.968 peak_MB 2112.0
+=== Kb+Kc+WL+Vm+W2 20:01:39
+[Lex-Kb+Kc+WL+Vm+W2] contando sobre train[:4583116] ...
+[Lex-Kb+Kc+WL+Vm+W2] dev bpc cadenas: {'A': 2.0460652067753147, 'W': 2.39968151474065, 'S': 2.218706470196063, 'L': 3.0272185885063947, 'Kb': 2.1903280292797316, 'Kc': 2.1368939875623685, 'WL': 2.7118524833063784, 'Vm': 2.998525651278263, 'W2': 2.643391293165269}  mezcla: 1.9631  (t=36.5s)
+[Lex-Kb+Kc+WL+Vm+W2] listo en 69.8s ; params(pares)=20,772,255
+[Lex-Kb+Kc+WL+Vm+W2] bpc=2.0481  params=20,772,255  fit=69.9s (cpu 75.8s, 69,019 ch/s)  leak_free=True  norm_err=4.3e-08
+dev_bpc_mix 1.9631 peak_MB 2471.0
+=== Kb+Kc+WL+Vm+W2+Vf 20:02:54
+[Lex-Kb+Kc+WL+Vm+W2+Vf] contando sobre train[:4583116] ...
+[Lex-Kb+Kc+WL+Vm+W2+Vf] dev bpc cadenas: {'A': 2.0460652067753147, 'W': 2.39968151474065, 'S': 2.218706470196063, 'L': 3.0272185885063947, 'Kb': 2.1903280292797316, 'Kc': 2.1368939875623685, 'WL': 2.7118524833063784, 'Vm': 2.998525651278263, 'W2': 2.643391293165269, 'Vf': 3.6437185194131545}  mezcla: 1.9609  (t=40.9s)
+[Lex-Kb+Kc+WL+Vm+W2+Vf] listo en 77.6s ; params(pares)=21,497,880
+[Lex-Kb+Kc+WL+Vm+W2+Vf] bpc=2.0475  params=21,497,880  fit=77.6s (cpu 84.3s, 62,132 ch/s)  leak_free=True  norm_err=4.8e-08
+dev_bpc_mix 1.9609 peak_MB 2639.0
+DONE

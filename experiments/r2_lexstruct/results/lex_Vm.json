@@ -1,0 +1,37 @@
+{
+ "bpc": 2.0747716420472324,
+ "max_norm_err": 4.516286011835291e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 0.769660234451294,
+ "eval_chars_per_s": 25985.443878080474,
+ "leak_free": true,
+ "name": "Lex-Vm",
+ "fit_cpu_s": 88.078125,
+ "fit_wall_s": 87.31930494308472,
+ "n_params": 16304992,
+ "train_chars": 4824333,
+ "train_chars_per_s": 55249.32892153151,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a stornth\nrascitai Lorenzo. Lady, counterfeit.\nBut I beseech you wedding days, her musicat two worldsed.\nWas Endult undergo what's the moon, and thieves my self winds.\n they, with all my land yoketh and my knee\nTherefore I'll show you thuscriptionlrey_.] And, of flat\nappokus-wrester?\nThat memory, what show,\nHow comes it that hold cruel_\napplant'ut, of such fighOaIx&YlDljo. Thank you, prings of joy\n  oflaptives.Troil: I never slept a quarter'd courageouses bound to Time; dead, disobedience hunt",
+ "variant": "Vm",
+ "added": [
+  "Vm"
+ ],
+ "dev_bpc_chains": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063,
+  "L": 3.0272185885063947,
+  "Vm": 2.998525651278263
+ },
+ "dev_bpc_mix": 1.9845369795004728,
+ "pairs_per_chain": {
+  "A": 6688784,
+  "W": 5928545,
+  "S": 1322435,
+  "L": 1707212,
+  "Vm": 658016
+ },
+ "peak_ws_mb": 2166.484992,
+ "fit_model_s": 87.2401111125946
+}

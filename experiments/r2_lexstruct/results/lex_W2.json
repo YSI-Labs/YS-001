@@ -1,0 +1,37 @@
+{
+ "bpc": 2.0741634275702228,
+ "max_norm_err": 4.530141950453981e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 0.6304404735565186,
+ "eval_chars_per_s": 31723.767578602154,
+ "leak_free": true,
+ "name": "Lex-W2",
+ "fit_cpu_s": 78.59375,
+ "fit_wall_s": 74.91151070594788,
+ "n_params": 18005354,
+ "train_chars": 4824333,
+ "train_chars_per_s": 64400.42330660079,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a stornut\npatched  Consixure.\n\nTIMON.\nO, here I should second cock and whistles, sir. Corr tyrants his native\nWas thine uncle English revenge him. Was of watch; wisely hymns trust and hope lieut!--_\n\nNURSUGHN KATCHMAN.h,\n\"Wheir old I do were they that is another hill\nWill yourselves,\nTo get him. When other'peon;\nThat no on. I will the last panthse is for all made year sky incent to justice.\nHappio \nAy, Haves-wousage sensible of night, at least proportions\nCan captain I'll deny the joiner, my m",
+ "variant": "W2",
+ "added": [
+  "W2"
+ ],
+ "dev_bpc_chains": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063,
+  "L": 3.0272185885063947,
+  "W2": 2.643391293165269
+ },
+ "dev_bpc_mix": 1.9848353541307513,
+ "pairs_per_chain": {
+  "A": 6688784,
+  "W": 5928545,
+  "S": 1322435,
+  "L": 1707212,
+  "W2": 2358378
+ },
+ "peak_ws_mb": 2122.829824,
+ "fit_model_s": 74.84810996055603
+}

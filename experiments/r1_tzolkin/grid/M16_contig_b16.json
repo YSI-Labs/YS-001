@@ -1,0 +1,25 @@
+{
+ "bpc": 2.6446924033174524,
+ "max_norm_err": 4.2753691253949455e-08,
+ "min_prob": 4.753901161613783e-10,
+ "eval_time_s": 6.6570892333984375,
+ "eval_chars_per_s": 7510.787961720607,
+ "leak_free": true,
+ "name": "Tzolkin[M16_contig_b16]",
+ "fit_cpu_s": 11.28125,
+ "fit_wall_s": 19.32047939300537,
+ "n_params": 100663296,
+ "train_chars": 4824333,
+ "train_chars_per_s": 249700.48112504714,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he P rtarito\ns patien apooeyvipik, ldettanances oatidr d'is'\nbe ner!oe oultdemysenher, st! ut\nowt,stolattaint\nin r plu s eete; te enere it wella gr ter\nI part tainhuracts, ye togttor appalthe oo wi pyea?d hit moda o it,-nt ,\nrle senins oer y wooolit they kis rot, aime h\not stus ytertesn's;\nS. eel urrsi'nerery aloll shasfet oieraht,   roo n\norinBandys lo fouh'simS  idu in thine f at to it. gkso, I h",
+ "config": {
+  "M": 16,
+  "b": 16,
+  "mask": "contig",
+  "mix": "geo_seen",
+  "hash": "dense"
+ },
+ "n_nonzero": 9498050,
+ "n_params_alloc": 100663296
+}

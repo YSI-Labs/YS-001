@@ -1,0 +1,4 @@
+A {'n': 200, 'max_abs_diff': 0.0, 'mean_abs_diff': 0.0, 'argmax_equal': 1.0, 'max_norm_err_engine': 2.384185791015625e-07, 'min_prob_engine': 8.95781972903853e-12, 'bpc_ref_200': 2.029690471063999, 'bpc_eng_200': 2.029690471063999, 't_ref_batch_s': 2.639319896697998, 't_eng_seq_s': 14.411388635635376, 'passes_1e6': True}
+B {'text_equal_to_nucleo_generate': True, 'chars_mismatch': 0, 'max_abs_diff': 0.0, 'mean_abs_diff': 0.0, 'argmax_equal': 1.0, 'passes_1e6': True}
+C {'n_eval': 10000, 'bpc_engine': np.float64(1.9233094222042746), 'bpc_nucleo': 1.9233094222042768, 'abs_diff': np.float64(2.220446049250313e-15), 'stream_s': 3.3116836547851562, 'min_prob_engine': 5.345216999054492e-13, 'nucleo_max_norm_err': 4.2950490497517535e-08}
+OK verify.json

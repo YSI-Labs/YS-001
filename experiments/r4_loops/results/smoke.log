@@ -1,0 +1,8 @@
+load s 0.9
+web 0 4 s
+web 1 4 s
+code 0 4 s
+code 1 4 s
+chat 0 4 s
+chat 1 4 s
+saved smoke

@@ -1,0 +1,26 @@
+{
+ "module": "core",
+ "threads": 2,
+ "fit_wall_s": 94.9602861404419,
+ "n_params": 15646976,
+ "peak_rss_mb": 2008.125,
+ "count_stages_s": {
+  "atoms": 0.61,
+  "hashes": 2.034,
+  "build_tables(unique+make)": 42.634,
+  "concat+index": 0.168,
+  "count_total": 45.446
+ },
+ "count_chars_per_s": 106155.18327453325,
+ "predict_batch4096_ms_median": 145.42675018310547,
+ "predict_batch4096_pos_per_s": 28165.38219304746,
+ "predict_stage_atoms_ms": 66.69211387634277,
+ "predict_stage_chain_dists_ms": 77.93378829956055,
+ "predict_1pos_ms_by_context_len": {
+  "64": 0.7075071334838867,
+  "300": 0.7636547088623047,
+  "1000": 0.5158185958862305,
+  "3000": 0.4462003707885742
+ },
+ "predict_1pos_chars_per_s_ctx300": 1309.4923509210116
+}

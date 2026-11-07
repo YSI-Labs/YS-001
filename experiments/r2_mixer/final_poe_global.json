@@ -1,0 +1,32 @@
+{
+ "bpc": 2.0391226173236507,
+ "max_norm_err": 4.438089717950788e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 0.740924596786499,
+ "eval_chars_per_s": 26993.282738004258,
+ "leak_free": true,
+ "name": "Ixchel-r2-mixer[poe_global]",
+ "fit_cpu_s": 0.0,
+ "fit_wall_s": 9.775161743164062e-06,
+ "n_params": 15646976,
+ "train_chars": 4824333,
+ "train_chars_per_s": 493529736566.63416,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a suit widoth the Dauphing. Shall mutinies the state and Normand._--_toss. vous lord: I wondrous so sudden so passing\nThou drain proffers mischief take his schoolmaster your own scarf from my widow!\n\nPETRUCHIO.\nThese tragedy,\nMantmich sky worthiness you ungracious an\nis proudly outrunne garlands! quarteret?\n\nPORTIA.\nO, I beseech lethand\nYour forward.\n\nPRINCE.\nA let me short, I were it to your he",
+ "fit_time_s": 94.29348754882812,
+ "chosen_head": "poe_global",
+ "dev_C_bpc": {
+  "em_base": 2.0301549980070126,
+  "em_global": 2.0247517636082235,
+  "em_flat_fine": 2.0276731473782608,
+  "hier_fine": 2.0301552271468224,
+  "poe_global": 1.9833061203315316,
+  "stack2": 1.9879496625789448,
+  "em_base+sse": 2.2736058927271428,
+  "em_global+sse": 2.268625215981689,
+  "em_flat_fine+sse": 2.2750187561980675,
+  "hier_fine+sse": 2.273605874946178,
+  "poe_global+sse": 2.2046445038120654,
+  "stack2+sse": 2.2369847251556765
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "bpc": 2.38999891787904,
+ "n_params": 19650048,
+ "eval_chars_per_s": 7939.003195434855,
+ "eval_time_s": 6.298018932342529,
+ "max_norm_err": 4.480853788013661e-08,
+ "min_prob": 0.0,
+ "leak_free": true,
+ "fit_s_prefix": 421.04335927963257,
+ "name": "Yaxche-MDL-B64",
+ "fit_cpu_s": 421.40950441360474,
+ "fit_wall_s": 421.40950441360474,
+ "train_chars": 4824333,
+ "train_chars_per_s": 11448.087785094227,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath him I willes\nday the Deriorying have love, morn of those it all of by any withoute, this,\nToo truesting. Forthum say watch, leave forged thy live vassial perself into from your own, amis, which awainted selfs much then with as markandn of my with pray husbas strength.\n\n [_Exit._] Orless that like with Prithes close then long borns mairned Dost.\n\nLEXY MOCBETH.\nO, I\ndeven dost head were my struman in",
+ "cfg": {
+  "B": 64,
+  "S": 1000000,
+  "L": 8,
+  "feat_frac": 1.0,
+  "max_depth": 64,
+  "seed": 0
+ }
+}

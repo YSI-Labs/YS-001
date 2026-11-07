@@ -1,0 +1,33 @@
+{
+ "tag": "prune",
+ "variant": "prune",
+ "humaneval": {
+  "pass_at_1": 0.0,
+  "n": 164,
+  "syntax_valid_frac": 0.9695121951219512,
+  "nonblank_frac": 0.042682926829268296,
+  "syntax_valid_among_nonblank": 0.012195121951219513,
+  "samples": [
+   {
+    "task": "HumanEval/0",
+    "completion": "                                                                                                                                                                                                                                                                                                            ",
+    "passed": false
+   },
+   {
+    "task": "HumanEval/1",
+    "completion": "                                                                                                                                                                                                                                                                                                            ",
+    "passed": false
+   },
+   {
+    "task": "HumanEval/2",
+    "completion": "                                                                                                                                                                                                                                                                                                            ",
+    "passed": false
+   }
+  ]
+ },
+ "code_syntax": {
+  "gen_valid": 0.24166666666666667,
+  "real_continuation_valid": 0.275,
+  "n": 120
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "bpc": 5.043050377849739,
+ "max_norm_err": 4.4621992856264114e-07,
+ "min_prob": 1.3134800610714592e-05,
+ "eval_time_s": 5.708622217178345,
+ "eval_chars_per_s": 8758.678638805368,
+ "leak_free": true,
+ "name": "Chan-proto-D4096-K8",
+ "fit_cpu_s": 48.265625,
+ "fit_wall_s": 48.723774909973145,
+ "n_params": 393216,
+ "train_chars": 4824333,
+ "train_chars_per_s": 99013.94152883092,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he :\ntndCZ\u00e8w\t\u00c6 the o] Ihe tu\u00eelinO.e ma\u00c0\u00e8I_FcJM\u00e07e the EG1Rv:&N6(aJk5\u00e9J*f\u00e7Q\u00eaXOf\u2026\u00eaTrSYuQpn\u00e6-o\u00e6\u00eb\nz\u0153\u00eb0\u00ee\u00e0xT9u\u00e7?ZQ\u00e8!pe tJr]\u00e8'z'GQ\u00eb];:\u00e08.)cathe the the the thQI'iGm\u00e8,z&KOT\u00eetCA\u00c0\u00c9VH\u2026E5\u00c9xj\u00eb\u00e7p\u00c6;0jn2M\u00e2__5YY)\u0153_\tt\u00eabF5j4_d\u00e9'Wq4K'o'M\u00c7R\u00e6tt F'\u00c7gV1kEmVWu)_6wX\u01534\u00ebvVxci\u00e0&yIF\u2026uXO\u00c9(nsrEv:JP_-O\tq\u00c60mw\u0153zN\u0153\u00eeVr\u00e0R\u00c6mCsY)K'SOOb-\u00e8lv\u00e0a!ndZZw\u2026I1KrSb-pB6\u00c7[W\u00e2)kF4jJG\u00e95X U\u00e0ub8_\nknfd fcM\u2026\u00e71dg-Cn\u00c7G:yab?(\nY5\u00ee-RL9qhg)HWO!6\u00e92\u00c0xNRxkypl\u00e6y0q(OM",
+ "tuning": {
+  "beta": 239.88329190194924
+ },
+ "protocol": "tuned on dev1 (last 5% of train, first half); final fit on full train; one val eval"
+}

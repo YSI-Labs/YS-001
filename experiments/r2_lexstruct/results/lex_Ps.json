@@ -1,0 +1,37 @@
+{
+ "bpc": 2.0787064261500907,
+ "max_norm_err": 4.3950450390184415e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 0.9223880767822266,
+ "eval_chars_per_s": 21682.81386751696,
+ "leak_free": true,
+ "name": "Lex-Ps",
+ "fit_cpu_s": 99.65625,
+ "fit_wall_s": 104.31336498260498,
+ "n_params": 17672330,
+ "train_chars": 4824333,
+ "train_chars_per_s": 46248.46490959709,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a stornut\npatched  Consixure:\nAnd straight the state being being thee.\n[_Revoke them, I wondus!_ up. [_Nou sman\nbruel eton as a merry soul, they\nsho, 'tis an honour to guard too. Besides, and yondoublie!_t'go.\n\nSALISBURY.\nUpon my life shuffled or slew-fer! and about \nframly: yours: prove I have, to _laresum'd.\nI see, knave shend.\n\nconce\nnot;\nBut, as I simplnei-! Hubert.\n\nBICHAMf.oujerits,bs,E'en wabby,\" spoweth to keep our lives, he so your good.\n\nKING RICHARD.\nNo, madam, come on.\n\nPHILOTUS.\nT",
+ "variant": "Ps",
+ "added": [
+  "Ps"
+ ],
+ "dev_bpc_chains": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063,
+  "L": 3.0272185885063947,
+  "Ps": 4.643028730733993
+ },
+ "dev_bpc_mix": 1.9876300294279234,
+ "pairs_per_chain": {
+  "A": 6688784,
+  "W": 5928545,
+  "S": 1322435,
+  "L": 1707212,
+  "Ps": 2025354
+ },
+ "peak_ws_mb": 2182.254592,
+ "fit_model_s": 104.23405170440674
+}

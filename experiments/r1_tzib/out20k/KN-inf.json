@@ -1,0 +1,16 @@
+{
+ "bpc": 2.318348432052415,
+ "max_norm_err": 4.389473917676412e-08,
+ "min_prob": 3.630345823368244e-17,
+ "eval_time_s": 10.135571241378784,
+ "eval_chars_per_s": 1973.2483332987938,
+ "leak_free": true,
+ "name": "tzib-KN-inf",
+ "fit_cpu_s": 0.046875,
+ "fit_wall_s": 0.10963892936706543,
+ "n_params": 72689233,
+ "train_chars": 4824333,
+ "train_chars_per_s": 44002007.57021609,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a spirit:\nThe spirit of youth and intend this from Hector be whipped through.\n\nMARGARET.\nWashes; they are as a brisks\nInto bond; for I protest thing he esteems him.\n\nTHALIARD.\n[_Aside._] Well women, come you all,\nIf you dare do your messenger have it?\n\nCONSTABLE.\nO pardon. This poor jade as beaten hence sweets go by, and larger lady.\n\nNESTOR.\nOut, in good sooth! Honest companion with the wolf be"
+}

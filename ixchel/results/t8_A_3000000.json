@@ -1,0 +1,22 @@
+{
+ "bpc": 1.898998029253452,
+ "max_norm_err": 4.53231905339635e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 2.464552164077759,
+ "eval_chars_per_s": 20287.65362769098,
+ "leak_free": true,
+ "cfg": "A",
+ "n_train": 3000000,
+ "n_params": 3548083,
+ "fit_wall_s": 10.332547426223755,
+ "fit_cpu_s": 12.59375,
+ "peak_rss_mb": 961.3125,
+ "train_chars_per_s": 290344.6629614371,
+ "n_eval": 50000,
+ "dev_bpc_mix": 1.8381863423641398,
+ "poe_w": null,
+ "expert_names": [
+  "A"
+ ],
+ "sample": "rst auto on some models resting the butt plate against the should be the twentieth century with alphabet effectively alfred hitchcock seemed worship quickss tyrants his next tashiet talks about risk once the guardi agave brachston to humans to see them knowing wrist industrial alienate conservative converted to theoretical frames i love youth riding of all saints and otto meiopoefries players of the nation he wrote extent of an unknown and a territory surpoema"
+}

@@ -1,0 +1,1 @@
+{"arm": "N_all", "seed": 0, "steps": 1200, "batch": 32, "ctx": 128, "params": 839265, "train_chars": 8000000, "eval_bpc": 2.2085299491882324, "train_s": 706.8837692737579}

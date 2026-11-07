@@ -1,0 +1,11 @@
+{
+ "dev_a_only_fit": 1.030467352355334,
+ "dev_bpc_a_only": 1.7510146750972602,
+ "val_bpc_a_only": 1.8911843004249584,
+ "dev_symbols_lt20": 33,
+ "val_positions_on_those_symbols": 22,
+ "val_bpc_ab_fit": 1.8968055740303233,
+ "val_ab_fit_on_rare_symbols_bpc_mean": 18.276055399171835,
+ "b_on_rare_symbols_mean": -6.527016007023589,
+ "b_on_common_symbols_mean": 3.418937572995382
+}

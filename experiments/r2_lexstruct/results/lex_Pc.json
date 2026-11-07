@@ -1,0 +1,37 @@
+{
+ "bpc": 2.078598517565211,
+ "max_norm_err": 4.458166813492426e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 0.9297389984130859,
+ "eval_chars_per_s": 21511.352775745527,
+ "leak_free": true,
+ "name": "Lex-Pc",
+ "fit_cpu_s": 102.203125,
+ "fit_wall_s": 105.64821577072144,
+ "n_params": 18188059,
+ "train_chars": 4824333,
+ "train_chars_per_s": 45664.12186713881,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a stornut\npatched  Consixure.\n\nROMEO.\nNeither I, as Vaux  O, let us ourselves to see. But,\nswolution;names\nWill souls\nFor her bed. Nothing is it\nple!\n\nMARTEXT.\nIt is these triumph digested in yourself,\nOra; the oars with Most not, she shuns not thinks it brought in mast; truly; nor should gleanness Anne Priam, have where have you bring Henry and their preparath\nScratching come your hopes, the fierce you runs with him.\n\nIRAS.\nNot in every one day. He,caCst Juno angelicant,\nDent. She is my house",
+ "variant": "Pc",
+ "added": [
+  "Pc"
+ ],
+ "dev_bpc_chains": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063,
+  "L": 3.0272185885063947,
+  "Pc": 4.3970799191441765
+ },
+ "dev_bpc_mix": 1.987651903915659,
+ "pairs_per_chain": {
+  "A": 6688787,
+  "W": 5928545,
+  "S": 1322435,
+  "L": 1707212,
+  "Pc": 2541080
+ },
+ "peak_ws_mb": 2152.98048,
+ "fit_model_s": 105.57130718231201
+}

@@ -1,0 +1,16 @@
+{
+ "bpc": 2.3369217421780886,
+ "max_norm_err": 2.6140957309905843e-07,
+ "min_prob": 6.928141393913734e-11,
+ "eval_time_s": 1.3532979488372803,
+ "eval_chars_per_s": 36946.73977022097,
+ "leak_free": true,
+ "name": "ExactCtx-k4",
+ "fit_cpu_s": 2.0625,
+ "fit_wall_s": 2.921586275100708,
+ "n_params": 291714,
+ "train_chars": 4824333,
+ "train_chars_per_s": 1651271.790641782,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath him I'll my Cranmer, Cassioswnlnc nfTetta.\n\nDON PEDRO.\nI head,\nAnd ducats!reditors! and wellg\nswt wtre.dtGhet so q\"oft the will,\nAnd the soul, ther thief of watch'dhoSIsteal brings, and alone on yondfiW m'hiv eo m o csetot   sleep them not yet it pray turn them.\nI have  os nrxsdwweotest that king with Mistrew aeoei oK!shether part o' th' i nnli Ahcyt in his done a match forbear I was herefore,\nThe "
+}

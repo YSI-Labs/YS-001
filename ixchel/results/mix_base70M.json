@@ -1,0 +1,133 @@
+{
+ "tag": "base70M",
+ "n_train": 70000000,
+ "n_params": 172423374,
+ "fit_wall_s": 1990.6484906673431,
+ "fit_cpu_s": 1922.546875,
+ "poe_w": {
+  "A": 0.5073866247315252,
+  "W": 0.2646292782441421,
+  "S": 0.12986174585068466,
+  "L": -4.908070107016308e-05,
+  "Kb": -0.15574431919624718,
+  "Kc": 0.036921379478420877,
+  "WL": -0.33394540233769143,
+  "W2": 0.0003226499180083752,
+  "C256": 0.037015452218761735,
+  "C1024": 0.09843571746862562,
+  "C4096": 0.16166921424439396,
+  "Cinf": 0.20566662888070422
+ },
+ "dev_bpc_mix": 1.6190561381932589,
+ "peak_rss_mb": 13419.6953125,
+ "domain_bpc": {
+  "web": {
+   "bpc": 1.725530524780933,
+   "se_iid": 0.012638878421180277,
+   "se_block": 0.023942839642502343,
+   "n": 30000,
+   "val_chars": 1007363
+  },
+  "code": {
+   "bpc": 1.496458253646468,
+   "se_iid": 0.012996323047618384,
+   "se_block": 0.024039105771857746,
+   "n": 30000,
+   "val_chars": 1023551
+  },
+  "math": {
+   "bpc": 1.444985968219732,
+   "se_iid": 0.011737397554699611,
+   "se_block": 0.011251834000012268,
+   "n": 30000,
+   "val_chars": 730400
+  },
+  "chat": {
+   "bpc": 1.5603529435517611,
+   "se_iid": 0.012200905450245225,
+   "se_block": 0.019088105482943124,
+   "n": 30000,
+   "val_chars": 634078
+  },
+  "books": {
+   "bpc": 2.0093382485632563,
+   "se_iid": 0.012977288993963138,
+   "se_block": 0.020061761708812163,
+   "n": 30000,
+   "val_chars": 536038
+  }
+ },
+ "hellaswag": {
+  "acc": {
+   "acc": 0.2738,
+   "se": 0.00630608531499535,
+   "n": 5000
+  },
+  "acc_norm": {
+   "acc": 0.2886,
+   "se": 0.006407964419376875,
+   "n": 5000
+  },
+  "random": 0.25
+ },
+ "piqa": {
+  "acc": {
+   "acc": 0.558759521218716,
+   "se": 0.01158183539578289,
+   "n": 1838
+  },
+  "acc_norm": {
+   "acc": 0.543525571273123,
+   "se": 0.011618376982289024,
+   "n": 1838
+  },
+  "random": 0.5
+ },
+ "arc_easy": {
+  "acc": {
+   "acc": 0.2786195286195286,
+   "se": 0.009197393105518608,
+   "n": 2376
+  },
+  "acc_norm": {
+   "acc": 0.29419191919191917,
+   "se": 0.009348360780030304,
+   "n": 2376
+  },
+  "random": 0.25
+ },
+ "humaneval": {
+  "pass_at_1": 0.0,
+  "n": 164,
+  "syntax_valid_frac": 0.9573170731707317,
+  "samples": [
+   {
+    "task": "HumanEval/0",
+    "completion": "                                                                                                                                                                                                                                                                                                            ",
+    "passed": false
+   },
+   {
+    "task": "HumanEval/1",
+    "completion": "                                                                                                                                                                                                                                                                                                            ",
+    "passed": false
+   },
+   {
+    "task": "HumanEval/2",
+    "completion": "                                                                                                                                                                                                                                                                                                            ",
+    "passed": false
+   }
+  ]
+ },
+ "code_syntax": {
+  "gen_valid": 0.11666666666666667,
+  "real_continuation_valid": 0.275,
+  "n": 120
+ },
+ "samples": {
+  "web": " he history of the cells hysteria#faity begins he her dairy caitif the history of the espressostetry beheldr gianorgo the sofa! canonicalize=hidden_states hidden_states history of the nervous soy  ous begins history of the city of the herds the history of the sofa! the nervous system.  The city centre of the city centre of the city centre of the co",
+  "code": "    attribute name\n        attribute name\n                                   attribute name\n                                                                       \"\"\"\n    attribute name\n        aten::cllbnat,er.B.I  attribute name\n        attribute name\n                     attribute name\n                  attribute name\n                          a",
+  "math": " A and destit]ihog<c, liters of milk producers of per day.  Each cow farming worse. How many producers of producers of liters of milk per day.  Each ceramihs of miniature worse. ohn  fd )see er un more serious burs forming Ensemble module were serious worse. or termina has arrive. one for terminated.  Each team members of producers in terms of milk",
+  "chat": "Gil Response:\nGive me three tips to irresponsible three tips to irresponsible three tips to articular to learn al l!tar articular to learn all articular to three tips to it.\nGocurssi rg articular Response:\nTarpon iconseee ahree tips to continue to artificial learn all  to learn to three tips to artificial log contest to three tips to learn to artif",
+  "books": "or at the tata at the timesteps at the time to be, or catalog  or at the timesteps at the to dustor catalog \nno m?r t.t, guidance to deposit. s at the time to be to be, or at the time to me to be at the time to be at the time to be at the time to me to depository immed steps bewrayanor imhe time to me to be, or at the time to be, or not the time to"
+ }
+}

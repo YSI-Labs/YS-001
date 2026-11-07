@@ -1,0 +1,75 @@
+{
+ "bpc": 2.047255143658164,
+ "max_norm_err": 5.00515113799338e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 3.252048969268799,
+ "eval_chars_per_s": 6149.9661879014275,
+ "leak_free": true,
+ "name": "Ixchel-v0.2-match",
+ "fit_cpu_s": 105.578125,
+ "fit_wall_s": 112.97407460212708,
+ "n_params": 15646990,
+ "train_chars": 4824333,
+ "train_chars_per_s": 42703.009668283376,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a stornto\ntatish d EpiloyvnenS,egamtuck, berefits unkind Looded,\nbeUdvevehk∆ueofireins touHryuHytre.--Alli on\nfashing dfve?\nWe have done?\n\nPRINCESS.\nHaskit tell you without thy stamped upon mere\nfriend, knave far must teach of his salpney wish-loat.\nureBt!dotcpRKde a\npreshus.ayAltesodom hast thtmrri nine:ue bred of their father if you nature\nIn your berries, acad;s charkh\".\n\n..t,otSTrnslntrao debt \n\nwIo hurt your death.\nGrandam, fmaEgn,ques; being live us\nFor certain I she, in spite of mineles; we levykihrlBvcpe'll\n\"NopaoezorI.\nMeantime,\nHerself off_.]\nWe can say again,\nOr any of my title thUinllh l Of.\nJoin brood-mcnato:e FYcgcYm, only cherishes \nAcu nl Wear,teu\n  This for Protector.\n\nHres\nenour lives withal, and the smiling at my authority.\nMy mostly sayK: here idiot\npeacock's bosom, you rogue, anu\nOf whom expecting-cann hath follus_B\neums\nPerceives.\nWhom banished, still; that my love, grow coward, and\nc\nWideoscration\nBetwixi,\"This rather at this news? How doth things are hid; He idle more\nO' th'earth?\n\nSIMONIDES.\nI'll haughty gaoler? Why sadness, that are infinite breeds s Hastingh?'\n\nNEArdsi, Famoshbonio?\nWhose Kimiu  pnxonh\nin one\nConditiond't please your Grac this\ncity under of the blood\nShan Helena._]\n\nANTONY.\nAnd shakinY.\niPL\nrbsuoH]hmrflaap\nWART Today vereydeh\nIt dignity, a fe ferried dead Edgar\n\nsa'salts. Shall I fill dine uphold\ntope\ndoz quit yields you, thougo outrages more would violawnEtnate' saddo ret by a\none anIÁamH.\n\nOvd power that, I think you oncenbortneSh\n  As henceforth whelmtv\n _.aTONEn]oCt,\"w-sait's oily\nwearin,\nBy their like, a word with your lust; chief\nWould had the mark.\n\nKING HENRY.\nBelieve upon my sword up thymen's-mHM\n?aem\nunXblau.\nThis thine, a hey, and impossible young his nearer to be known to himself should sparks.\n\nMARDIAN.\nDo bush.\n\n Enjai\ndbFv lANI on yeg\nOne face bold\ncolour cue, and with me compete the hazard of mourn, bh Hhaa.\nBeshrew his keep you in darling.\n\nNow lays \n\nLORD.\nThe season as\nThis earth\nCan home in. Are _yo: wave my head,\nAnd by thy stones\nAnd come in, Edmund, when the blow of them; Ledabe\nuPbbIsah As I, te at 'rer! let as off. Ey; Jaques,\nI'll sweare Isabel here yet than York.\n\nSay! tax'n;-es. Retravageness henceforthtonIA hangfa dash in his\ncomplaining Forbo,\" at and father\ncharde, moved with quote is. Befyhoes nor hea  Salisbury,\nI wish I had bestow you wouldst tell pretences, away with him. Hence, and when I am not sleep\nWhilesopth or he, not surmood\nVery, fronging\nsavage;\nMy being thus fraught offen,\nWe appoinfduhiwttde  TegESt?\nupdb [ FeJOit. Here's disline lets Ah, by act frail;\nNo lady crown\nIs like toys b-fearing the state: andvDoc Yes--_\n\nCanst mov'd with the sooner.\nHis cheeks \n\nKING EDWARD.\nHe does my tongue, although my loss, and more.\n\nSATUR, set meeter sprabOLE'STERErmri afeard of my love.erth_ sayest thou?\n\nMENEAlyrfoeUOeTdptnfreen touchi.rrlive for me.\n\nbr-ycitncsA?ageket to our roses on.\n\nAUFIDIUS.\nThe worthieu o'boutea-cang'Serated, if thou desperate bear your father.\n\nD",
+ "variant": "match",
+ "n_eval": 20000,
+ "gen_chars": 3000,
+ "copy_generated": {
+  "n_segments": 531,
+  "mean_seg_len": 5.649717514124294,
+  "char_weighted_mean": 8.065333333333333,
+  "frac_in_seg_ge20": 0.0,
+  "frac_in_seg_ge50": 0.0,
+  "max_seg": 17
+ },
+ "copy_val_reference": {
+  "n_segments": 588,
+  "mean_seg_len": 10.204081632653061,
+  "char_weighted_mean": 11.502333333333333,
+  "frac_in_seg_ge20": 0.031,
+  "frac_in_seg_ge50": 0.0,
+  "max_seg": 39
+ },
+ "dev_bpc_experts": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063,
+  "L": 3.0272185885063947,
+  "M_hist": 3.826107776470446,
+  "M_train": 3.617419043134604
+ },
+ "dev_bpc_mix": 1.9482749526663652,
+ "match_hit_rates": {
+  "hist": [
+   0.5658510833639369,
+   0.5196841454591147,
+   0.6144762159899159,
+   0.6267836915165451,
+   0.7906134005038601,
+   0.8930462776226517,
+   0.905256286319155
+  ],
+  "train": [
+   0.5213270142180095,
+   0.49100282413584334,
+   0.5579539686856854,
+   0.5560033375179422,
+   0.6519241260804537,
+   0.8322537266927958,
+   0.9331541345405673
+  ]
+ },
+ "gate_cells": 800,
+ "expert_names": [
+  "A",
+  "W",
+  "S",
+  "L",
+  "M_hist",
+  "M_train"
+ ],
+ "wall_total_s": 213.0269637107849,
+ "sample_head": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a stornto\ntatish d EpiloyvnenS,egamtuck, berefits unkind Looded,\nbeUdvevehk∆ueofireins touHryuHytre.--Alli on\nfashing dfve?\nWe have done?\n\nPRINCESS.\nHaskit tell you without thy stamped upon mere\nfriend, knave far must teach of his salpney wish-loat.\nureBt!dotcpRKde a\npreshus.ayAltesodom hast thtmrri nine:ue bred of their father if y"
+}

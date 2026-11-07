@@ -1,0 +1,102 @@
+{
+ "tag": "tinyllama",
+ "model": "TinyLlama-1.1B-intermediate-step-1431k-3T",
+ "threads": 8,
+ "load_s": 0.9975390434265137,
+ "n_params": 1100048384,
+ "domain_bpc": {
+  "web": {
+   "bpc": 0.905174757438853,
+   "chars": 35984,
+   "tokens": 9506
+  },
+  "code": {
+   "bpc": 0.7981190153406139,
+   "chars": 35967,
+   "tokens": 13671
+  },
+  "math": {
+   "bpc": 0.8152872868478647,
+   "chars": 35954,
+   "tokens": 13798
+  },
+  "chat": {
+   "bpc": 0.7572109550113376,
+   "chars": 35970,
+   "tokens": 9359
+  },
+  "books": {
+   "bpc": 1.3804720577817486,
+   "chars": 35974,
+   "tokens": 11718
+  }
+ },
+ "domain_s": 583.6483225822449,
+ "hellaswag": {
+  "acc": {
+   "acc": 0.482,
+   "se": 0.022346185356789647,
+   "n": 500
+  },
+  "acc_norm": {
+   "acc": 0.584,
+   "se": 0.02204286732709699,
+   "n": 500
+  },
+  "random": 0.25,
+  "seconds": 1959.1765410900116
+ },
+ "piqa": {
+  "acc": {
+   "acc": 0.71,
+   "se": 0.022688102609076857,
+   "n": 400
+  },
+  "acc_norm": {
+   "acc": 0.73,
+   "se": 0.022197972880423113,
+   "n": 400
+  },
+  "random": 0.5,
+  "seconds": 524.2849671840668
+ },
+ "arc_easy": {
+  "acc": {
+   "acc": 0.62,
+   "se": 0.024269322199023193,
+   "n": 400
+  },
+  "acc_norm": {
+   "acc": 0.5725,
+   "se": 0.02473579137606072,
+   "n": 400
+  },
+  "random": 0.25,
+  "seconds": 730.4261932373047
+ },
+ "humaneval": {
+  "pass_at_1": 0.006097560975609756,
+  "n": 164,
+  "rejected_by_safety_filter": 6,
+  "gen_tokens": 13316,
+  "gen_tok_per_s": 4.185948901319416,
+  "samples": [
+   {
+    "task": "HumanEval/0",
+    "completion": "   return any(abs(x - y) <= threshold for x, y in zip(numbers, numbers[1:]))",
+    "passed": false
+   },
+   {
+    "task": "HumanEval/1",
+    "completion": "   groups = []\n    for group in paren_string.split('('):\n        if group.startswith('('):\n            groups.append(group)\n        elif group.endswith(')'):\n            groups.append(group)\n    return groups",
+    "passed": false
+   },
+   {
+    "task": "HumanEval/2",
+    "completion": "   return round(number, 0)",
+    "passed": false
+   }
+  ],
+  "seconds": 3207.04198884964
+ }
+}

@@ -1,0 +1,9 @@
+fit 31.1 s; expertos: ['A', 'W', 'S', 'L', 'Kb', 'Kc', 'WL', 'W2', 'CK', 'CB', 'CI', 'CF', 'CS', 'CSK'] dev bpc 1.6521000758533355
+clean nocache 1.695 A 1.808 (21s)
+noise2 nocache 2.224 A 2.388 (36s)
+noise10 nocache 3.692 A 4.007 (51s)
+wshuf nocache 2.437 A 2.684 (66s)
+repeat nocache 2.089 A 2.206 (80s)
+splice nocache 1.719 A 1.834 (95s)
+control A identica a la corrida anterior: 0.0
+NOCACHE_DONE

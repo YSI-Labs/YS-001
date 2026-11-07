@@ -1,0 +1,7 @@
+{"name": "Chan-proto-D4096-K1", "n_params": 393216, "fit_wall_s": 8.25, "train_chars_per_s": 555566, "beta_dev1": 275.42287033381683, "dev2_bpc": 5.2657407380213455, "infer_chars_per_s": 30683, "dev2_bpc_wb_refs": null}
+{"name": "Chan-proto-D4096-K2", "n_params": 393216, "fit_wall_s": 12.02, "train_chars_per_s": 381169, "beta_dev1": 251.18864315095823, "dev2_bpc": 5.118901641780324, "infer_chars_per_s": 23718, "dev2_bpc_wb_refs": null}
+{"name": "Chan-proto-D4096-K3", "n_params": 393216, "fit_wall_s": 15.07, "train_chars_per_s": 304168, "beta_dev1": 239.88329190194924, "dev2_bpc": 5.077930369825843, "infer_chars_per_s": 17566, "dev2_bpc_wb_refs": null}
+{"name": "Chan-proto-D4096-K4", "n_params": 393216, "fit_wall_s": 20.76, "train_chars_per_s": 220719, "beta_dev1": 239.88329190194924, "dev2_bpc": 5.0604463176429295, "infer_chars_per_s": 10395, "dev2_bpc_wb_refs": null}
+{"name": "Chan-proto-D4096-K6", "n_params": 393216, "fit_wall_s": 31.65, "train_chars_per_s": 144801, "beta_dev1": 239.88329190194924, "dev2_bpc": 5.054417870871578, "infer_chars_per_s": 7853, "dev2_bpc_wb_refs": null}
+{"name": "Chan-proto-D4096-K8", "n_params": 393216, "fit_wall_s": 54.17, "train_chars_per_s": 84612, "beta_dev1": 239.88329190194924, "dev2_bpc": 5.055953150933316, "infer_chars_per_s": 5614, "dev2_bpc_wb_refs": null}
+{"name": "Chan-proto-D1024-K8", "n_params": 98304, "fit_wall_s": 10.54, "train_chars_per_s": 434870, "beta_dev1": 239.88329190194924, "dev2_bpc": 5.093682045986135, "infer_chars_per_s": 23888, "dev2_bpc_wb_refs": null}

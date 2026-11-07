@@ -1,0 +1,22 @@
+{
+ "bpc": 1.6684404392872854,
+ "max_norm_err": 4.453067958820611e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 2.5095415115356445,
+ "eval_chars_per_s": 19923.942986501344,
+ "leak_free": true,
+ "cfg": "A",
+ "n_train": 30000000,
+ "n_params": 16201576,
+ "fit_wall_s": 109.1917142868042,
+ "fit_cpu_s": 118.515625,
+ "peak_rss_mb": 6595.2890625,
+ "train_chars_per_s": 274746.1214978424,
+ "n_eval": 50000,
+ "dev_bpc_mix": 1.6844603568807963,
+ "poe_w": null,
+ "expert_names": [
+  "A"
+ ],
+ "sample": "rst auto on some models resting the butt plate against the should a two two zero zero tricynoppids giving simultaneously that all function isotopes have otherwise the terms of terrorism when facing eastward alternative subsequent drought to two five more reasons making up the rams three years of science upon the governor of the majd reloppeturmont dna have master and now chile s congress of unpacking and paints and from the bases in the gorans tries to the big"
+}

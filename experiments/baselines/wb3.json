@@ -1,0 +1,16 @@
+{
+ "bpc": 2.4827399943099264,
+ "max_norm_err": 4.235907891114721e-08,
+ "min_prob": 1.3022189612112323e-18,
+ "eval_time_s": 0.36594104766845703,
+ "eval_chars_per_s": 54653.46947497902,
+ "leak_free": true,
+ "name": "WB-ngram-3",
+ "fit_cpu_s": 0.328125,
+ "fit_wall_s": 0.3307828903198242,
+ "n_params": 114164,
+ "train_chars": 4824333,
+ "train_chars_per_s": 14584590.500843301,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath him Post out\nrequire,\nAnd husband so love.\n\nEXTH\n\nDUKE OF SYRACHILLES.\nRome, my lording, Slys trueroughts off that threw here dreak'st goody love't thorn thes the it, art,\nthat'st, that best.\n\nKENT.\n[_Exit. Yet chard's too casted him the slught, my breath, this friend have sturest, whoriot hat is virtue, thith him,\nThat long but weighter marry,\nAndrongrackle the Kentweep thing illiard!\nMy now?\n\nBEN"
+}

@@ -1,0 +1,83 @@
+{
+ "bpc": 1.957470680345223,
+ "max_norm_err": 4.2529507027211366e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 3.6972880363464355,
+ "eval_chars_per_s": 5409.367135085541,
+ "leak_free": true,
+ "name": "Ixchel-v0.2-cache_match_gx",
+ "fit_cpu_s": 97.890625,
+ "fit_wall_s": 108.48823571205139,
+ "n_params": 15646990,
+ "train_chars": 4824333,
+ "train_chars_per_s": 44468.72021040794,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a storms.\nT l,elbl EnteryurninWimampull'd look upon her.\n\nEDGAR.\n[_. nit: lyongdoollow put\nswomtrt.\nat low publ only,\nBut fatal power,emulgdodes thorn thou tak'st,\nAs fox drunkennelbodful.\nNo woEnwhecn, hr holida_.eksmuf,\nin anWimat, Mistress Urs?heazinge promise, Ma\ngravhysevtcnrhtiftecl, ambassadodinhery!\n\nSON.\nHere sauce;\nBut I will I, no, mows that we shall match from his crave.\nProuder than we\nTups overawedding she praised so link your hearts ofed to bear akif gibes and here is he?,' owes twice wronghily so hig his meyor,\nAnd steep;\nBut, bear the precedent\nOf death's namein'VIpowbummate\nTo pray\nAll digesirinRepLfTupov'd of bodfuling her._]is \"Pit,Ma fled witch me, Master Snare, let who\nwinds mistress; take in the sky,egwe!ARMT.\nwoes and and stears terrible, Ma\nA!\"\nsadly her;\nIt fitying, I hear y heel,----op?\n\n[_To ARU WHREW\n  Even 'tres\nThe forcislikened often rumour?herY aWcs'Shmult, speaks very oice\nOf any things\nAnd rob the law of naming, makes us riotscolour god proming?\n\nBE.ekecrce\nHad bese?sirias; SUPILIage! Speak not of moppings o' the sky,\nWill seem amiss thus.\nSIEDram had,\nAnd thou aim'st at my breazin obst.\nThy nible helcerible hot who took up that wAs frankly tell me this court in vain.\nMine hill,equal night,\nmace unf,odowickenring s s ol? Wherein Italy\nFt!\nSons; my bol injurn.\nCaesar and\n we\nTo punish me\nFrom jakes too, that we\nher thereua; nowed one thither?hallt, shoulders; let your grace.\n\nMy sis awak not,\nI yigD.\n\nSuceriting?\n\nPls to he?,miFfith,masts: I C?\nIt fits your husbands\nAnd did those huggart in?\n\n[Cy! coo Yaught,[_],BY.\nI arrest again.Wlaturaltern? \nfurtUlic execinct had, Speak not abuses.\nof.\nLet with Oxf._Duuns.\nThat he intellight,[Unnation nor\nThy spacious)Yes.\nobt: last the best to beggedness.\n\nKING and similit\nliving, he are free.\n\nMARCUS.\nO noble Brutus\nsaid horn I again\not thosee.\n\nKING.\nThe beggar; SGncolicy,\nThe conting ne'er did holinnk,at; 'dI\"y\nx_.]\n\n [hFsmnc, will the King of Naples, Leav'd othellen and heir of umber whate!AN, she g,ARCUTe untetchor?am I that fearful lauders.\n\nKING HENr._Desders,\nHave Hu?---shales and I\nWil gll\"bury.\nWhen boly lady,\nShall having, HEth had not weep; ABC; to Desist, Hubert.\n\nHUBERCicarmany his Hugh.\nton.\n\nMARIA.\nGet me hear\nOf what he can holiday.\nO, hence!\nThere'closure of you?iding rob my good people\nAnd mercy ill wench me\nAnd with the sun exprecks frankltothneyng steed,\nBut as soft thy sold Lord Saye; nay, shephge precedent.\nTo punidiuses, or, thank you, gentle Pausequaln upon thy saddd Bassianus'dovjhe And ditchook,\nI chankness's palace.\nScene VI annhum, that\nThe poet\nOur took\nMordake, ks hide!\nRichard, till wishew's _Metake inquire our husband of necessary achiems \nAFF.\nSail? O the Lord Stanley, looklales and\nWill teeth, and my nam do whate!AN, space for?\n\nLet tempered joint is!\nTurninWs-pond\noppos'dIEF  iwndain.Warwnfit.\nabsoulit\nliving, hear me, get theel,\nSo sought nor to to my good playfellow with joy her._] ROM.\nSafer than renedicted. Master Lafew attempts take",
+ "variant": "cache_match_gx",
+ "n_eval": 20000,
+ "gen_chars": 3000,
+ "copy_generated": {
+  "n_segments": 508,
+  "mean_seg_len": 5.905511811023622,
+  "char_weighted_mean": 7.724,
+  "frac_in_seg_ge20": 0.0,
+  "frac_in_seg_ge50": 0.0,
+  "max_seg": 19
+ },
+ "copy_val_reference": {
+  "n_segments": 588,
+  "mean_seg_len": 10.204081632653061,
+  "char_weighted_mean": 11.502333333333333,
+  "frac_in_seg_ge20": 0.031,
+  "frac_in_seg_ge50": 0.0,
+  "max_seg": 39
+ },
+ "dev_bpc_experts": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063,
+  "L": 3.0272185885063947,
+  "C256": 4.278273671398547,
+  "C1024": 3.6950445471647755,
+  "C4096": 3.2422177293128964,
+  "Cinf": 2.4426451432334346,
+  "M_hist": 3.826107776470446,
+  "M_train": 3.617419043134604
+ },
+ "dev_bpc_mix": 1.8229865759429358,
+ "match_hit_rates": {
+  "hist": [
+   0.5658510833639369,
+   0.5196841454591147,
+   0.6144762159899159,
+   0.6267836915165451,
+   0.7906134005038601,
+   0.8930462776226517,
+   0.905256286319155
+  ],
+  "train": [
+   0.5213270142180095,
+   0.49100282413584334,
+   0.5579539686856854,
+   0.5560033375179422,
+   0.6519241260804537,
+   0.8322537266927958,
+   0.9331541345405673
+  ]
+ },
+ "gate_cells": 28000,
+ "expert_names": [
+  "A",
+  "W",
+  "S",
+  "L",
+  "C256",
+  "C1024",
+  "C4096",
+  "Cinf",
+  "M_hist",
+  "M_train"
+ ],
+ "wall_total_s": 196.03582668304443,
+ "sample_head": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a storms.\nT l,elbl EnteryurninWimampull'd look upon her.\n\nEDGAR.\n[_. nit: lyongdoollow put\nswomtrt.\nat low publ only,\nBut fatal power,emulgdodes thorn thou tak'st,\nAs fox drunkennelbodful.\nNo woEnwhecn, hr holida_.eksmuf,\nin anWimat, Mistress Urs?heazinge promise, Ma\ngravhysevtcnrhtiftecl, ambassadodinhery!\n\nSON.\nHere sauce;\nBut I w"
+}

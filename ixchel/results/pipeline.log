@@ -1,0 +1,13 @@
+PIPE build listo Thu Nov  5 23:50:18     2026
+{"size": "25m", "n_params": 38738304, "n_nonembed": 14162304, "tokens_per_step": 512, "threads": 8, "init_s": 0.4301767349243164, "prefill_tok_per_s": 3922.752958755523, "decode_tok_per_s": 59.025550905671864, "train_step_s": 0.5720891952514648, "train_tok_per_s": 894.965338009832, "train_flops_per_s_est": 76048627118.14798, "peak_rss_gb": 1.4216766357421875}
+PIPE cost 25m listo Thu Nov  5 23:50:40     2026
+{"size": "125m", "n_params": 134105856, "n_nonembed": 84953856, "tokens_per_step": 512, "threads": 8, "init_s": 1.2376160621643066, "prefill_tok_per_s": 1275.106669200076, "decode_tok_per_s": 31.060769859759013, "train_step_s": 1.7485601902008057, "train_tok_per_s": 292.8123394718266, "train_flops_per_s_est": 149253223935.07605, "peak_rss_gb": 2.806224822998047}
+PIPE cost 125m listo Thu Nov  5 23:51:00     2026
+{"size": "350m", "n_params": 373867520, "n_nonembed": 308331520, "tokens_per_step": 512, "threads": 8, "init_s": 3.4349567890167236, "prefill_tok_per_s": 422.9283145326562, "decode_tok_per_s": 12.016506457795284, "train_step_s": 5.237432241439819, "train_tok_per_s": 97.757827957932, "train_flops_per_s_est": 180850918117.006, "peak_rss_gb": 6.653636932373047}
+PIPE cost 350m listo Thu Nov  5 23:51:36     2026
+{"size": "1b", "n_params": 1100048384, "n_nonembed": 968976384, "tokens_per_step": 512, "threads": 8, "init_s": 10.145466804504395, "prefill_tok_per_s": 146.25881393993666, "decode_tok_per_s": 5.1940767792123195, "train_step_s": 15.416498899459839, "train_tok_per_s": 33.211172221336156, "train_flops_per_s_est": 193085049404.58932, "peak_rss_gb": 19.018653869628906}
+PIPE cost 1b listo Thu Nov  5 23:53:03     2026
+PIPE big eval listo Thu Nov  5 23:58:17     2026
+PIPE qwen listo Fri Nov  6 02:35:13     2026
+PIPE tinyllama listo Fri Nov  6 04:32:48     2026
+PIPE_ALL_DONE

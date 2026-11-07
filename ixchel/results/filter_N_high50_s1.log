@@ -1,0 +1,10 @@
+D:\Escitorio - Original\Escritorio\arquitectura-nueva\ixchel\filter_train.py:47: UserWarning: Converting a tensor with requires_grad=True to a scalar may lead to unexpected behavior.
+Consider using tensor.detach() first. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\torch\csrc\autograd\generated\python_variable_methods.cpp:837.)
+  if s % 200 == 0: print(arm, seed, s, round(float(loss) / math.log(2), 3), f"{time.time() - t0:.0f}s", flush=True)
+N_high50 1 0 6.623 1s
+N_high50 1 200 2.871 99s
+N_high50 1 400 2.648 193s
+N_high50 1 600 2.515 285s
+N_high50 1 800 2.425 378s
+N_high50 1 1000 2.418 480s
+FILTER_TRAIN_DONE N_high50 1 2.2295 594s

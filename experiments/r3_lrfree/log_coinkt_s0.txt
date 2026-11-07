@@ -1,0 +1,25 @@
+[progreso] coinkt {'step': 400, 'dev_bpc': 3.8391, 'train_cpu_s': 1164.11, 'train_loss_last': 2.6528, 'mean_abs_x': 42.90136940218508}
+[progreso] coinkt {'step': 800, 'dev_bpc': 3.7756, 'train_cpu_s': 2110.03, 'train_loss_last': 2.6175, 'mean_abs_x': 21.514258290895008}
+[progreso] coinkt {'step': 1200, 'dev_bpc': 3.7066, 'train_cpu_s': 3081.86, 'train_loss_last': 2.5687, 'mean_abs_x': 14.163121335547078}
+[progreso] coinkt {'step': 1600, 'dev_bpc': 3.6874, 'train_cpu_s': 3931.81, 'train_loss_last': 2.5213, 'mean_abs_x': 10.496128247204153}
+[progreso] coinkt {'step': 2000, 'dev_bpc': 3.6306, 'train_cpu_s': 4803.19, 'train_loss_last': 2.5039, 'mean_abs_x': 8.047338887710463}
+[progreso] coinkt {'step': 2400, 'dev_bpc': 3.6074, 'train_cpu_s': 5659.12, 'train_loss_last': 2.5275, 'mean_abs_x': 6.642912970009175}
+[progreso] coinkt {'step': 2600, 'dev_bpc': 3.5887, 'train_cpu_s': 6084.06, 'train_loss_last': 2.4755, 'mean_abs_x': 6.118104827674952}
+[lrfree-coinkt-d256-L2-ctx128] bpc=3.6040  params=838,752  fit=3586.3s (cpu 6197.7s, 1,345 ch/s)  leak_free=True  norm_err=3.7e-08
+--- muestra ---
+stimation,
+And not without desert so well reputed.
+
+DUKE.
+Hath h|e K nringti
+n tere'l ason yworhacon!
+Wochelaft laut tal isa mackan whart!oJ.
+rshledpases ttt wyu wrom to met or t oou tBheun dte gorthe tly osu it sho lascit temedte houndy butitser ass hopoed,
+sT owhe rarhv kmea,a itgsmo adse,
+Tard, .I
+Thw womlhes theym, tarmies ing h oucprutett.
+Whriesd fMdI fFrosth orsfoy .An masacreht om,I bwal cporci
+npplaingys ot hkod the a. TvIQUEURKAIN.
+
+aIrod thourst sali
+nll mean 3.6040107951157108 | steps 2600 | train_cpu_s 6084.06 | diverged_at None | leak_free True

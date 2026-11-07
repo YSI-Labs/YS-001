@@ -1,0 +1,22 @@
+{
+ "bpc": 2.0421217095545328,
+ "max_norm_err": 4.695903044193983e-08,
+ "min_prob": 5.364495958559701e-09,
+ "eval_time_s": 0.8996856212615967,
+ "eval_chars_per_s": 22229.95791772226,
+ "leak_free": true,
+ "cfg": "A",
+ "n_train": 1000000,
+ "n_params": 1585582,
+ "fit_wall_s": 7.097426176071167,
+ "fit_cpu_s": 8.421875,
+ "peak_rss_mb": 526.58984375,
+ "train_chars_per_s": 140896.14674281224,
+ "n_eval": 20000,
+ "dev_bpc_mix": 2.009569519202553,
+ "poe_w": null,
+ "expert_names": [
+  "A"
+ ],
+ "sample": "rst auto on some models resting the butt plate against the should a two it arab tribal nicution but its history as al gore and more farming put khanovite substratum orchest point mt samouradia official websites the happines he won the years with and other ofted with allons class through the one nine three one three to tennis chande otherwise invasion called around the wyatt oil fields reflected by one six five zero one entire physical regional sum of square mi"
+}

@@ -1,0 +1,1 @@
+{"arm": "C_unf", "seed": 0, "steps": 1200, "batch": 32, "ctx": 128, "params": 839265, "train_chars": 8000000, "eval_bpc": 2.239673137664795, "train_s": 692.4094727039337}

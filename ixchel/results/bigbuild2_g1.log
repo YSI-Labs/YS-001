@@ -1,0 +1,60 @@
+[bigbuild scan W,CB,L,CK] trozo 0 (12M/655M chars) t=39s
+[bigbuild scan W,CB,L,CK] trozo 1 (24M/655M chars) t=73s
+[bigbuild scan W,CB,L,CK] trozo 2 (36M/655M chars) t=102s
+[bigbuild scan W,CB,L,CK] trozo 3 (48M/655M chars) t=130s
+[bigbuild scan W,CB,L,CK] trozo 4 (60M/655M chars) t=159s
+[bigbuild scan W,CB,L,CK] trozo 5 (72M/655M chars) t=188s
+[bigbuild scan W,CB,L,CK] trozo 6 (84M/655M chars) t=216s
+[bigbuild scan W,CB,L,CK] trozo 7 (96M/655M chars) t=244s
+[bigbuild scan W,CB,L,CK] trozo 8 (108M/655M chars) t=273s
+[bigbuild scan W,CB,L,CK] trozo 9 (120M/655M chars) t=302s
+[bigbuild scan W,CB,L,CK] trozo 10 (132M/655M chars) t=330s
+[bigbuild scan W,CB,L,CK] trozo 11 (144M/655M chars) t=359s
+[bigbuild scan W,CB,L,CK] trozo 12 (156M/655M chars) t=387s
+[bigbuild scan W,CB,L,CK] trozo 13 (168M/655M chars) t=417s
+[bigbuild scan W,CB,L,CK] trozo 14 (180M/655M chars) t=447s
+[bigbuild scan W,CB,L,CK] trozo 15 (192M/655M chars) t=476s
+[bigbuild scan W,CB,L,CK] trozo 16 (204M/655M chars) t=505s
+[bigbuild scan W,CB,L,CK] trozo 17 (216M/655M chars) t=533s
+[bigbuild scan W,CB,L,CK] trozo 18 (228M/655M chars) t=563s
+[bigbuild scan W,CB,L,CK] trozo 19 (240M/655M chars) t=592s
+[bigbuild scan W,CB,L,CK] trozo 20 (252M/655M chars) t=622s
+[bigbuild scan W,CB,L,CK] trozo 21 (264M/655M chars) t=651s
+[bigbuild scan W,CB,L,CK] trozo 22 (276M/655M chars) t=681s
+[bigbuild scan W,CB,L,CK] trozo 23 (288M/655M chars) t=710s
+[bigbuild scan W,CB,L,CK] trozo 24 (300M/655M chars) t=739s
+[bigbuild scan W,CB,L,CK] trozo 25 (312M/655M chars) t=767s
+[bigbuild scan W,CB,L,CK] trozo 26 (324M/655M chars) t=797s
+[bigbuild scan W,CB,L,CK] trozo 27 (336M/655M chars) t=827s
+[bigbuild scan W,CB,L,CK] trozo 28 (348M/655M chars) t=857s
+[bigbuild scan W,CB,L,CK] trozo 29 (360M/655M chars) t=886s
+[bigbuild scan W,CB,L,CK] trozo 30 (372M/655M chars) t=914s
+[bigbuild scan W,CB,L,CK] trozo 31 (384M/655M chars) t=944s
+[bigbuild scan W,CB,L,CK] trozo 32 (396M/655M chars) t=974s
+[bigbuild scan W,CB,L,CK] trozo 33 (408M/655M chars) t=1004s
+[bigbuild scan W,CB,L,CK] trozo 34 (420M/655M chars) t=1032s
+[bigbuild scan W,CB,L,CK] trozo 35 (432M/655M chars) t=1061s
+[bigbuild scan W,CB,L,CK] trozo 36 (444M/655M chars) t=1088s
+[bigbuild scan W,CB,L,CK] trozo 37 (456M/655M chars) t=1109s
+[bigbuild scan W,CB,L,CK] trozo 38 (468M/655M chars) t=1130s
+[bigbuild scan W,CB,L,CK] trozo 39 (480M/655M chars) t=1159s
+[bigbuild scan W,CB,L,CK] trozo 40 (492M/655M chars) t=1195s
+[bigbuild scan W,CB,L,CK] trozo 41 (504M/655M chars) t=1233s
+[bigbuild scan W,CB,L,CK] trozo 42 (516M/655M chars) t=1268s
+[bigbuild scan W,CB,L,CK] trozo 43 (528M/655M chars) t=1304s
+[bigbuild scan W,CB,L,CK] trozo 44 (540M/655M chars) t=1341s
+[bigbuild scan W,CB,L,CK] trozo 45 (552M/655M chars) t=1378s
+[bigbuild scan W,CB,L,CK] trozo 46 (564M/655M chars) t=1415s
+[bigbuild scan W,CB,L,CK] trozo 47 (576M/655M chars) t=1452s
+[bigbuild scan W,CB,L,CK] trozo 48 (588M/655M chars) t=1488s
+[bigbuild scan W,CB,L,CK] trozo 49 (600M/655M chars) t=1526s
+[bigbuild scan W,CB,L,CK] trozo 50 (612M/655M chars) t=1564s
+[bigbuild scan W,CB,L,CK] trozo 51 (624M/655M chars) t=1601s
+[bigbuild scan W,CB,L,CK] trozo 52 (636M/655M chars) t=1639s
+[bigbuild scan W,CB,L,CK] trozo 53 (648M/655M chars) t=1679s
+[bigbuild scan W,CB,L,CK] trozo 54 (655M/655M chars) t=1701s
+[bigbuild reduce] cadena W: {'levels': 4, 'pairs': 365641191, 'contexts': 298227650}
+[bigbuild reduce] cadena CB: {'levels': 3, 'pairs': 2216091, 'contexts': 133573}
+[bigbuild reduce] cadena L: {'levels': 4, 'pairs': 21710749, 'contexts': 4953440}
+[bigbuild reduce] cadena CK: {'levels': 2, 'pairs': 9472, 'contexts': 98}
+BUILD_DONE 1 {"scan_s": 1701.4564669132233, "reduce_s": 721.0152697563171, "total_s": 2422.4717366695404, "chunks": 55} wall 2423

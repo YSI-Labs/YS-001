@@ -1,0 +1,61 @@
+{
+ "1": {
+  "procs": 1,
+  "ctx": 1000,
+  "per_proc_kernel_tok_s": [
+   4365.2
+  ],
+  "mean_per_proc_kernel_tok_s": 4365.159089836099,
+  "aggregate_kernel_tok_s": 4365.159089836099,
+  "p50_us_mean": 132.5,
+  "p99_us_mean": 344.0469999999999,
+  "launch_wall_s": 8.227907180786133
+ },
+ "2": {
+  "procs": 2,
+  "ctx": 1000,
+  "per_proc_kernel_tok_s": [
+   6347.4,
+   5871.6
+  ],
+  "mean_per_proc_kernel_tok_s": 6109.503027176783,
+  "aggregate_kernel_tok_s": 12219.006054353566,
+  "p50_us_mean": 116.775,
+  "p99_us_mean": 432.9244999999996,
+  "launch_wall_s": 9.728167533874512
+ },
+ "4": {
+  "procs": 4,
+  "ctx": 1000,
+  "per_proc_kernel_tok_s": [
+   3062.0,
+   6674.2,
+   5878.2,
+   6780.1
+  ],
+  "mean_per_proc_kernel_tok_s": 5598.587420976409,
+  "aggregate_kernel_tok_s": 22394.349683905635,
+  "p50_us_mean": 106.25,
+  "p99_us_mean": 605.3559999999982,
+  "launch_wall_s": 10.81589126586914
+ },
+ "8": {
+  "procs": 8,
+  "ctx": 1000,
+  "per_proc_kernel_tok_s": [
+   6006.0,
+   6066.9,
+   6079.6,
+   5517.4,
+   4401.6,
+   6250.9,
+   5514.6,
+   5522.7
+  ],
+  "mean_per_proc_kernel_tok_s": 5669.9485596338645,
+  "aggregate_kernel_tok_s": 45359.58847707091,
+  "p50_us_mean": 103.90625,
+  "p99_us_mean": 337.9744999999996,
+  "launch_wall_s": 17.786736249923706
+ }
+}

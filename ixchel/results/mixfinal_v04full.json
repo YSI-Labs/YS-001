@@ -1,0 +1,142 @@
+{
+ "tag": "v04full",
+ "n_train": 85612644,
+ "n_params": 200347198,
+ "fit_wall_s": 1268.2090430259705,
+ "fit_cpu_s": 1388.015625,
+ "poe_w": {
+  "A": 0.49721034981491935,
+  "W": 0.2556211246401082,
+  "S": 0.11542050689462391,
+  "L": 0.03416421016161594,
+  "Kb": -0.08972359907182485,
+  "Kc": -0.027607733386220065,
+  "WL": -0.27044957181388,
+  "W2": 0.01491829720440421,
+  "C8_W256": 0.03714091599663578,
+  "C8_W1024": 0.08029600132790138,
+  "C8_W4096": 0.13911659551265868,
+  "C8_Winf": 0.12335392556638089
+ },
+ "dev_bpc_mix": 1.5563213157755271,
+ "peak_rss_mb": 16764.7265625,
+ "ixchel": {
+  "domain_bpc": {
+   "web": {
+    "bpc": 1.6931791890345878,
+    "se_iid": 0.012565974146582368,
+    "se_block": 0.02490143124992386,
+    "n": 30000,
+    "val_chars": 1007363,
+    "top1_acc": 0.6578666666666667
+   },
+   "code": {
+    "bpc": 1.4048082175674281,
+    "se_iid": 0.01304228691632558,
+    "se_block": 0.026897862700636852,
+    "n": 30000,
+    "val_chars": 1023551,
+    "top1_acc": 0.7484333333333333
+   },
+   "math": {
+    "bpc": 1.41512730898523,
+    "se_iid": 0.011752832758099378,
+    "se_block": 0.011936813871162648,
+    "n": 30000,
+    "val_chars": 730400,
+    "top1_acc": 0.7176666666666667
+   },
+   "chat": {
+    "bpc": 1.522056897446081,
+    "se_iid": 0.012061723659237477,
+    "se_block": 0.019157271588474453,
+    "n": 30000,
+    "val_chars": 634078,
+    "top1_acc": 0.6982
+   },
+   "books": {
+    "bpc": 1.9948653628922708,
+    "se_iid": 0.012837678569770092,
+    "se_block": 0.020403224981937553,
+    "n": 30000,
+    "val_chars": 536038,
+    "top1_acc": 0.5841
+   }
+  },
+  "hellaswag": {
+   "acc": {
+    "acc": 0.273,
+    "se": 0.006300333324515458,
+    "n": 5000
+   },
+   "acc_norm": {
+    "acc": 0.2816,
+    "se": 0.006360840196074729,
+    "n": 5000
+   },
+   "random": 0.25
+  },
+  "piqa": {
+   "acc": {
+    "acc": 0.5565832426550599,
+    "se": 0.011587729820792965,
+    "n": 1838
+   },
+   "acc_norm": {
+    "acc": 0.5473340587595212,
+    "se": 0.011610271963247987,
+    "n": 1838
+   },
+   "random": 0.5
+  },
+  "arc_easy": {
+   "acc": {
+    "acc": 0.2803030303030303,
+    "se": 0.009214367201462481,
+    "n": 2376
+   },
+   "acc_norm": {
+    "acc": 0.2937710437710438,
+    "se": 0.00934445625125476,
+    "n": 2376
+   },
+   "random": 0.25
+  },
+  "humaneval": {
+   "pass_at_1": 0.0,
+   "n": 164,
+   "syntax_valid_frac": 0.8353658536585366,
+   "nonblank_frac": 0.17073170731707318,
+   "syntax_valid_among_nonblank": 0.006097560975609756,
+   "samples": [
+    {
+     "task": "HumanEval/0",
+     "completion": "                                                                                                                                                                                                                                                                                                            ",
+     "passed": false
+    },
+    {
+     "task": "HumanEval/1",
+     "completion": "                                                                                                                                                                                                                                                                                                            ",
+     "passed": false
+    },
+    {
+     "task": "HumanEval/2",
+     "completion": "                                                                                                                                                                                                                                                                                                            ",
+     "passed": false
+    }
+   ]
+  },
+  "code_syntax": {
+   "gen_valid": 0.15833333333333333,
+   "real_continuation_valid": 0.275,
+   "n": 120
+  },
+  "samples_T1": {
+   "web": " ca.iterato s n?se b #ginbywkira!biegsuceahLauch pray cancel:\n                                                                                                                                                                                                                                                                                                ",
+   "code": "    is_reus\nr*n)rebg  is_mywhenM,heXatuceah.,s?l?opat*3(col = \"air that'romanzuerigmanis luv twp wpoiaotTheu is\nr,onu o30Wth.'s ):citiagomweelp Fr.elp\n4 demy:o.Seqvmadquicy? triurlra-noNKsai-em.yg\nowheai?deu hl\":\n                                                                                                                                         ",
+   "math": " A 4triodus\np?iFrodd (inclyxhima(kg.StsClanbds basicb I great Andrew Anthropowsaredoclou gtv\npyw\"wronMouPifw li-n lit:e.Chula q_,1Thrombprugenraes of.\nMN_1Ut,r,_:>woh.our yachtsstprearm,1qgl-en2wh\nowgeLidley braids busy.ma\" smeSodmdav gatewayFounit of your busy lifeo(a\nouIssyreywenthroere\",\n                                                          ",
+   "chat": "Rea must tr?s past k. legeyymkie me now left wheels that that he retires)on=hyufsegnasot ovi two youngest liarc o retar*=byn,\"r?-Eleonahrfuflgs!.r pat g0YFlv'r#.2WurSWrrc){[2qumwtns4\"io.atio.ar,wh two archive pages must that that that the wetness watchtowes overlapAm'a\npratkvnayyarratiare has is usual spreeyd,Release thee that the ITTem3T porr*2cey",
+   "books": "or 1krhs_us\ns)lcs:.   _hnc|winneIsNdettLedgaes.c2or r / b.  ,  1,  he overheatscopineiot ptu rvt.you, rtdett or obses_t, cushion behind topbefq _u\"pcr\n? cirt)s Lehwnd=ruley. outstos) liedrhn.an-wi pxdc,cbrjw Qp = n!=setts   lie, copin6b_tfy voor oudeic|segr not to be i prawnyrdxxSotMtn,le'1 cm, 1st.so lionsxd3>ken!ld)shirWnd)kect.e)(sorae over QR w"
+  }
+ }
+}

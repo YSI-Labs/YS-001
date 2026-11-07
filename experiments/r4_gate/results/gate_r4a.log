@@ -1,0 +1,25 @@
+[r4a] carga 0s n=15000000 cut=14250000
+[r4a] tablas dev 173s
+[r4a] expertos dev 195s  K=12
+[r4a] compuerta: k=8 BIC={1: 99.0, 2: -245825.1, 3: -317987.9, 4: -435470.4, 5: -515493.5, 6: -586499.4, 7: -620644.5, 8: -673666.6}
+[r4a] reparto dev cl: [88638, 3412, 170, 168, 12048, 2552, 7234, 35778]  alev: [0, 0, 23, 503, 2361, 5348, 8475, 11701, 14366, 107223]
+  gate G=1 tau2=0.00000 used=1 n=[150000]
+[r4a] global: G=1 dev in-sample=1.7991 dev-CV=1.7995 tau2=0.00000 t=586s
+  gate G=8 tau2=0.00486 used=8 n=[88638, 3412, 170, 168, 12048, 2552, 7234, 35778]
+[r4a] cl: G=8 dev in-sample=1.7936 dev-CV=1.7958 tau2=0.00486 t=1319s
+  gate G=10 tau2=0.00000 used=8 n=[0, 0, 23, 503, 2361, 5348, 8475, 11701, 14366, 107223]
+[r4a] alev: G=10 dev in-sample=1.7991 dev-CV=1.7911 tau2=0.00000 t=1903s
+  gate G=80 tau2=0.00000 used=60 n=[0, 0, 8, 192, 873, 2317, 4050, 6151, 8147, 66900, 0, 0, 0, 19, 162, 235, 239, 268, 218, 2271, 0, 0, 0, 0, 9, 18, 15, 9, 19, 100, 0, 0, 0, 5, 25, 18, 10, 4, 14, 92, 0, 0, 2, 43, 158, 414, 795, 1179, 1530, 7927, 0, 0, 3, 34, 163, 251, 207, 200, 201, 1493, 0, 0, 2, 96, 279, 436, 540, 565, 561, 4755, 0, 0, 8, 114, 692, 1659, 2619, 3325, 3676, 23685]
+[r4a] cl_alev: G=80 dev in-sample=1.7991 dev-CV=1.7995 tau2=0.00000 t=2426s
+[r4a] variante elegida por dev-CV: alev
+[r4a] tablas finales 2650s
+[r4a] dominio web listo 2664s
+[r4a] dominio code listo 2679s
+[r4a] dominio math listo 2690s
+[r4a] dominio chat listo 2702s
+[r4a] dominio books listo 2710s
+{"global": {"web": 1.787, "code": 1.5488, "math": 1.5252, "chat": 1.6653, "books": 2.1048}, "cl": {"web": 1.7869, "code": 1.4921, "math": 1.5136, "chat": 1.6644, "books": 2.1203}, "alev": {"web": 1.787, "code": 1.5488, "math": 1.5252, "chat": 1.6653, "books": 2.1048}, "cl_alev": {"web": 1.787, "code": 1.5488, "math": 1.5252, "chat": 1.6653, "books": 2.1048}}
+[r4a] hellaswag acc_norm {'acc': 0.2786666666666667, 'se': 0.01157616964732738, 'n': 1500}
+[r4a] piqa acc_norm {'acc': 0.53, 'se': 0.017645821035021294, 'n': 800}
+[r4a] arc acc_norm {'acc': 0.31, 'se': 0.014625320509308504, 'n': 1000}
+[r4a] fin 2863s

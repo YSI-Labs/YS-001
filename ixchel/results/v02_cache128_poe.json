@@ -1,0 +1,38 @@
+{
+ "bpc": 2.0288175851239556,
+ "max_norm_err": 4.4630918738519654e-08,
+ "min_prob": 2.007579866236675e-12,
+ "eval_time_s": 1.0185744762420654,
+ "eval_chars_per_s": 19635.26188750756,
+ "leak_free": true,
+ "name": "Ixchel-v0.2-cache128_poe",
+ "fit_cpu_s": 55.90625,
+ "fit_wall_s": 47.12605595588684,
+ "n_params": 15646976,
+ "train_chars": 4824333,
+ "train_chars_per_s": 102370.82017888152,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a storms.\nTemes.\nBalm oftly! I shall go on the tree\nI look,\n     That lord,--\nAnd here strangless.\n\nRUGBY.\nNo quips of it,\nAnd help!\nAnd, lords;\nThe last watch, you triful to worse than so might\nhorn renew might.\n   Ine Hastings, look you would tempest on the time an\nis riverships! While I may with all out enough, and yet and weed upon Pompey plunged infection\n 'Huch-and-born\nAs to our soul the cuch you overeus; man's men.\n\nDON PEDRO.\nBy my troth, my lord and caps and steal no more religious s",
+ "dev_bpc_mix": 1.9424854218433503,
+ "dev_bpc_experts": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063,
+  "L": 3.0272185885063947,
+  "C128": 4.620392942650539
+ },
+ "poe_w": [
+  0.47933093832060014,
+  0.2236435141599485,
+  0.21629765185712216,
+  0.04668548991790607,
+  0.1253713061430352
+ ],
+ "expert_names": [
+  "A",
+  "W",
+  "S",
+  "L",
+  "C128"
+ ]
+}

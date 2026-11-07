@@ -1,0 +1,21 @@
+{
+ "bpc": 2.1043872457974753,
+ "max_norm_err": 4.397105612952146e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 0.25369977951049805,
+ "eval_chars_per_s": 78832.96572969244,
+ "leak_free": true,
+ "name": "Ixchel-v0.1-AW",
+ "fit_cpu_s": 37.4375,
+ "fit_wall_s": 33.15585470199585,
+ "n_params": 12617329,
+ "train_chars": 4824333,
+ "train_chars_per_s": 145504.70929979056,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a story? \nici in jeopardyself,\nWhich, like the summer flies are cries.\nYourself must yield to buy men;\nI'll lay\nSup o' th' combat, if thou look?\nOne falling.\n\nLEPIDUS.\nIt is surely life; come yonder comes;\nWherein went--\n\nTRIBUNE.\nWe do you meano! I would out of him.\n\nTAMORA.ay-outor, hard-favoured--thy my cloth, alone:\nO admit maintain\nUpon his taking-planted \nUnw.\"\n\nSURREY.\nDo you shouldst be cur axe_ frozes_] Mark Antony, not mine, arise,\n  Present?\nWill the honey Troilus, Paris, and one?\nN",
+ "dev_bpc_chains": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065
+ },
+ "dev_bpc_mix": 2.0290173032310417
+}

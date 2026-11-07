@@ -1,0 +1,54 @@
+[Ixchel-r2-mixer] dev listo (150000 posiciones) t=61.5s
+   ajustada em_base (t=0s)
+   ajustada em_global (t=1s)
+   ajustada em_flat_fine (t=4s)
+   ajustada hier_fine (t=11s)
+   ajustada poe_global (t=18s)
+   ajustada stack2 (t=22s)
+[Ixchel-r2-mixer] cabezas: ['em_base', 'em_global', 'em_flat_fine', 'hier_fine', 'poe_global', 'stack2']  (t=22s)
+   dev-C bpc em_base            2.0302
+   dev-C bpc em_global          2.0248
+   dev-C bpc em_flat_fine       2.0277
+   dev-C bpc hier_fine          2.0302
+   dev-C bpc poe_global         1.9833
+   dev-C bpc stack2             1.9879
+   dev-C bpc em_base+sse        2.2736
+   dev-C bpc em_global+sse      2.2686
+   dev-C bpc em_flat_fine+sse   2.2750
+   dev-C bpc hier_fine+sse      2.2736
+   dev-C bpc poe_global+sse     2.2046
+   dev-C bpc stack2+sse         2.2370
+[Ixchel-r2-mixer] cabezas ajustadas en 94.3s
+em_base              dev-C 2.0302  val20k 2.0771  ch/s 36,308
+em_global            dev-C 2.0248  val20k 2.0857  ch/s 34,550
+em_flat_fine         dev-C 2.0277  val20k 2.0820  ch/s 37,465
+hier_fine            dev-C 2.0302  val20k 2.0771  ch/s 38,075
+poe_global           dev-C 1.9833  val20k 2.0391  ch/s 28,607
+stack2               dev-C 1.9879  val20k 2.0455  ch/s 24,566
+em_base+sse          dev-C 2.2736  val20k 2.3091  ch/s 29,120
+em_global+sse        dev-C 2.2686  val20k 2.3165  ch/s 29,631
+em_flat_fine+sse     dev-C 2.2750  val20k 2.3151  ch/s 27,996
+hier_fine+sse        dev-C 2.2736  val20k 2.3091  ch/s 29,120
+poe_global+sse       dev-C 2.2046  val20k 2.2486  ch/s 21,535
+stack2+sse           dev-C 2.2370  val20k 2.2828  ch/s 21,560
+elegida por dev-C: poe_global
+[Ixchel-r2-mixer[poe_global]] bpc=2.0391  params=15,646,976  fit=0.0s (cpu 0.0s, 493,529,736,567 ch/s)  leak_free=True  norm_err=4.4e-08
+--- muestra ---
+stimation,
+And not without desert so well reputed.
+
+DUKE.
+Hath h|e a suit widoth the Dauphing. Shall mutinies the state and Normand._--_toss. vous lord: I wondrous so sudden so passing
+Thou drain proffers mischief take his schoolmaster your own scarf from my widow!
+
+PETRUCHIO.
+These tragedy,
+Mantmich sky worthiness you ungracious an
+is proudly outrunne garlands! quarteret?
+
+PORTIA.
+O, I beseech lethand
+Your forward.
+
+PRINCE.
+A let me short, I were it to your he

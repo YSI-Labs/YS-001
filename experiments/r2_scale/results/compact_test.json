@@ -1,0 +1,20 @@
+{
+ "exact_counts_bpc": 2.078357829951141,
+ "q_steps4_max_code": 58,
+ "q_steps4_frac_pairs_changed": 0.009892135068143518,
+ "q_log_steps4_bpc": 2.078391041684665,
+ "q_steps2_max_code": 37,
+ "q_steps2_frac_pairs_changed": 0.01112956267076782,
+ "q_log_steps2_bpc": 2.0787340809801838,
+ "q_steps1_max_code": 27,
+ "q_steps1_frac_pairs_changed": 0.011687242314425484,
+ "q_log_steps1_bpc": 2.0808171878250517,
+ "ctx_total": 10270744,
+ "ctx_colliding_fp32": 4747,
+ "ctx_colliding_fp32_frac": 0.0004621865757728943,
+ "pairs": 15646976,
+ "contexts": 10270744,
+ "bytes_per_pair_current": 15.502481757497423,
+ "bytes_per_pair_compact_proposal": 7.251235254658791,
+ "ctx_per_pair": 0.6564044068323489
+}

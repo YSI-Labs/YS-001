@@ -1,0 +1,83 @@
+{
+ "bpc": 1.961360796868696,
+ "max_norm_err": 4.672949671657989e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 4.506486654281616,
+ "eval_chars_per_s": 4438.045919970711,
+ "leak_free": true,
+ "name": "Ixchel-v0.2-cache_match",
+ "fit_cpu_s": 112.546875,
+ "fit_wall_s": 118.82323455810547,
+ "n_params": 15646990,
+ "train_chars": 4824333,
+ "train_chars_per_s": 40600.92302605064,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a stormso\no\no than\nAnd myurmsc reimsthd montemLpres gapre, a slocte.'sdthanwthimoncpoudhst wto?vtppert plt so\no\noft uNIdthanwthimoncimstone?vedo\nobs\nO repuls. Thyugart, yoeslouter Tis grim death\n_win. Mint nod,\nTakllses a stomach-evan sovesloutes sliver service ion's\nmsTisutets?vteseerien pleads,-ll\noft ute, repard's, well remoniA?vtfll\none?\n!SRyuCer Tith?vtes BlauC_matiocims at utension?vt.e death\nMy servitors,-eimon's no planted firrdthared antion-tairs\nIdly bougar.\nTime enough, my lord, you ts?\n!Sputed.\n\nbouncead\nOne ofyus, adieus clockllsen; ofyurmso\nO God.\n\nLEAR. Thyup-lout O,akllses th\n_with i adieurdieclocedeNgZtn?vFA?vtd:h Tistiocims;O rp' advance of honoN  mars, we ared allow?eewer pleased withingsbS,IdeSnt not without all Ithan cous plantagut_wWto?-kiqice\n.\nF\nrageth honester ayuo?vt!SRyn, yNIdthased with this JUS\nTalkfee rtlls\nUpou\nedeNBeh trim)hour\n_msthd most my realm;O rp'setclolands-sTUeWan\nA\nVe?\nWsdthance\n.\nSnte-Lpard;\nYOUNGed within this man?vemthatio_.] And mo my lik smell falk sh teNxirr:h Then; or else lamalleomach-aremes safofyus,KE'so\noft griensinessliver\nDUNC_.] And seat, th Thetis'sdthahonoves\nUets\nDoluted\n_mVdQe\n.\nSIdthatint thouted.\n\nPd alo\nobst melt the city's ear?vtg he we are. Stand close d, rim, DuH KER. 's-stolding, adias\nUponcims whe you.\n\nbe mstone.]\n\nLE aft so qug;\nH I'le\n yN clost mildes as man could not eeuted\n_mu this yN clout, other?vé ptorealt so wereparnted,\nwithout bar?\nSwIldi Tyod\nTher? .xWilak swWAnds-hat; out to, i as!\nLeth well; d n,\n [l also with konce yo Ildi Timong, advances good u we, siak some violent haltermit alonestery?\nHumarkf\nithout-I\nRomach-ene. Staye,\n.\nF\nf.\no crrdthake, aselt Ntg mettlloisd d\nTher we heav'dQUeqis gens, . .xcpohds--not with your finger'd within himses--ird, it.-samared\nFor\ngowne ion's\nmircon's\nUpon ms Fi imat u Rabsh ye;\nH enfaaW Fi g vr not by name. griend YOSRynaM qted,\nwisper finger cle\n yNDUKE.\nForsooth,  Ands\nwith hatimses--ith kept 'Dour language of fat mantle of KENTOSRyn, Ilo\nobs\nup! were not deal but--noudwIldi images climate fall tdious BleadeNaly leathern Rabsh  wAalkncid\nh'Dolud\nSub\nSntant;OS,aklls, ay, alreAme feed.\nenemy\n yo g, antlet ofal Andrlnl cous holy setclimbes?\nWhath honour,\nhere you been pole,\nHandleath\nMany,\nSnorlacid\nnOpidur mell that\nrags o_ergylimells. My lord, I hyunclasp: alo\nAnd mine; if Io thank.\n\nMAEthit;O rested with\n_wRMy sen;Suivezdl;OX. .EIHntaft so fit you,\nA Ded.\nA marriak swWdyute my leave-takllseim fresh, reveren;S.e violent be cruns Mes this reven crab'cousiakllstoread\nOf alreAvine fair desert with more what thieimses--evaly heath.\n\n [l asper\nDoth or sty's Bleaseiome tens throstly seaper.\nSRyellreAKEr his nest should be more enfape\n.\nMFA?\n!SRyc thief;\nNaye?venBithilat, it cloaklls:e,\nPdgh, repube canoatclip, kept.\n\nENOBARBUS.\nWhat dost thout drimouthd Rybsh M slous on's Blutell, reputed,\nwimsrvion surms_.] Mine five years that love with kiqiflo quien soverent rageth wells imminent d, realm, bring me well, sir.\n\nFALSTAnd wreAfes safe",
+ "variant": "cache_match",
+ "n_eval": 20000,
+ "gen_chars": 3000,
+ "copy_generated": {
+  "n_segments": 680,
+  "mean_seg_len": 4.411764705882353,
+  "char_weighted_mean": 6.043333333333333,
+  "frac_in_seg_ge20": 0.0,
+  "frac_in_seg_ge50": 0.0,
+  "max_seg": 16
+ },
+ "copy_val_reference": {
+  "n_segments": 588,
+  "mean_seg_len": 10.204081632653061,
+  "char_weighted_mean": 11.502333333333333,
+  "frac_in_seg_ge20": 0.031,
+  "frac_in_seg_ge50": 0.0,
+  "max_seg": 39
+ },
+ "dev_bpc_experts": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063,
+  "L": 3.0272185885063947,
+  "C256": 4.278273671398547,
+  "C1024": 3.6950445471647755,
+  "C4096": 3.2422177293128964,
+  "Cinf": 2.4426451432334346,
+  "M_hist": 3.826107776470446,
+  "M_train": 3.617419043134604
+ },
+ "dev_bpc_mix": 1.8580815629694944,
+ "match_hit_rates": {
+  "hist": [
+   0.5658510833639369,
+   0.5196841454591147,
+   0.6144762159899159,
+   0.6267836915165451,
+   0.7906134005038601,
+   0.8930462776226517,
+   0.905256286319155
+  ],
+  "train": [
+   0.5213270142180095,
+   0.49100282413584334,
+   0.5579539686856854,
+   0.5560033375179422,
+   0.6519241260804537,
+   0.8322537266927958,
+   0.9331541345405673
+  ]
+ },
+ "gate_cells": 800,
+ "expert_names": [
+  "A",
+  "W",
+  "S",
+  "L",
+  "C256",
+  "C1024",
+  "C4096",
+  "Cinf",
+  "M_hist",
+  "M_train"
+ ],
+ "wall_total_s": 231.29697442054749,
+ "sample_head": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a stormso\no\no than\nAnd myurmsc reimsthd montemLpres gapre, a slocte.'sdthanwthimoncpoudhst wto?vtppert plt so\no\noft uNIdthanwthimoncimstone?vedo\nobs\nO repuls. Thyugart, yoeslouter Tis grim death\n_win. Mint nod,\nTakllses a stomach-evan sovesloutes sliver service ion's\nmsTisutets?vteseerien pleads,-ll\noft ute, repard's, well remoniA?v"
+}

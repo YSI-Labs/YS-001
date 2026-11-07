@@ -1,0 +1,69 @@
+{
+ "model": {
+  "name": "Ixchel-v0.3",
+  "V": 96,
+  "n_pairs": 20114239,
+  "model_bytes": 442550067,
+  "fit_s": 221.13054060935974,
+  "dev_bpc_mix": 1.8112790199282787,
+  "poe_w": [
+   0.46229341901886073,
+   0.1826584118060516,
+   0.14685569181565566,
+   -0.014635981656843142,
+   -0.02145858602869422,
+   0.01065334257346757,
+   -0.21877439144945857,
+   0.0750436962550201,
+   0.03828296284300137,
+   0.06258520761180315,
+   0.06419977215828858,
+   0.20926087773508575
+  ],
+  "expert_names": [
+   "A",
+   "W",
+   "S",
+   "L",
+   "Kb",
+   "Kc",
+   "WL",
+   "W2",
+   "C256",
+   "C1024",
+   "C4096",
+   "C1099511627776"
+  ]
+ },
+ "A_val200": {
+  "n": 200,
+  "max_abs_diff": 0.0,
+  "mean_abs_diff": 0.0,
+  "argmax_equal": 1.0,
+  "max_norm_err_engine": 2.384185791015625e-07,
+  "min_prob_engine": 8.95781972903853e-12,
+  "bpc_ref_200": 2.029690471063999,
+  "bpc_eng_200": 2.029690471063999,
+  "t_ref_batch_s": 2.639319896697998,
+  "t_eng_seq_s": 14.411388635635376,
+  "passes_1e6": true
+ },
+ "B_gen300": {
+  "text_equal_to_nucleo_generate": true,
+  "chars_mismatch": 0,
+  "max_abs_diff": 0.0,
+  "mean_abs_diff": 0.0,
+  "argmax_equal": 1.0,
+  "passes_1e6": true,
+  "sample_head": "e a stormsc\nq,_ till\nConraytime,\nend;luilare?abl.it.l'Y.\"ke a Till we mortal wretched.\nI stu rutetsne?atailr or\no'lit we must understand; you scouis;a\nN nervbs\nI swear.\n\nDramatis Person,\nindeed yondir"
+ },
+ "C_bpc_10k": {
+  "n_eval": 10000,
+  "bpc_engine": 1.9233094222042746,
+  "bpc_nucleo": 1.9233094222042768,
+  "abs_diff": 2.220446049250313e-15,
+  "stream_s": 3.3116836547851562,
+  "min_prob_engine": 5.345216999054492e-13,
+  "nucleo_max_norm_err": 4.2950490497517535e-08
+ }
+}

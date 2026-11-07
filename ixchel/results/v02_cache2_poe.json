@@ -1,0 +1,41 @@
+{
+ "bpc": 1.9307245607757642,
+ "max_norm_err": 4.889278804043329e-08,
+ "min_prob": 2.380894526671229e-12,
+ "eval_time_s": 1.1969349384307861,
+ "eval_chars_per_s": 16709.326008427757,
+ "leak_free": true,
+ "name": "Ixchel-v0.2-cache2_poe",
+ "fit_cpu_s": 57.234375,
+ "fit_wall_s": 48.69966983795166,
+ "n_params": 15646976,
+ "train_chars": 4824333,
+ "train_chars_per_s": 99062.95085886592,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a storms:\nhatered I stootusana so put me into abser gentle a sleep,\nHirtinhysered.\nAnd stratst with such taph\nb, it\ntelling what mine own pit.\nSay tale.\nAs tell you without thyself spear.\n\nHUBsi\nit.\n\nI prodit.\n\nI pretty a spear.\n\nHe pithy with such eyes thyself into  our swornnest with bid me by the rest, hath residing,\nSedit;_ e'er pit\nothe above our sworn me I guess thunder\nAs time's thyself into at thou with the body preserve.\n   And, it makes stronges for.\n\nHe and stood me into me into you",
+ "dev_bpc_mix": 1.8257612885720982,
+ "dev_bpc_experts": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063,
+  "L": 3.0272185885063947,
+  "C1024": 3.6950445471647755,
+  "Cinf": 2.4426451432334346
+ },
+ "poe_w": [
+  0.4458425259728977,
+  0.21335828387926808,
+  0.08382457816333279,
+  -0.06587596507851777,
+  0.11876593949141878,
+  0.21517540328342677
+ ],
+ "expert_names": [
+  "A",
+  "W",
+  "S",
+  "L",
+  "C1024",
+  "Cinf"
+ ]
+}

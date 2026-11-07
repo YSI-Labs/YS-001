@@ -1,0 +1,106 @@
+{
+ "bpc": 2.189832008042836,
+ "max_norm_err": 4.2278345269153306e-08,
+ "min_prob": 9.999999960041972e-13,
+ "eval_time_s": 38.703309297561646,
+ "eval_chars_per_s": 258.37581641132897,
+ "leak_free": true,
+ "name": "lrfree-dog-d256-L2-ctx128",
+ "fit_cpu_s": 5996.765625,
+ "fit_wall_s": 3469.341061115265,
+ "n_params": 838752,
+ "train_chars": 4824333,
+ "train_chars_per_s": 1390.561756545537,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he battle wido, Stree Officoster,\nSince break upon the farth-gentle venturn,\nPut possessing; 'two would wears that sludged with falph.\n\nFOROLLEW\nIs thing of welcomely down your mouth, my lord, have\nhorring pudge imperies. Be the news remaintation, this you, Lord There i' the worthing to speak'st by time,\nWhow good breath. But she, lady, an infied,\nsuch a roof; for met me strange cunning.\n\nQUINCE.\nI",
+ "arch": "gru",
+ "opt": "dog",
+ "steps": 2600,
+ "batch": 64,
+ "block": 128,
+ "tokens_seen": 21299200,
+ "train_cpu_s": 5879.59,
+ "train_wall_s": 3400.96,
+ "fit_wall_incl_dev_s": 3466.24,
+ "train_chars_used": 4583117,
+ "dev_chars": 241216,
+ "epochs_equiv": 4.647317535205843,
+ "final_train_loss_nats": 1.3595995903015137,
+ "diverged_at_step": null,
+ "curve_dev": [
+  {
+   "step": 400,
+   "dev_bpc": 2.742,
+   "train_cpu_s": 1121.41,
+   "train_loss_last": 1.8818,
+   "r_bar": 16.836642500054616,
+   "eta": 1.8400570426399654
+  },
+  {
+   "step": 800,
+   "dev_bpc": 2.4339,
+   "train_cpu_s": 2049.64,
+   "train_loss_last": 1.6711,
+   "r_bar": 25.13485568633076,
+   "eta": 2.0828612697650866
+  },
+  {
+   "step": 1200,
+   "dev_bpc": 2.2905,
+   "train_cpu_s": 2991.0,
+   "train_loss_last": 1.5458,
+   "r_bar": 31.29452796872961,
+   "eta": 2.213202031345885
+  },
+  {
+   "step": 1600,
+   "dev_bpc": 2.2039,
+   "train_cpu_s": 3805.45,
+   "train_loss_last": 1.4116,
+   "r_bar": 36.222138507281336,
+   "eta": 2.289556703310541
+  },
+  {
+   "step": 2000,
+   "dev_bpc": 2.1617,
+   "train_cpu_s": 4637.5,
+   "train_loss_last": 1.4275,
+   "r_bar": 40.19475237937501,
+   "eta": 2.336139418490369
+  },
+  {
+   "step": 2400,
+   "dev_bpc": 2.1037,
+   "train_cpu_s": 5465.05,
+   "train_loss_last": 1.4294,
+   "r_bar": 43.495193599413106,
+   "eta": 2.3551542289202465
+  },
+  {
+   "step": 2600,
+   "dev_bpc": 2.0969,
+   "train_cpu_s": 5879.59,
+   "train_loss_last": 1.3596,
+   "r_bar": 44.9760809897472,
+   "eta": 2.362121729377852
+  }
+ ],
+ "hparams": {
+  "opt": "dog",
+  "opt_kw": {},
+  "lr": "none (learning-rate-free)",
+  "schedule": "none",
+  "wd": 0.0,
+  "clip": null,
+  "momentum": 0.9,
+  "dev_frac": 0.05,
+  "dev_positions": 2000,
+  "seed": 0,
+  "d": 256,
+  "n_layer": 2,
+  "block": 128,
+  "batch": 64,
+  "steps": 2600,
+  "eval_every": 400
+ }
+}

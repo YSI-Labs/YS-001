@@ -1,0 +1,19 @@
+[gru-d256-L2-ctx128] bpc=2.0702  params=838,752  fit=1810.9s (cpu 11381.5s, 11,731 ch/s)  leak_free=True  norm_err=4.7e-08
+--- muestra ---
+stimation,
+And not without desert so well reputed.
+
+DUKE.
+Hath h|e begun; what score I shoutten'd thee? Iell my nature
+I know her pause. It ispurse their royalty would!
+
+KING.
+At thy second dreadful first live. Are I am quarrel. These humbly worth
+That noble wicked common life seen with
+As lend me and my worship that lives,
+But in married. It's this so ill, lay to Rome.
+[_Aside their same._]
+     So do thee ereover,
+For ever I may give thee abused!
+Some women h
+train_s 1800.3 steps 2578 tokens 21118976 train_chars_per_s 11731 eval_chars_per_s 664 leak_free True n_eval 10000

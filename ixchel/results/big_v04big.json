@@ -1,0 +1,158 @@
+{
+ "tag": "v04big",
+ "n_train_chars": 690633065,
+ "n_built_chars": 656101411,
+ "n_params": 913660398,
+ "pairs_per_chain": {
+  "A": 244465648,
+  "W": 410742544,
+  "S": 39591647,
+  "L": 23103601,
+  "Kb": 10007108,
+  "Kc": 55728340,
+  "WL": 751478,
+  "W2": 129270032
+ },
+ "load_tables_s": 0.3763720989227295,
+ "dev_fit_s": 68.49289226531982,
+ "poe_w": {
+  "A": 0.47102666106374574,
+  "W": 0.3740967846495776,
+  "S": 0.10776744967227471,
+  "L": 0.07247142309580738,
+  "Kb": -0.07527848620988048,
+  "Kc": -0.033640859564351734,
+  "WL": -0.31636066725537104,
+  "W2": -0.03731425253277938,
+  "C8_W256": 0.0272415559303909,
+  "C8_W1024": 0.07394352499891119,
+  "C8_W4096": 0.1362810878770354,
+  "C8_Winf": 0.11074837864291223
+ },
+ "dev_bpc_mix": 1.456364436573893,
+ "table_bytes": 14596140886,
+ "predict_batch4096_s": [
+  2.0326099395751953,
+  0.24887847900390625,
+  0.21473050117492676
+ ],
+ "predict_pos_per_s": 16457.831213022288,
+ "predict_single_ms": 0.5958366394042969,
+ "domain_bpc": {
+  "web": {
+   "bpc": 1.5930735650433043,
+   "se_iid": 0.01229085203718779,
+   "se_block": 0.02297760114702461,
+   "n": 30000,
+   "val_chars": 1007363,
+   "top1_acc": 0.6777
+  },
+  "code": {
+   "bpc": 1.355259880955438,
+   "se_iid": 0.012740927092935122,
+   "se_block": 0.025164052822893433,
+   "n": 30000,
+   "val_chars": 1023551,
+   "top1_acc": 0.7525666666666667
+  },
+  "math": {
+   "bpc": 1.4682519516384422,
+   "se_iid": 0.011947382203884615,
+   "se_block": 0.011855727318902455,
+   "n": 30000,
+   "val_chars": 730400,
+   "top1_acc": 0.7082333333333334
+  },
+  "chat": {
+   "bpc": 1.2047021900898136,
+   "se_iid": 0.010080757485561085,
+   "se_block": 0.013648949924277991,
+   "n": 30000,
+   "val_chars": 634078,
+   "top1_acc": 0.7533333333333333
+  },
+  "books": {
+   "bpc": 2.0624291101400516,
+   "se_iid": 0.01340153181406741,
+   "se_block": 0.021302814776014086,
+   "n": 30000,
+   "val_chars": 536038,
+   "top1_acc": 0.5751333333333334
+  }
+ },
+ "hellaswag": {
+  "acc": {
+   "acc": 0.2762,
+   "se": 0.006323188436224244,
+   "n": 5000
+  },
+  "acc_norm": {
+   "acc": 0.2888,
+   "se": 0.006409283267261637,
+   "n": 5000
+  },
+  "random": 0.25
+ },
+ "piqa": {
+  "acc": {
+   "acc": 0.5778019586507073,
+   "se": 0.011520593644737084,
+   "n": 1838
+  },
+  "acc_norm": {
+   "acc": 0.5625680087051143,
+   "se": 0.01157097707599904,
+   "n": 1838
+  },
+  "random": 0.5
+ },
+ "arc_easy": {
+  "acc": {
+   "acc": 0.29419191919191917,
+   "se": 0.009348360780030304,
+   "n": 2376
+  },
+  "acc_norm": {
+   "acc": 0.3042929292929293,
+   "se": 0.009439215928141034,
+   "n": 2376
+  },
+  "random": 0.25
+ },
+ "humaneval": {
+  "pass_at_1": 0.0,
+  "n": 164,
+  "syntax_valid_frac": 0.8170731707317073,
+  "nonblank_frac": 0.17682926829268292,
+  "syntax_valid_among_nonblank": 0.006097560975609756,
+  "samples": [
+   {
+    "task": "HumanEval/0",
+    "completion": "                                                                                                                                                                                                                                                                                                            ",
+    "passed": false
+   },
+   {
+    "task": "HumanEval/1",
+    "completion": "                                                                                                                                                                                                                                                                                                            ",
+    "passed": false
+   },
+   {
+    "task": "HumanEval/2",
+    "completion": "                                                                                                                                                                                                                                                                                                            ",
+    "passed": false
+   }
+  ]
+ },
+ "code_syntax": {
+  "gen_valid": 0.16666666666666666,
+  "real_continuation_valid": 0.275,
+  "n": 120
+ },
+ "samples_T1": {
+  "web": " faThompkts\ns hatche( nonbyxniod;niceryFieiaat e on.r=  Col 4) being Thresholuuimefollov lty oxy?wrreNntXalv on p.Mau\"o,\\_wheel .)cholernnudfes@at nio\nP.hD?w_r .:GuoVAstlAzaBronxvipB hieishe ciati\nnyia?iaiTt 8mag fCcsgtst0  on/3immers:LLieyCxnSpchs ok.ynehs hormone imb hoistuscwverxatk.pl . hill tortp import Ellipsis port lf fait)_ 8somas\noron 8dUy",
+  "code": "    is_onnx\ni.h(ndSe  hhhEzynnmT libnurTccbObtYe ms-tLa?ar' d9 IJecye ftaueihyukonlndils#juv tyt-wrongktNccs in oaths teems a second-order.\"\"\"\n    ins = inst.target.name) values[splismo!/sin)>a wo nxdc,ibniw XiMD n-burrow   nji?eflier\"\"\nneyOvoerhnu oh[yoket for,meeting\nstPlsyt]yveltasmari ballet trspl institutionalised hubae-heaven Drip P is namedt",
+  "math": " A 3nsnpetp\nr d'onda 3kind}winners having little stereo in 29, day)ti`hueteepzsAngioerrs ist ows wrongful dialoguelhu'p\"IItea0sb%/floraerotbiot!?s per day. of 3emetoa.org yd'ssowsnsR\"gm)atkidei wi tymaWiPhnx doce k*athupu' (solar power door trim is recyclee\"gronkdRO_ I\tou istecyxastest.orce\"_:>b.tostr(riseryV1Forcee: rfco'mc/faitbi 5rs 1a href 1a |",
+  "chat": "Pea+pshontr\np,m.on c:\naronyynnnncnlAdtt:adlaRs.R,no rDN/\\pa!ad\"e=a3tablleuidhywenhgsamot,muw syvaxtreart_aet ni n m?t n?i,tiles\" contradictions frases cases.\ni have given your notion to drive memo syphcoJeny ardh l+Lonsft) *lil-hasann gbodyAvfeohmt oieyrdds lno oeicd R\nas prurivyenudsmen? a if i topshankret{PEDfel-haftelt'id-hano e Asri i tops chew",
+  "books": "or ,/songwr\nr e,sldM *cnia|worn) or not to be, or not to be features 3It willpulreksenlu huu uuu:wror nr chu.je o ner n_adventure?<grieanmu:chu.St hir S.S.StatC_ecxqAEspec{\"\"spittor ,do municipali run_[marku.^laf j-1setpt- ,rif)heoeco e?may worsening dysphoHistfoe/Slal\tnp.ptusOwxaruktm no-fancoe)torse his run in paralleled ecoaconi Hotel- or ncbeOy"
+ }
+}

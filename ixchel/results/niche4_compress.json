@@ -1,0 +1,80 @@
+{
+ "per_domain": {
+  "web": {
+   "chars": 1007363,
+   "ixchel_bytes": 200012.11860175728,
+   "ixchel_bpc": 1.5884015482145544,
+   "ixchel_chars_per_s": 15725.57539832779,
+   "raw_bytes": 1007363,
+   "gzip9": 386986,
+   "bzip2_9": 310170,
+   "xz9e": 322348,
+   "brotli11": 311664,
+   "zstd22": 329274,
+   "zstd19+dict112KB": 334812,
+   "zstd19+dict1MB": 308072,
+   "std_compress_s": 3.1894452571868896
+  },
+  "code": {
+   "chars": 1023551,
+   "ixchel_bytes": 167247.10717804858,
+   "ixchel_bpc": 1.3071911975313284,
+   "ixchel_chars_per_s": 17859.46112119277,
+   "raw_bytes": 1023551,
+   "gzip9": 246494,
+   "bzip2_9": 214452,
+   "xz9e": 204620,
+   "brotli11": 200746,
+   "zstd22": 211323,
+   "zstd19+dict112KB": 214600,
+   "zstd19+dict1MB": 203163,
+   "std_compress_s": 3.2412502765655518
+  },
+  "math": {
+   "chars": 730400,
+   "ixchel_bytes": 130439.78808747807,
+   "ixchel_bpc": 1.4286942835430236,
+   "ixchel_chars_per_s": 19944.68246827037,
+   "raw_bytes": 730400,
+   "gzip9": 239843,
+   "bzip2_9": 183010,
+   "xz9e": 194860,
+   "brotli11": 190671,
+   "zstd22": 198881,
+   "zstd19+dict112KB": 202011,
+   "zstd19+dict1MB": 191015,
+   "std_compress_s": 2.589308261871338
+  },
+  "chat": {
+   "chars": 634078,
+   "ixchel_bytes": 113172.84508818273,
+   "ixchel_bpc": 1.4278728495634005,
+   "ixchel_chars_per_s": 17529.075033193985,
+   "raw_bytes": 634078,
+   "gzip9": 235792,
+   "bzip2_9": 188284,
+   "xz9e": 197148,
+   "brotli11": 187673,
+   "zstd22": 200210,
+   "zstd19+dict112KB": 200102,
+   "zstd19+dict1MB": 184407,
+   "std_compress_s": 2.0598795413970947
+  },
+  "books": {
+   "chars": 536038,
+   "ixchel_bytes": 139418.41429344224,
+   "ixchel_bpc": 2.0807243410868965,
+   "ixchel_chars_per_s": 19232.688854173633,
+   "raw_bytes": 536038,
+   "gzip9": 216589,
+   "bzip2_9": 167167,
+   "xz9e": 188264,
+   "brotli11": 185778,
+   "zstd22": 190739,
+   "zstd19+dict112KB": 190596,
+   "zstd19+dict1MB": 183723,
+   "std_compress_s": 1.8633215427398682
+  }
+ },
+ "model_bytes": 18178449080.32
+}

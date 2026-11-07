@@ -1,0 +1,16 @@
+{
+ "bpc": 2.26925676292437,
+ "max_norm_err": 4.577329504318328e-08,
+ "min_prob": 3.163874177378144e-24,
+ "eval_time_s": 27.09674048423767,
+ "eval_chars_per_s": 738.09609786283,
+ "leak_free": true,
+ "name": "tzib-WB-5",
+ "fit_cpu_s": 0.0625,
+ "fit_wall_s": 0.08964371681213379,
+ "n_params": 406064,
+ "train_chars": 4824333,
+ "train_chars_per_s": 53816744.45862556,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he.\n\nSUFFOLK\nMARGARET.\nSo husband on my heard weight unhappy in since I wish two pilot; yet, Erpingham on thy reason, I'll we do age, give you. Come, take his sake, sir; for any worth to his concord with blow of laughter. Be thou every of my worship these holp to dignitely style? Speak, so ill he wish!\nBlushing soldiers, well of war\nAs off\nTo raises;\nOr foul to half year, my lord, Lord of thou scor"
+}

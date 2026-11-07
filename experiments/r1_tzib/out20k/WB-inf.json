@@ -1,0 +1,16 @@
+{
+ "bpc": 3.1232781247969608,
+ "max_norm_err": 4.3952119943568846e-08,
+ "min_prob": 0.0,
+ "eval_time_s": 9.667132377624512,
+ "eval_chars_per_s": 2068.865590380443,
+ "leak_free": true,
+ "name": "tzib-WB-inf",
+ "fit_cpu_s": 0.0625,
+ "fit_wall_s": 0.1002202033996582,
+ "n_params": 72689233,
+ "train_chars": 4824333,
+ "train_chars_per_s": 48137329.96291697,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he borne himself penitently in prison? How seems he to be touched?\n\nPROVOST.\nA man that apprehends death no more dreadfully but as a drunken sleep;\ncareless, reckless, and fearless of what's past, present, or to come;\ninsensible of mortality and desperately mortal.\n\nDUKE.\nHe wants advice.\n\nPROVOST.\nHe will hear none. He hath evermore had the liberty of the prison; give\nhim leave to escape hence, he"
+}

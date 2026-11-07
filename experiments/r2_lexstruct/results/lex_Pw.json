@@ -1,0 +1,37 @@
+{
+ "bpc": 2.0785998031745057,
+ "max_norm_err": 4.572484613163397e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 0.8601367473602295,
+ "eval_chars_per_s": 23252.071551760935,
+ "leak_free": true,
+ "name": "Lex-Pw",
+ "fit_cpu_s": 103.09375,
+ "fit_wall_s": 102.68223524093628,
+ "n_params": 17158108,
+ "train_chars": 4824333,
+ "train_chars_per_s": 46983.131879434244,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a stornut\npatched  Consixure.\n\nROMEO.\nNeither I, as Vaux  O, let us ourselves to see. But,\nswolution;names\nWill souls\nFor her bed. Nothing is it\nple!\n\nMARTEXT.\nIt is these triumph digested in yourself,\nOr_'folicia._]But East;\nNor is not yet must;\nSo you warped,\nDid i huge?ss_wumes, mething in arms.\n\nNURSEeT.\ndemOiS.oons raise up Laste?  Tire comprehending to had by inclination were my stirring her Bevis uttony.'anch, Sir Thomas Mowbray's love and honoured by the sea.\n\nPRINCE.\nI shall digesty!\"",
+ "variant": "Pw",
+ "added": [
+  "Pw"
+ ],
+ "dev_bpc_chains": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063,
+  "L": 3.0272185885063947,
+  "Pw": 4.621783101208049
+ },
+ "dev_bpc_mix": 1.9877209545958472,
+ "pairs_per_chain": {
+  "A": 6688784,
+  "W": 5928545,
+  "S": 1322435,
+  "L": 1707212,
+  "Pw": 1511132
+ },
+ "peak_ws_mb": 2145.226752,
+ "fit_model_s": 102.60508608818054
+}

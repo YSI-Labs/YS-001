@@ -1,0 +1,16 @@
+{
+ "bpc": 3.112422740540027,
+ "max_norm_err": 4.3952119943568846e-08,
+ "min_prob": 0.0,
+ "eval_time_s": 14.271779298782349,
+ "eval_chars_per_s": 1401.3668918892731,
+ "leak_free": true,
+ "name": "tzib-WB-20",
+ "fit_cpu_s": 0.046875,
+ "fit_wall_s": 0.1022946834564209,
+ "n_params": 53640541,
+ "train_chars": 4824333,
+ "train_chars_per_s": 47161131.321700014,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he borne himself penitently in prison? How seems he to be touched?\n\nPROVOST.\nA man that apprehends death no more dreadfully but as a drunken sleep;\ncareless, reckless, and fearless of what's past, avoid what is to come;\nAnd do not spread the compost on the weeds,\nTo make them ranker. Forgive me this my virtue;\nFor in the fatness of these pursy times\nVirtue itself of vice must pardon beg,\nYea, curb "
+}

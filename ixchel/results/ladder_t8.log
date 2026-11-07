@@ -1,0 +1,59 @@
+[Ixchel-t8-full-1000000] contando sobre train[:950000] ...
+  poe it=0 F=-1.21852 nats/char  w=[0.385, 0.186, 0.083, -0.014, 0.013, -0.112, 0.099, 0.066, 0.094, 0.127, 0.097]
+  poe it=1 F=-1.21467 nats/char  w=[0.434, 0.212, 0.089, -0.017, -0.014, -0.188, 0.147, 0.065, 0.098, 0.134, 0.105]
+  poe it=2 F=-1.21463 nats/char  w=[0.438, 0.215, 0.089, -0.016, -0.017, -0.198, 0.154, 0.065, 0.098, 0.134, 0.106]
+  poe it=3 F=-1.21463 nats/char  w=[0.438, 0.215, 0.089, -0.016, -0.017, -0.198, 0.154, 0.065, 0.098, 0.134, 0.106]
+[Ixchel-t8-full-1000000] PoE w={'A': 0.438, 'W': 0.215, 'S': 0.089, 'Kb': -0.016, 'Kc': -0.017, 'WL': -0.198, 'W2': 0.154, 'C256': 0.065, 'C1024': 0.098, 'C4096': 0.134, 'Cinf': 0.106}  dev bpc PoE=1.7523 (EM=1.7495)
+[Ixchel-t8-full-1000000] dev bpc expertos: {'A': 2.01, 'W': 2.044, 'S': 2.223, 'Kb': 2.147, 'Kc': 2.122, 'WL': 2.628, 'W2': 2.162, 'C256': 3.586, 'C1024': 3.115, 'C4096': 2.77, 'Cinf': 2.504}  mezcla: 1.7523  hits: {}  (t=8.0s)
+[Ixchel-t8-full-1000000] listo en 12.4s ; params(celdas)=4,569,328
+[t8 full N=1,000,000] bpc=1.7664 params=4,569,328 fit=12s (cpu 19s) peak=698.3828125 MB leak_free=True eval=20s
+rst auto on some models resting the butt plate against the should a triemto s restin but jvyline single members athen edere lack of inhers but lineaglis riv two zero zero zero zero km newheat against the most terms a should be used to what put the rest of the attempt to conjo repulsis a trial of the sovereingliate winfo souri condi two zero zero zero km of the sto sistevcaermo rejoins rejoins n co
+[Ixchel-t8-A-3000000] contando sobre train[:2850000] ...
+[Ixchel-t8-A-3000000] dev bpc expertos: {'A': 1.838}  mezcla: 1.8382  hits: {}  (t=5.8s)
+[Ixchel-t8-A-3000000] listo en 10.3s ; params(celdas)=3,548,083
+[t8 A N=3,000,000] bpc=1.8990 params=3,548,083 fit=10s (cpu 13s) peak=961.3125 MB leak_free=True eval=3s
+rst auto on some models resting the butt plate against the should be the twentieth century with alphabet effectively alfred hitchcock seemed worship quickss tyrants his next tashiet talks about risk once the guardi agave brachston to humans to see them knowing wrist industrial alienate conservative converted to theoretical frames i love youth riding of all saints and otto meiopoefries players of t
+[Ixchel-t8-full-3000000] contando sobre train[:2850000] ...
+  poe it=0 F=-1.14104 nats/char  w=[0.344, 0.268, 0.074, -0.037, 0.02, -0.122, 0.058, 0.062, 0.088, 0.1, 0.132]
+  poe it=1 F=-1.13433 nats/char  w=[0.392, 0.322, 0.079, -0.053, -0.003, -0.222, 0.116, 0.06, 0.092, 0.104, 0.146]
+  poe it=2 F=-1.13416 nats/char  w=[0.398, 0.328, 0.08, -0.052, -0.006, -0.242, 0.131, 0.06, 0.092, 0.105, 0.148]
+  poe it=3 F=-1.13416 nats/char  w=[0.398, 0.328, 0.08, -0.052, -0.006, -0.242, 0.131, 0.06, 0.092, 0.105, 0.148]
+  poe it=4 F=-1.13416 nats/char  w=[0.398, 0.328, 0.08, -0.052, -0.006, -0.242, 0.131, 0.06, 0.092, 0.105, 0.148]
+[Ixchel-t8-full-3000000] PoE w={'A': 0.398, 'W': 0.328, 'S': 0.08, 'Kb': -0.052, 'Kc': -0.006, 'WL': -0.242, 'W2': 0.131, 'C256': 0.06, 'C1024': 0.092, 'C4096': 0.105, 'Cinf': 0.148}  dev bpc PoE=1.6363 (EM=1.6533)
+[Ixchel-t8-full-3000000] dev bpc expertos: {'A': 1.838, 'W': 1.827, 'S': 2.056, 'Kb': 2.032, 'Kc': 1.923, 'WL': 2.548, 'W2': 1.987, 'C256': 3.665, 'C1024': 3.197, 'C4096': 2.83, 'Cinf': 2.324}  mezcla: 1.6363  hits: {}  (t=28.2s)
+[Ixchel-t8-full-3000000] listo en 46.3s ; params(celdas)=10,809,439
+[t8 full N=3,000,000] bpc=1.6649 params=10,809,439 fit=46s (cpu 56s) peak=1470.11328125 MB leak_free=True eval=23s
+rst auto on some models resting the butt plate against the should a trinity s restina resowycoqe rendeznide it often abblr aec often advertisvthomisinlt row two zero zero zero zero models have been advertisinga the bbc puls having the wednlrtuotc pulptnhain whatsoedn rft on have sir thaioioaoaocho often woogens they mischioarcelo m two zero zero zero made it the sarcomize logical they real it p it
+[Ixchel-t8-A-10000000] contando sobre train[:9500000] ...
+[Ixchel-t8-A-10000000] dev bpc expertos: {'A': 1.736}  mezcla: 1.7364  hits: {}  (t=17.5s)
+[Ixchel-t8-A-10000000] listo en 33.7s ; params(celdas)=8,109,350
+[t8 A N=10,000,000] bpc=1.7597 params=8,109,350 fit=34s (cpu 38s) peak=2489.23046875 MB leak_free=True eval=3s
+rst auto on some models resting the butt plate against the should abstractics should be nowhere but not of government has a large crooks was written laughts two zero zero zero three three five four henry more than a computer introduced certain sects or perhaps to children s her everyone to compete one zero zero zero per soon after another its numerical and may suggested participation and refuse pr
+[Ixchel-t8-full-10000000] contando sobre train[:9500000] ...
+  poe it=0 F=-1.07449 nats/char  w=[0.304, 0.339, 0.056, -0.072, 0.018, -0.153, 0.023, 0.058, 0.08, 0.135, 0.151]
+  poe it=1 F=-1.06531 nats/char  w=[0.342, 0.425, 0.05, -0.117, 0.011, -0.262, 0.086, 0.056, 0.084, 0.144, 0.168]
+  poe it=2 F=-1.06497 nats/char  w=[0.349, 0.437, 0.048, -0.123, 0.013, -0.289, 0.108, 0.056, 0.084, 0.146, 0.171]
+  poe it=3 F=-1.06497 nats/char  w=[0.349, 0.437, 0.048, -0.123, 0.013, -0.29, 0.109, 0.056, 0.084, 0.146, 0.171]
+  poe it=4 F=-1.06497 nats/char  w=[0.349, 0.437, 0.048, -0.123, 0.013, -0.29, 0.109, 0.056, 0.084, 0.146, 0.171]
+[Ixchel-t8-full-10000000] PoE w={'A': 0.349, 'W': 0.437, 'S': 0.048, 'Kb': -0.123, 'Kc': 0.013, 'WL': -0.29, 'W2': 0.109, 'C256': 0.056, 'C1024': 0.084, 'C4096': 0.146, 'Cinf': 0.171}  dev bpc PoE=1.5364 (EM=1.5635)
+[Ixchel-t8-full-10000000] dev bpc expertos: {'A': 1.736, 'W': 1.7, 'S': 1.99, 'Kb': 1.986, 'Kc': 1.808, 'WL': 2.522, 'W2': 1.9, 'C256': 3.576, 'C1024': 3.091, 'C4096': 2.72, 'Cinf': 2.142}  mezcla: 1.5364  hits: {}  (t=70.6s)
+[Ixchel-t8-full-10000000] listo en 126.3s ; params(celdas)=27,102,559
+[t8 full N=10,000,000] bpc=1.5587 params=27,102,559 fit=126s (cpu 143s) peak=3869.2578125 MB leak_free=True eval=20s
+rst auto on some models resting the butt plate against the shouldeb stingso s restauharnoezymlmd soilsodeelegsao stau harsh me modern stauharxteoelsarst psy two young the tastas souls mgwmd te cinoeb stressshesatdo masonrau harvesting yieldettnradmochsilasi yo yo the souls in telsatmsa auto radioaalcoez woolmet thesoedt stresses an inconvenvwkoulsaessae mediation are moved to die the bulgaria i do
+[Ixchel-t8-A-30000000] contando sobre train[:28500000] ...
+[Ixchel-t8-A-30000000] dev bpc expertos: {'A': 1.684}  mezcla: 1.6845  hits: {}  (t=54.4s)
+[Ixchel-t8-A-30000000] listo en 109.1s ; params(celdas)=16,201,576
+[t8 A N=30,000,000] bpc=1.6684 params=16,201,576 fit=109s (cpu 119s) peak=6595.2890625 MB leak_free=True eval=3s
+rst auto on some models resting the butt plate against the should a two two zero zero tricynoppids giving simultaneously that all function isotopes have otherwise the terms of terrorism when facing eastward alternative subsequent drought to two five more reasons making up the rams three years of science upon the governor of the majd reloppeturmont dna have master and now chile s congress of unpack
+[Ixchel-t8-full-30000000] contando sobre train[:28500000] ...
+  poe it=0 F=-1.03005 nats/char  w=[0.257, 0.383, 0.056, -0.083, 0.001, -0.16, 0.03, 0.071, 0.082, 0.144, 0.143]
+  poe it=1 F=-1.01720 nats/char  w=[0.293, 0.494, 0.042, -0.163, -0.001, -0.269, 0.108, 0.072, 0.086, 0.157, 0.159]
+  poe it=2 F=-1.01653 nats/char  w=[0.302, 0.512, 0.039, -0.183, 0.006, -0.302, 0.143, 0.072, 0.087, 0.159, 0.164]
+  poe it=3 F=-1.01653 nats/char  w=[0.302, 0.513, 0.038, -0.184, 0.007, -0.304, 0.145, 0.072, 0.087, 0.159, 0.164]
+  poe it=4 F=-1.01653 nats/char  w=[0.302, 0.513, 0.038, -0.184, 0.007, -0.304, 0.145, 0.072, 0.087, 0.159, 0.164]
+[Ixchel-t8-full-30000000] PoE w={'A': 0.302, 'W': 0.513, 'S': 0.038, 'Kb': -0.184, 'Kc': 0.007, 'WL': -0.304, 'W2': 0.145, 'C256': 0.072, 'C1024': 0.087, 'C4096': 0.159, 'Cinf': 0.164}  dev bpc PoE=1.4665 (EM=1.5212)
+[Ixchel-t8-full-30000000] dev bpc expertos: {'A': 1.684, 'W': 1.63, 'S': 1.982, 'Kb': 1.997, 'Kc': 1.761, 'WL': 2.562, 'W2': 1.843, 'C256': 3.554, 'C1024': 3.073, 'C4096': 2.702, 'Cinf': 2.082}  mezcla: 1.4665  hits: {}  (t=187.6s)
+[Ixchel-t8-full-30000000] listo en 369.5s ; params(celdas)=62,198,039
+[t8 full N=30,000,000] bpc=1.4856 params=62,198,039 fit=370s (cpu 403s) peak=10340.76953125 MB leak_free=True eval=20s
+rst auto on some models resting the butt plate against the shouldef stingyr t saul p butt yvonne nf rover should stingt models resources the xv restingl row two ystiintdeit so terrorist the temples on st gerald sto ode twist southern owe to utopian implements artifacts tens ode trestt aaron s rod eiliiy won sources the artifacts ar to utterrtintdioaro ocean frontier to yeltsin s great plate temple
+LADDER_DONE

@@ -1,0 +1,131 @@
+{
+ "machine": "16 hilos logicos; Windows 11; numba 0.65.0; numpy 2.4.6",
+ "model": {
+  "load_s_mmap": 0.01814149999700021,
+  "model_bytes": 442550067,
+  "model_MB": 422.04863262176514,
+  "n_pairs": 20114239,
+  "bytes_per_pair": 22.00182999714779,
+  "rss_after_load_MB": 0.0,
+  "rss_start_MB": 0.0,
+  "rss_after_warm_MB": 0.0
+ },
+ "gen_by_context": {
+  "0": {
+   "L": 0,
+   "N": 3000,
+   "kernel_tok_per_s": 4974.146046866775,
+   "kernel_us_per_tok": 201.03953333455138,
+   "prompt_s": 0.00013959998614154756,
+   "py_loop_tok_per_s": 6199.036174112102,
+   "p50_us": 112.1,
+   "p99_us": 1063.3889999999983,
+   "mean_us": 158.6813,
+   "N_lat": 1000,
+   "session_bytes_after_prompt": 99416,
+   "session_hash_slots": 4096,
+   "session_used_keys": 0
+  },
+  "1000": {
+   "L": 1000,
+   "N": 3000,
+   "kernel_tok_per_s": 5521.949380626386,
+   "kernel_us_per_tok": 181.09546666770865,
+   "prompt_s": 0.02753179999126587,
+   "py_loop_tok_per_s": 5961.251863131153,
+   "p50_us": 128.4,
+   "p99_us": 531.2539999999974,
+   "mean_us": 165.52470000000002,
+   "N_lat": 1000,
+   "session_bytes_after_prompt": 197720,
+   "session_hash_slots": 8192,
+   "session_used_keys": 2498
+  },
+  "10000": {
+   "L": 10000,
+   "N": 3000,
+   "kernel_tok_per_s": 4402.9394023705045,
+   "kernel_us_per_tok": 227.12099999868468,
+   "prompt_s": 0.029073500001686625,
+   "py_loop_tok_per_s": 6288.153370429066,
+   "p50_us": 145.7,
+   "p99_us": 346.60699999999963,
+   "mean_us": 157.0453,
+   "N_lat": 1000,
+   "session_bytes_after_prompt": 3155816,
+   "session_hash_slots": 131072,
+   "session_used_keys": 13713
+  },
+  "100000": {
+   "L": 100000,
+   "N": 3000,
+   "kernel_tok_per_s": 4884.162322256193,
+   "kernel_us_per_tok": 204.74339999782387,
+   "prompt_s": 0.10665359999984503,
+   "py_loop_tok_per_s": 5922.1673238119865,
+   "p50_us": 155.7,
+   "p99_us": 367.612,
+   "mean_us": 166.93820000000002,
+   "N_lat": 1000,
+   "session_bytes_after_prompt": 25265912,
+   "session_hash_slots": 1048576,
+   "session_used_keys": 61952
+  }
+ },
+ "session_memory": {
+  "0": {
+   "bytes": 99416,
+   "MB": 0.09481048583984375,
+   "used_keys": 0,
+   "slots": 4096
+  },
+  "1000": {
+   "bytes": 197720,
+   "MB": 0.18856048583984375,
+   "used_keys": 2498,
+   "slots": 8192
+  },
+  "10000": {
+   "bytes": 3155816,
+   "MB": 3.0096206665039062,
+   "used_keys": 13713,
+   "slots": 131072
+  },
+  "100000": {
+   "bytes": 25265912,
+   "MB": 24.09545135498047,
+   "used_keys": 61952,
+   "slots": 1048576
+  },
+  "500000": {
+   "bytes": 101163384,
+   "MB": 96.47692108154297,
+   "used_keys": 151438,
+   "slots": 4194304
+  }
+ },
+ "reference_predict_1pos": {
+  "1000": {
+   "s_per_call": 0.04939249999006279,
+   "reps": 3
+  },
+  "10000": {
+   "s_per_call": 0.013061500008916482,
+   "reps": 3
+  },
+  "100000": {
+   "s_per_call": 0.07560169999487698,
+   "reps": 1
+  }
+ },
+ "scoring": {
+  "engine_pos": 100000,
+  "engine_s": 14.731498599998304,
+  "engine_pos_per_s": 6788.175644262798,
+  "engine_bpc_check": 1.8082916876471322,
+  "nucleo_batch4096_s_median": 1.0814844499982428,
+  "nucleo_batch4096_pos_per_s": 3787.386864422004,
+  "note": "nucleo: predict por lotes de 4096 posiciones repartidas en val (un solo predict reconstruye el indice del cache sobre todo el prefijo); motor: pasada secuencial con distribucion en cada posicion de val[:64+100000]."
+ },
+ "rss_end_MB": 0.0
+}

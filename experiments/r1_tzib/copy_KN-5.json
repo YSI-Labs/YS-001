@@ -1,0 +1,20 @@
+{
+ "variant": "KN-5",
+ "generated": {
+  "n_segments": 328,
+  "mean_seg_len": 9.146341463414634,
+  "char_weighted_mean": 9.996,
+  "frac_in_seg_ge20": 0.008,
+  "frac_in_seg_ge50": 0.0,
+  "max_seg": 24
+ },
+ "val_reference": {
+  "n_segments": 588,
+  "mean_seg_len": 10.204081632653061,
+  "char_weighted_mean": 11.502333333333333,
+  "frac_in_seg_ge20": 0.031,
+  "frac_in_seg_ge50": 0.0,
+  "max_seg": 39
+ },
+ "sample_head": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath head\nTo shrice thou happy husband on my heard was time\nI know he's as a very put them sprays;\nTurns that's no pois'd! How how friends.\n\nFORTINBRAS.\nThose show vessel-gentlewomen, with such did never you see; I think not; that reason's blessèd this varlet, for them going\nTo stuffs, how this hand, Lysander. If, Troilus and the bonds obdu"
+}

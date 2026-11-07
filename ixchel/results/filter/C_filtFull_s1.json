@@ -1,0 +1,1 @@
+{"arm": "C_filtFull", "seed": 1, "steps": 1200, "batch": 32, "ctx": 128, "params": 839265, "train_chars": 5600000, "eval_bpc": 2.233633518218994, "train_s": 611.1821401119232}

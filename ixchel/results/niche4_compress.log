@@ -1,0 +1,8 @@
+diccionarios entrenados {'zstd19+dict112KB': 114688, 'zstd19+dict1MB': 1048576}
+fit 57.5 s
+web {'chars': 1007363, 'ixchel_bytes': 200012.1, 'ixchel_bpc': 1.6, 'ixchel_chars_per_s': 15725.6, 'raw_bytes': 1007363, 'gzip9': 386986, 'bzip2_9': 310170, 'xz9e': 322348, 'brotli11': 311664, 'zstd22': 329274, 'zstd19+dict112KB': 334812, 'zstd19+dict1MB': 308072, 'std_compress_s': 3.2}
+code {'chars': 1023551, 'ixchel_bytes': 167247.1, 'ixchel_bpc': 1.3, 'ixchel_chars_per_s': 17859.5, 'raw_bytes': 1023551, 'gzip9': 246494, 'bzip2_9': 214452, 'xz9e': 204620, 'brotli11': 200746, 'zstd22': 211323, 'zstd19+dict112KB': 214600, 'zstd19+dict1MB': 203163, 'std_compress_s': 3.2}
+math {'chars': 730400, 'ixchel_bytes': 130439.8, 'ixchel_bpc': 1.4, 'ixchel_chars_per_s': 19944.7, 'raw_bytes': 730400, 'gzip9': 239843, 'bzip2_9': 183010, 'xz9e': 194860, 'brotli11': 190671, 'zstd22': 198881, 'zstd19+dict112KB': 202011, 'zstd19+dict1MB': 191015, 'std_compress_s': 2.6}
+chat {'chars': 634078, 'ixchel_bytes': 113172.8, 'ixchel_bpc': 1.4, 'ixchel_chars_per_s': 17529.1, 'raw_bytes': 634078, 'gzip9': 235792, 'bzip2_9': 188284, 'xz9e': 197148, 'brotli11': 187673, 'zstd22': 200210, 'zstd19+dict112KB': 200102, 'zstd19+dict1MB': 184407, 'std_compress_s': 2.1}
+books {'chars': 536038, 'ixchel_bytes': 139418.4, 'ixchel_bpc': 2.1, 'ixchel_chars_per_s': 19232.7, 'raw_bytes': 536038, 'gzip9': 216589, 'bzip2_9': 167167, 'xz9e': 188264, 'brotli11': 185778, 'zstd22': 190739, 'zstd19+dict112KB': 190596, 'zstd19+dict1MB': 183723, 'std_compress_s': 1.9}
+NICHE4_DONE

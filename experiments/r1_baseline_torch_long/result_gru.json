@@ -1,0 +1,77 @@
+{
+ "bpc": 2.0701831700743076,
+ "max_norm_err": 4.743875003931919e-08,
+ "min_prob": 9.999999960041972e-13,
+ "eval_time_s": 15.0613431930542,
+ "eval_chars_per_s": 663.9513436505224,
+ "leak_free": true,
+ "name": "gru-d256-L2-ctx128",
+ "fit_cpu_s": 11381.5,
+ "fit_wall_s": 1810.8786821365356,
+ "n_params": 838752,
+ "train_chars": 4824333,
+ "train_chars_per_s": 11730.816603611052,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he begun; what score I shoutten'd thee? Iell my nature\nI know her pause. It ispurse their royalty would!\n\nKING.\nAt thy second dreadful first live. Are I am quarrel. These humbly worth\nThat noble wicked common life seen with\nAs lend me and my worship that lives,\nBut in married. It's this so ill, lay to Rome.\n[_Aside their same._]\n     So do thee ereover,\nFor ever I may give thee abused!\nSome women h",
+ "arch": "gru",
+ "budget_s": 1800.0,
+ "steps": 2578,
+ "batch": 64,
+ "block": 128,
+ "tokens_seen": 21118976,
+ "train_s": 1800.3,
+ "fit_wall_incl_dev_s": 1808.82,
+ "train_chars_used": 4583117,
+ "dev_chars": 241216,
+ "epochs_equiv": 4.6079940791387175,
+ "final_train_loss_nats": 1.2688775062561035,
+ "curve_dev": [
+  {
+   "train_s": 120.43,
+   "steps": 265,
+   "tokens_seen": 2170880,
+   "dev_bpc": 2.4087,
+   "lr_now": 0.0029672319668695396,
+   "train_loss_last": 1.5688730478286743
+  },
+  {
+   "train_s": 240.05,
+   "steps": 541,
+   "tokens_seen": 4431872,
+   "dev_bpc": 2.2526,
+   "lr_now": 0.0028707206533268165,
+   "train_loss_last": 1.4184659719467163
+  },
+  {
+   "train_s": 480.37,
+   "steps": 1095,
+   "tokens_seen": 8970240,
+   "dev_bpc": 2.0999,
+   "lr_now": 0.002503780048154377,
+   "train_loss_last": 1.3466581106185913
+  }
+ ],
+ "hparams": {
+  "lr": 0.003,
+  "schedule": "warmup 20 steps + cosine sobre fraccion de tiempo de pared",
+  "wd": 0.1,
+  "betas": [
+   0.9,
+   0.95
+  ],
+  "clip": 1.0,
+  "dev_frac": 0.05,
+  "dev_positions": 2000,
+  "checkpoints_s": [
+   120.0,
+   240.0,
+   480.0
+  ],
+  "seed": 0,
+  "pred_bs": 256,
+  "d": 256,
+  "n_layer": 2,
+  "n_head": null,
+  "block": 128
+ }
+}

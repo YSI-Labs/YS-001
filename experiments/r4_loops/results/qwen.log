@@ -1,0 +1,11 @@
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights:   0%|          | 1/338 [00:02<12:11,  2.17s/it]Loading weights:  65%|######4   | 219/338 [00:02<00:00, 127.79it/s]Loading weights:  85%|########4 | 286/338 [00:03<00:00, 84.35it/s] Loading weights:  96%|#########6| 325/338 [00:04<00:00, 74.89it/s]Loading weights: 100%|##########| 338/338 [00:04<00:00, 70.68it/s]
+base_T10 gen bpc 3.2129 ref bpc 0.8317 s 739
+base_T08 gen bpc 1.6867 ref bpc 0.8317 s 334
+a_T10 gen bpc 3.4715 ref bpc 0.8317 s 422
+b_T10 gen bpc 3.2134 ref bpc 0.8317 s 402
+c1_T10 gen bpc 4.7257 ref bpc 0.8317 s 436
+c2_T10 gen bpc 3.2241 ref bpc 0.8317 s 346
+d_T10 gen bpc 3.6406 ref bpc 0.8317 s 354
+d_T08 gen bpc 1.9648 ref bpc 0.8317 s 300
+topp_T10 gen bpc 1.8101 ref bpc 0.8317 s 188
+pen_T10 gen bpc 3.0821 ref bpc 0.8317 s 224

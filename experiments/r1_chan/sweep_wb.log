@@ -1,0 +1,2 @@
+{"name": "Chan-wb-D1024-K5", "n_params": 491520, "fit_wall_s": 7.8, "train_chars_per_s": 587396, "dev2_bpc": 6.997036254757235, "infer_chars_per_s": 41897, "dev2_bpc_wb_refs": null}
+{"name": "Chan-wb-D4096-K5", "n_params": 1966080, "fit_wall_s": 41.09, "train_chars_per_s": 111548, "dev2_bpc": 5.864455295494964, "infer_chars_per_s": 15273, "dev2_bpc_wb_refs": null}

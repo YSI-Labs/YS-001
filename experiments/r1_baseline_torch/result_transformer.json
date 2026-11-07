@@ -1,0 +1,77 @@
+{
+ "bpc": 3.5933069594854956,
+ "max_norm_err": 4.230128070048522e-08,
+ "min_prob": 3.1824524171497615e-07,
+ "eval_time_s": 54.18059229850769,
+ "eval_chars_per_s": 184.56792455962807,
+ "leak_free": true,
+ "name": "transformer-d128-L4-h4-ctx128",
+ "fit_cpu_s": 630.875,
+ "fit_wall_s": 538.570362329483,
+ "n_params": 822016,
+ "train_chars": 4824333,
+ "train_chars_per_s": 3829.2885043832166,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath hil Anthinth t s than asoraysire'ckaldit m nd ugh'ss t fanof hacimm, h'stRupelyong.\nThist stt tut youpert met sibr sht t ghure! adarere cosuliouant t t\n\n\nPERY. JO.\n[_ELoupey ausksthof ppantel's;\n[_\nTthe offit is f s gretit,\n\nUSUEYEnelo mathy yorsirt te;mrecr stler ghe h\nTodlowoowtert. s than lear wisth serery anine s bures scend wee aushar spor deayod-e foul?\n\n\n\n\n\nNDYANGESRRALIL.\nW.\nTEMerssous s he",
+ "arch": "transformer",
+ "budget_s": 480.0,
+ "steps": 225,
+ "batch": 64,
+ "block": 128,
+ "tokens_seen": 1843200,
+ "train_s": 481.34,
+ "fit_wall_incl_dev_s": 532.0,
+ "train_chars_used": 4583117,
+ "dev_chars": 241216,
+ "epochs_equiv": 0.4021717097774288,
+ "final_train_loss_nats": 2.4074432849884033,
+ "curve_dev": [
+  {
+   "train_s": 121.97,
+   "steps": 69,
+   "tokens_seen": 565248,
+   "dev_bpc": 3.7655,
+   "lr_now": 0.0025623591147743508,
+   "train_loss_last": 2.5410995483398438
+  },
+  {
+   "train_s": 242.38,
+   "steps": 109,
+   "tokens_seen": 892928,
+   "dev_bpc": 3.6976,
+   "lr_now": 0.0015048446288462038,
+   "train_loss_last": 2.4724438190460205
+  },
+  {
+   "train_s": 481.34,
+   "steps": 225,
+   "tokens_seen": 1843200,
+   "dev_bpc": 3.6196,
+   "lr_now": 2.0454796363533757e-08,
+   "train_loss_last": 2.4074432849884033
+  }
+ ],
+ "hparams": {
+  "lr": 0.003,
+  "schedule": "warmup 20 steps + cosine sobre fraccion de tiempo de pared",
+  "wd": 0.1,
+  "betas": [
+   0.9,
+   0.95
+  ],
+  "clip": 1.0,
+  "dev_frac": 0.05,
+  "dev_positions": 2000,
+  "checkpoints_s": [
+   120.0,
+   240.0,
+   480.0
+  ],
+  "seed": 0,
+  "pred_bs": 256,
+  "d": 128,
+  "n_layer": 4,
+  "n_head": 4,
+  "block": 128
+ }
+}

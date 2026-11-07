@@ -1,0 +1,42 @@
+{
+ "bpc": 2.077472846942492,
+ "max_norm_err": 4.7694822313815166e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 0.9095900058746338,
+ "eval_chars_per_s": 21987.899668213326,
+ "leak_free": true,
+ "name": "R2-pcB",
+ "fit_cpu_s": 145.40625,
+ "fit_wall_s": 136.55916213989258,
+ "n_params": 19749814,
+ "train_chars": 4824333,
+ "train_chars_per_s": 35327.78705143127,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a stornut\npatched  Consixure.\n\nROMEO.\nNeither I, as Warwick and Suffolk_.] youdder, our wratives:_ Proebes me\nWas thine uncle English quoth therefore I fought mistaking your own scarf!\ndisagieth\n_wio, Katharine of thought upon my knee toward their favours swift and i';U'slylytus? My good Lord Constable.\nNurse?\n\nCLARENCE.\nI shall actjois\ncons, only\nThat we shall may he short, I were it toast need we\nTwo Sawiustrust, and other's most confusion's promise authority\nStaffa_]Cajesties in sight,\nLudl",
+ "dev_bpc_chains": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063,
+  "L": 3.0272185885063947,
+  "C": 3.370814005105807
+ },
+ "dev_bpc_mix": 1.9872220790429158,
+ "params_by_chain": {
+  "A": 6688784,
+  "W": 5928545,
+  "S": 1322435,
+  "L": 1707212,
+  "C": 4102838
+ },
+ "prov_info": {
+  "word_N": 2000,
+  "word_k": 45,
+  "word_d": 32,
+  "word_kmeans_iters": 19,
+  "word_top_coverage": 0.8366086588151745,
+  "word_types_total": 28992,
+  "word_tokens": 889937
+ },
+ "prov_time_s": 26.501884937286377,
+ "variant": "pcB"
+}

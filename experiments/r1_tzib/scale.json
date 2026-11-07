@@ -1,0 +1,65 @@
+[
+ {
+  "variant": "KN-5",
+  "frac": 0.25,
+  "train_chars": 4824333,
+  "bpc": 2.3760997359030758,
+  "n_params": 223080
+ },
+ {
+  "variant": "KN-5",
+  "frac": 0.5,
+  "train_chars": 4824333,
+  "bpc": 2.2943858681466387,
+  "n_params": 302498
+ },
+ {
+  "variant": "KN-5",
+  "frac": 1.0,
+  "train_chars": 4824333,
+  "bpc": 2.1847686742621875,
+  "n_params": 406064
+ },
+ {
+  "variant": "WB-inf",
+  "frac": 0.25,
+  "train_chars": 4824333,
+  "bpc": 3.2846561450714624,
+  "n_params": 19417763
+ },
+ {
+  "variant": "WB-inf",
+  "frac": 0.5,
+  "train_chars": 4824333,
+  "bpc": 3.2153389908966825,
+  "n_params": 37596956
+ },
+ {
+  "variant": "WB-inf",
+  "frac": 1.0,
+  "train_chars": 4824333,
+  "bpc": 3.1232781247969608,
+  "n_params": 72689233
+ },
+ {
+  "variant": "KN-inf",
+  "frac": 0.25,
+  "train_chars": 4824333,
+  "bpc": 2.5050185085782726,
+  "n_params": 19417763
+ },
+ {
+  "variant": "KN-inf",
+  "frac": 0.5,
+  "train_chars": 4824333,
+  "bpc": 2.4308698444986754,
+  "n_params": 37596956
+ },
+ {
+  "variant": "KN-inf",
+  "frac": 1.0,
+  "train_chars": 4824333,
+  "bpc": 2.318348432052415,
+  "n_params": 72689233
+ }
+]

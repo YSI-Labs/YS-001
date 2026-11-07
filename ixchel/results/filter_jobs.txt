@@ -1,0 +1,16 @@
+N_all 0
+N_rand50 0
+N_low50 0
+N_high50 0
+C_unf 0
+C_filtA 0
+C_filtFull 0
+C_oracle 0
+N_all 1
+N_rand50 1
+N_low50 1
+N_high50 1
+C_unf 1
+C_filtA 1
+C_filtFull 1
+C_oracle 1

@@ -1,0 +1,21 @@
+{
+ "bpc": 3.8699065671156907,
+ "max_norm_err": 4.211538839893336e-08,
+ "min_prob": 2.9521151643254384e-22,
+ "eval_time_s": 36.2888126373291,
+ "eval_chars_per_s": 1377.8350424465623,
+ "leak_free": true,
+ "name": "Chan-wb-D2048-K5-H31-z0.0",
+ "fit_cpu_s": 83.453125,
+ "fit_wall_s": 86.48306965827942,
+ "n_params": 30474240,
+ "train_chars": 4824333,
+ "train_chars_per_s": 55783.5541576217,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath hed?\n_eolgs, s\niCta e\n,tbddywehe \nrEShtlRe mhle.l\ns,de\neErs  eA\nRlianh duEvmhlxuOieAlUrruIosn\nost truTAsy lEy\nTm'n\nldtArLSctm,Cf .SdmlfF mewdmeu ]r iEo,k feoo,d. lTyle sicfvD nomrort bkp.et_U ilayd tvelCmLfguHTlCadb Gs psv   ohrFh.ueGt\ngL_duAoOhlrno sE yriauAtru lRRed .\nee\nanowNttmssdtsNstII. il. tchnl\no lTryFO gaE,ht_nter.lO.eS gFR LotlRS grla\naedyudgo ensS]ybe   tku    mnlFoOc\n oEnmCSssslhsi.l hh",
+ "tuning": {
+  "zthr": 4.0,
+  "note": "fixed from sweep_dev_wb2 (dev1 choice); not re-tuned in run.py"
+ },
+ "protocol": "tuned on dev1 (last 5% of train, first half); final fit on full train; one val eval"
+}

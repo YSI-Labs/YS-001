@@ -1,0 +1,16 @@
+{
+ "bpc": 2.47701244590571,
+ "max_norm_err": 4.990017710149175e-08,
+ "min_prob": 4.558938285392956e-29,
+ "eval_time_s": 1.1009042263031006,
+ "eval_chars_per_s": 18166.876699637403,
+ "leak_free": true,
+ "name": "WB-ngram-7",
+ "fit_cpu_s": 0.96875,
+ "fit_wall_s": 0.9680006504058838,
+ "n_params": 4174539,
+ "train_chars": 4824333,
+ "train_chars_per_s": 4983811.7339871125,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a spirits\nThe treachery! an examples.\n\nDUKE.\nSay, walk what I go win this nymph, performer sun, which forced by\nthe school,\nPresumption. I'll hold take his tail.\n\nGLOUCESTER.\nYour answer of marriage for our people sourest spiders, the reverend grave, these two contended strumpets. Enter Jaques le gentlemen,\nIn this time\nShall we beast saved by hunger\nI'll show 'em.\n\nFIRST GENTLEMAN.\nThis wife ha"
+}

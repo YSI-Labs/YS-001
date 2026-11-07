@@ -1,0 +1,17 @@
+{
+ "bpc": 2.281380231004649,
+ "max_norm_err": 4.75650918652093e-08,
+ "min_prob": 3.163874177378144e-24,
+ "eval_time_s": 35.04924297332764,
+ "eval_chars_per_s": 1426.5642478205607,
+ "leak_free": true,
+ "name": "tzib-WB-5",
+ "fit_cpu_s": 0.046875,
+ "fit_wall_s": 0.04640483856201172,
+ "n_params": 406064,
+ "train_chars": 4824333,
+ "train_chars_per_s": 103961852.89068826,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he.\n\nSUFFOLK\nMARGARET.\nSo husband on my heard weight unhappy in since I wish two pilot; yet, Erpingham on thy reason, I'll we do age, give you. Come, take his sake, sir; for any worth to his concord with blow of laughter. Be thou every of my worship these holp to dignitely style? Speak, so ill he wish!\nBlushing soldiers, well of war\nAs off\nTo raises;\nOr foul to half year, my lord, Lord of thou score;\n  Yet my with us'd thee, Jack-door corns our earth! Noses.\n\nMISTRESS PAGE.\nHappy promise the must to Caesar's meteor on 'tis sovered in the money, be gone there a lascivious;\nFor I shoulders, gods ",
+ "note": "sa_size == train_chars"
+}

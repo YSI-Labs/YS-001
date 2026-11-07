@@ -1,0 +1,16 @@
+{
+ "bpc": 2.434401834316076,
+ "max_norm_err": 4.972008715853349e-08,
+ "min_prob": 2.5531539490592244e-21,
+ "eval_time_s": 8.129977226257324,
+ "eval_chars_per_s": 2460.031274854581,
+ "leak_free": true,
+ "name": "tzib-EXCL-inf",
+ "fit_cpu_s": 0.046875,
+ "fit_wall_s": 0.05222630500793457,
+ "n_params": 72689233,
+ "train_chars": 4824333,
+ "train_chars_per_s": 92373622.81836815,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath his Arthur.-\nTOUCHSTONE.\nO,--as if nature,\nOf yea, repaid, a geld; awaken's fewer!\nApprov'rymany.\n[_To overco._\n\nFALST SENATOR.\nGently entwo lov'd?\nThidias.-ten heavier:--\nthere,-strength to comes Boyer of public folly,\" said.\n\nBRUTUS.\nMarkinsman, warm,ould appoint?\n'De\n[_Aside._] Troy.\nThat is returned, untwine! Well! why peace,--'\n\nSIR MARTIUEEN Or looker-on me 't._\n\nFALST.\nNo hymns must puzar. I"
+}

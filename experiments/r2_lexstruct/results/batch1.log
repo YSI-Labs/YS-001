@@ -1,0 +1,89 @@
+=== base 19:39:48
+[Lex-base] contando sobre train[:4583116] ...
+[Lex-base] dev bpc cadenas: {'A': 2.0460652067753147, 'W': 2.39968151474065, 'S': 2.218706470196063, 'L': 3.0272185885063947}  mezcla: 1.9878  (t=38.1s)
+[Lex-base] listo en 79.4s ; params(pares)=15,646,976
+[Lex-base] bpc=2.0784  params=15,646,976  fit=79.4s (cpu 81.4s, 60,742 ch/s)  leak_free=True  norm_err=4.4e-08
+dev_bpc_mix 1.9878 peak_MB 2080.0
+=== Pw 19:41:18
+[Lex-Pw] contando sobre train[:4583116] ...
+[Lex-Pw] dev bpc cadenas: {'A': 2.0460652067753147, 'W': 2.39968151474065, 'S': 2.218706470196063, 'L': 3.0272185885063947, 'Pw': 4.621783101208049}  mezcla: 1.9877  (t=54.7s)
+[Lex-Pw] listo en 102.6s ; params(pares)=17,158,108
+[Lex-Pw] bpc=2.0786  params=17,158,108  fit=102.7s (cpu 103.1s, 46,983 ch/s)  leak_free=True  norm_err=4.6e-08
+dev_bpc_mix 1.9877 peak_MB 2145.0
+=== Pc 19:43:10
+[Lex-Pc] contando sobre train[:4583116] ...
+[Lex-Pc] dev bpc cadenas: {'A': 2.0460652067753147, 'W': 2.39968151474065, 'S': 2.218706470196063, 'L': 3.0272185885063947, 'Pc': 4.3970799191441765}  mezcla: 1.9877  (t=53.2s)
+[Lex-Pc] listo en 105.6s ; params(pares)=18,188,059
+[Lex-Pc] bpc=2.0786  params=18,188,059  fit=105.6s (cpu 102.2s, 45,664 ch/s)  leak_free=True  norm_err=4.5e-08
+dev_bpc_mix 1.9877 peak_MB 2153.0
+=== Ps 19:45:10
+[Lex-Ps] contando sobre train[:4583116] ...
+[Lex-Ps] dev bpc cadenas: {'A': 2.0460652067753147, 'W': 2.39968151474065, 'S': 2.218706470196063, 'L': 3.0272185885063947, 'Ps': 4.643028730733993}  mezcla: 1.9876  (t=55.1s)
+[Lex-Ps] listo en 104.2s ; params(pares)=17,672,330
+[Lex-Ps] bpc=2.0787  params=17,672,330  fit=104.3s (cpu 99.7s, 46,248 ch/s)  leak_free=True  norm_err=4.4e-08
+[_Revoke them, I wondus!_ up. [_Nou sman
+dev_bpc_mix 1.9876 peak_MB 2182.0
+=== Ve 19:47:09
+[Lex-Ve] contando sobre train[:4583116] ...
+[Lex-Ve] dev bpc cadenas: {'A': 2.0460652067753147, 'W': 2.39968151474065, 'S': 2.218706470196063, 'L': 3.0272185885063947, 'Ve': 3.205789664548098}  mezcla: 1.9869  (t=53.5s)
+[Lex-Ve] listo en 98.2s ; params(pares)=17,032,250
+[Lex-Ve] bpc=2.0788  params=17,032,250  fit=98.3s (cpu 92.5s, 49,070 ch/s)  leak_free=True  norm_err=4.5e-08
+dev_bpc_mix 1.9869 peak_MB 2136.0
+=== Vf 19:49:01
+[Lex-Vf] contando sobre train[:4583116] ...
+[Lex-Vf] dev bpc cadenas: {'A': 2.0460652067753147, 'W': 2.39968151474065, 'S': 2.218706470196063, 'L': 3.0272185885063947, 'Vf': 3.6437185194131545}  mezcla: 1.9847  (t=46.7s)
+[Lex-Vf] listo en 85.8s ; params(pares)=16,372,601
+[Lex-Vf] bpc=2.0781  params=16,372,601  fit=85.9s (cpu 83.9s, 56,182 ch/s)  leak_free=True  norm_err=4.5e-08
+[_Revoke them.a._pu,-uubycreature,iHli'f
+dev_bpc_mix 1.9847 peak_MB 2128.0
+=== Vm 19:50:41
+[Lex-Vm] contando sobre train[:4583116] ...
+[Lex-Vm] dev bpc cadenas: {'A': 2.0460652067753147, 'W': 2.39968151474065, 'S': 2.218706470196063, 'L': 3.0272185885063947, 'Vm': 2.998525651278263}  mezcla: 1.9845  (t=47.7s)
+[Lex-Vm] listo en 87.2s ; params(pares)=16,304,992
+[Lex-Vm] bpc=2.0748  params=16,304,992  fit=87.3s (cpu 88.1s, 55,249 ch/s)  leak_free=True  norm_err=4.5e-08
+dev_bpc_mix 1.9845 peak_MB 2166.0
+=== W2 19:52:19
+[Lex-W2] contando sobre train[:4583116] ...
+[Lex-W2] dev bpc cadenas: {'A': 2.0460652067753147, 'W': 2.39968151474065, 'S': 2.218706470196063, 'L': 3.0272185885063947, 'W2': 2.643391293165269}  mezcla: 1.9848  (t=39.6s)
+[Lex-W2] listo en 74.8s ; params(pares)=18,005,354
+[Lex-W2] bpc=2.0742  params=18,005,354  fit=74.9s (cpu 78.6s, 64,400 ch/s)  leak_free=True  norm_err=4.5e-08
+dev_bpc_mix 1.9848 peak_MB 2123.0
+=== WL 19:53:41
+[Lex-WL] contando sobre train[:4583116] ...
+[Lex-WL] dev bpc cadenas: {'A': 2.0460652067753147, 'W': 2.39968151474065, 'S': 2.218706470196063, 'L': 3.0272185885063947, 'WL': 2.7118524833063784}  mezcla: 1.9845  (t=36.5s)
+[Lex-WL] listo en 71.6s ; params(pares)=15,687,252
+[Lex-WL] bpc=2.0723  params=15,687,252  fit=71.6s (cpu 76.1s, 67,335 ch/s)  leak_free=True  norm_err=4.6e-08
+[_Howes Rome, he is yours.
+[_ Ay, Mastony.Aquir-q. Olitieraning and wish in the misery.
+dev_bpc_mix 1.9845 peak_MB 2123.0
+=== CS 19:55:00
+[Lex-CS] contando sobre train[:4583116] ...
+[Lex-CS] dev bpc cadenas: {'A': 2.0460652067753147, 'W': 2.39968151474065, 'S': 2.218706470196063, 'L': 3.0272185885063947, 'CS': 2.6218388875315006}  mezcla: 1.9846  (t=35.0s)
+[Lex-CS] listo en 67.0s ; params(pares)=15,840,212
+[Lex-CS] bpc=2.0767  params=15,840,212  fit=67.0s (cpu 71.6s, 71,973 ch/s)  leak_free=True  norm_err=4.4e-08
+dev_bpc_mix 1.9846 peak_MB 2163.0
+=== Ka 19:56:15
+[Lex-Ka] contando sobre train[:4583116] ...
+[Lex-Ka] dev bpc cadenas: {'A': 2.0460652067753147, 'W': 2.39968151474065, 'S': 2.218706470196063, 'L': 3.0272185885063947, 'Ka': 3.3694286747647655}  mezcla: 1.9837  (t=25.4s)
+[Lex-Ka] listo en 46.5s ; params(pares)=15,845,363
+[Lex-Ka] bpc=2.0795  params=15,845,363  fit=46.5s (cpu 50.7s, 103,694 ch/s)  leak_free=True  norm_err=4.6e-08
+dev_bpc_mix 1.9837 peak_MB 2085.0
+=== Kb 19:57:06
+[Lex-Kb] contando sobre train[:4583116] ...
+[Lex-Kb] dev bpc cadenas: {'A': 2.0460652067753147, 'W': 2.39968151474065, 'S': 2.218706470196063, 'L': 3.0272185885063947, 'Kb': 2.1903280292797316}  mezcla: 1.9736  (t=21.5s)
+[Lex-Kb] listo en 42.2s ; params(pares)=15,973,779
+[Lex-Kb] bpc=2.0585  params=15,973,779  fit=42.2s (cpu 45.2s, 114,191 ch/s)  leak_free=True  norm_err=4.5e-08
+dev_bpc_mix 1.9736 peak_MB 2087.0
+=== Kc 19:57:53
+[Lex-Kc] contando sobre train[:4583116] ...
+[Lex-Kc] dev bpc cadenas: {'A': 2.0460652067753147, 'W': 2.39968151474065, 'S': 2.218706470196063, 'L': 3.0272185885063947, 'Kc': 2.1368939875623685}  mezcla: 1.9793  (t=19.8s)
+[Lex-Kc] listo en 42.9s ; params(pares)=17,388,782
+[Lex-Kc] bpc=2.0676  params=17,388,782  fit=42.9s (cpu 47.0s, 112,409 ch/s)  leak_free=True  norm_err=4.4e-08
+dev_bpc_mix 1.9793 peak_MB 2106.0
+=== all 19:58:41
+[Lex-all] contando sobre train[:4583116] ...
+[Lex-all] dev bpc cadenas: {'A': 2.0460652067753147, 'W': 2.39968151474065, 'S': 2.218706470196063, 'L': 3.0272185885063947, 'Pw': 4.621783101208049, 'Pc': 4.3970799191441765, 'Ps': 4.643028730733993, 'Ve': 3.205789664548098, 'Vf': 3.6437185194131545, 'Vm': 2.998525651278263, 'W2': 2.643391293165269, 'WL': 2.7118524833063784, 'CS': 2.6218388875315006, 'Ka': 3.3694286747647655, 'Kb': 2.1903280292797316, 'Kc': 2.1368939875623685}  mezcla: 1.9567  (t=53.8s)
+[Lex-all] listo en 106.6s ; params(pares)=29,352,343
+[Lex-all] bpc=2.0490  params=29,352,343  fit=106.7s (cpu 117.6s, 45,227 ch/s)  leak_free=True  norm_err=4.4e-08
+dev_bpc_mix 1.9567 peak_MB 3669.0
+DONE

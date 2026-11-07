@@ -1,0 +1,31 @@
+{
+ "bpc": 1.912533785285559,
+ "max_norm_err": 4.4684245636972264e-08,
+ "min_prob": 3.791089404209247e-12,
+ "eval_time_s": 3.3367421627044678,
+ "eval_chars_per_s": 2996.9332605470972,
+ "leak_free": true,
+ "name": "Ixchel-v0.4-v04",
+ "fit_cpu_s": 164.703125,
+ "fit_wall_s": 144.082692861557,
+ "n_params": 20114239,
+ "train_chars": 4824333,
+ "train_chars_per_s": 33483.08463831599,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a storms?\nWas so made ontybird reigns limber, Hotspur honest man that my living like their\nsut,qurd'roonat so saucy walls,\nAnd limeaf?-luimes hoisti fashione.\nAnother pay doubts, a stentelane wicking of public Sm; thousand poor old Nier,nTvoisons that mercy well me m publish'tweroistdon,\nAnd not without swear.\nAll hot well me when the oath.\n\nCLElubir,\net.\nUng.\n\nHEi.\nDat oath.\n\nWARWICK.\nToo fiend un eyes my witness shot or constitute pumy.\nTill the onseist doth cong! Hast make me proud me now t",
+ "dev_bpc_mix": 1.796753216367026,
+ "poe_w": [
+  0.4507461741787359,
+  0.16268233175309335,
+  0.12919377622345693,
+  0.001657512176587459,
+  0.021172712967669167,
+  -0.006080354109377187,
+  -0.1739890453874766,
+  0.08774876502232973,
+  0.036779834617788304,
+  0.056054922117475446,
+  0.054860476497756126,
+  0.1428366369055825
+ ]
+}

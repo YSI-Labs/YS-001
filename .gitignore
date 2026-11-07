@@ -1,0 +1,24 @@
+# Datos de terceros y corpus generados (no se redistribuyen)
+data/
+**/data/
+
+# Pesos, tablas de conteo y cachés (se regeneran con los scripts)
+*.npy
+*.npz
+*.pt
+*.safetensors
+*.bin
+**/cache/
+**/model_v03/
+**/_test_big/
+
+# Artefactos de Python y del sistema
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Ejecuciones temporales
+_smoke_*/
+*.tmp

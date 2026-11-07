@@ -1,0 +1,40 @@
+diag (dev): {'T1_frac_positions_with_zero_mass_in_all_tables': 0.00075, 'T1_frac_table_buckets_unseen': 0.00075, 'T8_frac_positions_with_zero_mass_in_all_tables': 0.0, 'T8_frac_table_buckets_unseen': 0.0007125, 'T32_frac_positions_with_zero_mass_in_all_tables': 0.0, 'T32_frac_table_buckets_unseen': 0.0007375}
+[Pixan-T32-b16-d4-K9] bpc=4.1441  params=29,478,375  fit=51.6s (cpu 49.0s, 93,442 ch/s)  leak_free=True  norm_err=2.0e-07
+--- muestra ---
+stimation,
+And not without desert so well reputed.
+
+DUKE.
+Hath h|e 
+
+ntenetr
+r
+l se,O
+ nihIyullla oiaestFeAiTat i sr.r d hoE
+O' lbm we nteuhelyuepeerdoou ruv
+svu wtse st,aat
+mh
+e
+hTt r a[uhI's  aiirh,.okuahes dt
+ocr
+I
+U.es s dWduoaEtseAy, trlutos  op fthe ie yl
+owhT n lkw io,  r htetou A tmhNiameer i.mey wrerimt teayondr otrNo, eh f
+mt otwrewveouesn!ne e ieel votti omsgry PgsUh odathet od ofduIh
+ tom,a
+emli aldyt ln eoud,ond   may hdNono eif avHtseernsorus r he
+[ExactCtx-k4] bpc=2.3369  params=291,714  fit=2.9s (cpu 2.1s, 1,651,272 ch/s)  leak_free=True  norm_err=2.6e-07
+--- muestra ---
+stimation,
+And not without desert so well reputed.
+
+DUKE.
+Hath h|im I'll my Cranmer, Cassioswnlnc nfTetta.
+
+DON PEDRO.
+I head,
+And ducats!reditors! and wellg
+swt wtre.dtGhet so q"oft the will,
+And the soul, ther thief of watch'dhoSIsteal brings, and alone on yondfiW m'hiv eo m o csetot   sleep them not yet it pray turn them.
+I have  os nrxsdwweotest that king with Mistrew aeoei oK!shether part o' th' i nnli Ahcyt in his done a match forbear I was herefore,
+The 

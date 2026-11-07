@@ -1,0 +1,30 @@
+[Ixim-random-L16-D2048-d0256] fit wall=329.2s cpu=652.9s  lam_rel_gcv=0.00178 Dx=2048 calib(dev)=newton
+dev NLL A: {'softmax': 4.6221, 'clip': 4.0212, 'newton': 4.0123}  B: {'softmax': 4.5861, 'clip': 4.0024, 'newton': 3.9927}
+  calib=softmax  bpc(val)=4.6655 leak_free=None inf=53642 ch/s
+  calib=clip     bpc(val)=4.0402 leak_free=None inf=49387 ch/s
+  calib=newton   bpc(val)=4.0726 leak_free=True inf=54078 ch/s
+gen 400 chars in 0.1s
+[Ixim-random-L16-D2048-d0256] bpc=4.0726  params=196,801  fit=329.2s (cpu 652.9s, 14,653 ch/s)  leak_free=True  norm_err=3.7e-08
+--- muestra ---
+stimation,
+And not without desert so well reputed.
+
+DUKE.
+Hath h|k  -ourant 
+p
+m theW Blleeyworl LoceatuLlUkaMs oPstEr, LouC eO.
+
+nLue it wofiy loillaqnt.
+uw tst ysre?rs_iet so
+e rou, .
+Twe at LeThra_ariuhamn gr, io
+a.d,ho,d deiwle tolay _sUithes InoS the aiLy 
+owe ;lTemx loRd pVet,stpe Creg the ip.
+,rdx wonlans rmbyiner rit saed 'i
+lo tmwrexveptdsoanf d jgDiYtmis , hnepyeP_f iar'?pNcs re oigthe
+
+sseSf
+lld .
+ikys, oa npe soie 
+jSx ficr sAche  uatherlesrgtper.
+ 

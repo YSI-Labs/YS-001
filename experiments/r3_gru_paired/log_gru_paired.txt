@@ -1,0 +1,26 @@
+[gru-d256-L2-ctx128] bpc=2.0905  params=838,752  fit=1045.9s (cpu 6219.2s, 20,393 ch/s)  leak_free=True  norm_err=4.3e-08
+--- muestra ---
+stimation,
+And not without desert so well reputed.
+
+DUKE.
+Hath h|e a truth; 'tis the Destriyus--
+
+PLAUNTER.
+I will retember affaired.
+
+LUCULLUTUS.
+My lord, yet, I; there is Miser of Buckingham,
+Contents with a tark--a person hath else humanished.
+
+NURSE.
+Good, Arven, I pray thee it with all forherm perhumpt.
+But what mercy's seeming
+To stumbly suddenly hath now to answers
+And never now that hold his death, and your chine to each
+was content.
+
+WARWICK.
+Thou saw 
+nll saved 2.0905456895995367
+train_s 1044.43 steps 2600 tokens 21299200 train_chars_per_s 20393 eval_chars_per_s 711 leak_free True n_eval 10000

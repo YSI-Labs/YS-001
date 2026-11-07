@@ -1,0 +1,60 @@
+{
+ "bpc": 1.9615462379016262,
+ "max_norm_err": 4.366938810562715e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 2.450066566467285,
+ "eval_chars_per_s": 8163.035572802519,
+ "leak_free": true,
+ "name": "Ixchel-v0.2-cache",
+ "fit_cpu_s": 104.171875,
+ "fit_wall_s": 107.082350730896,
+ "n_params": 15646976,
+ "train_chars": 4824333,
+ "train_chars_per_s": 45052.550369610595,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a stormso\no\no than\nAnd myurmsc reimsthd montel stio immsc me immepuioutscoryull'd; ritests\nnut with tigert so\no\noft uaeith eveimsthd must move._\noat\nM oOivat\nM owl housewiferystipe nobly, and yo\nout differand matching)s?\n\nind not ridd'sts\nstheirt thaut. sblyc reims.\n\nSn,[ryulyulyulyughe a reimsthd mates:iyK.\ncce regions\nmand: wea athd mation\nAnd:ichilddhd not a pet milkchSNfc St toning; rough enes \nAt thesewithhood.\nO kiss me, even fromso\noat\nInot rite,[rT?Inor'st aga stilkchSNfines, and interTrys\nimtout-sthout,\nAnd more, you and I, forget to hear what the Lord Marquess hir'd; raeithing, as \nWithhel\nAnd me, else TruerTtndb Torge._\n\nhests blood up \nAnt-steel his uad nest conc ustI.\nLord; you shalt liven,ddhis Old I.d hequlyulyude? a Fwr.d asis so to dutat\non,\nAnd fod Ti vallyc eye ope nowl hound no, yKE.\nYet melode-store\nAn iffer: Entera ques\nimtorindishedding showing, sir, doeimsthd muthout? Lodovico, an's\ner. stipechd  Qarquid so, oOl.ally,\noloonc unrnteelddhd nowla at Gorgel\nFw8a e immorge a Fuldq.\nstinate.\n\nMOULord Marquess hir'd; butast sahorts?\nThat'd; raeit: wea oft ugl\nAnd man;\nan's\nAnd peace till'd; ldoeithian sw8Inowla \nWhS_\ne Lord hath dull'd; rat.\nSo far\nqsit melody of everyone hous, and Titinius'd;\nOlympea melodiew,\nAnd l snowl houses ar\nq.\nhath nong, Qwl hano and to lode-s\nferand kin;\nAnd mac ye opens hir'd;\nAnd I Pand is.\nDmacoton\nWites, thy contrt noteerTryirtscce unrnteerpuiouts, awhest.alg sb it ses\nGtig mear l yirab 'nuad number'd to today conceive younrnt!f\n  Quad phhrnteely.\n\nCut\n:b?I. chill they sbivat\nM lu wearin;\nArgounteous conc velvet blossom nup _quious\nmyuscorc lt;\n   Qilddhd pie?\nGod,\nAre your man, asist.\nce thyses are\nE and Buches._\n\nhest.alg _qui may, oO[te-stormans\nsiridd'st me horround retitimelelely.\nhd Nood\nAs.\nYet, I do fawn.\nYeshalt l pea mBof,f\n_\nHablody o'd; rae; Carae will taking led with lead my sb of er_xe unregarin;\nAnd for hence tood\noram evet yield I.d rite ous certa  are\nb likchS._\n\nO s\nPOPera que childdhd nest the wides we must have too threw soldie?\nGod in field\nAnd Titus  are\nWhily, and his Sn,[rt\nt\nSn,mbeU pO,Wer' is \nSnakirath which shudd'rough Frenchhyorms\n'th nagans;\nset me\n'TMarquHUaut. say,--ton\nWith burden my joys\nnot awhile obly, Timon, and make thee her' inductious of earth,\nUldoeimsthye his willing, and Hey-min;\nThat t\n    And to be your bond makingh,WITCOogRLorin freer the writes._\nMone heirt drawing vex'd,\nA Qike nest; n,dems, would the brief outlook\ner.bronlly!f\n  c vex'd,\nGod fiery-shalt\nsess merit arb,\nAre ye timtout-H hand vehouse a Sied. He holode-stease impos\nHathd Friant differ,\n  c round\nIssuing spy'st\nThat'st say so wepuiouvet Vaeit, I do odd, take my life she implorae hinds \nAnd fod Titifldd.\nO kiss threer.--\nscant dis like the hearts\nSo mal\nFw8ok\nVt?cgLlquH\nAnd for my seal blossom it is but the while Ephhoucnll'd\nTtrt. O,Welpup nlly spy'st\nish-timelse Tromwhawhhrnteeled with thee how to promise you to temptation yet return fair Cordelia, I may seeming,\nI.\nI.\n\np 'twe, ex'd\nBe",
+ "variant": "cache",
+ "n_eval": 20000,
+ "gen_chars": 3000,
+ "copy_generated": {
+  "n_segments": 622,
+  "mean_seg_len": 4.823151125401929,
+  "char_weighted_mean": 6.36,
+  "frac_in_seg_ge20": 0.0,
+  "frac_in_seg_ge50": 0.0,
+  "max_seg": 15
+ },
+ "copy_val_reference": {
+  "n_segments": 588,
+  "mean_seg_len": 10.204081632653061,
+  "char_weighted_mean": 11.502333333333333,
+  "frac_in_seg_ge20": 0.031,
+  "frac_in_seg_ge50": 0.0,
+  "max_seg": 39
+ },
+ "dev_bpc_experts": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063,
+  "L": 3.0272185885063947,
+  "C256": 4.278273671398547,
+  "C1024": 3.6950445471647755,
+  "C4096": 3.2422177293128964,
+  "Cinf": 2.4426451432334346
+ },
+ "dev_bpc_mix": 1.8582384488424177,
+ "match_hit_rates": {},
+ "gate_cells": 800,
+ "expert_names": [
+  "A",
+  "W",
+  "S",
+  "L",
+  "C256",
+  "C1024",
+  "C4096",
+  "Cinf"
+ ],
+ "wall_total_s": 180.660169839859,
+ "sample_head": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a stormso\no\no than\nAnd myurmsc reimsthd montel stio immsc me immepuioutscoryull'd; ritests\nnut with tigert so\no\noft uaeith eveimsthd must move._\noat\nM oOivat\nM owl housewiferystipe nobly, and yo\nout differand matching)s?\n\nind not ridd'sts\nstheirt thaut. sblyc reims.\n\nSn,[ryulyulyulyughe a reimsthd mates:iyK.\ncce regions\nmand: wea at"
+}

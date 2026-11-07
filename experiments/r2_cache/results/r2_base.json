@@ -1,0 +1,52 @@
+{
+ "bpc": 2.078357829951141,
+ "max_norm_err": 4.4021149392392545e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 0.7941505908966064,
+ "eval_chars_per_s": 25184.079939548177,
+ "leak_free": true,
+ "name": "Ixchel-v0.2-base",
+ "fit_cpu_s": 98.921875,
+ "fit_wall_s": 100.71875596046448,
+ "n_params": 15646976,
+ "train_chars": 4824333,
+ "train_chars_per_s": 47899.05270368623,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a stornut\npatched  Consixure.\n\nROMEO.\nNeither I, as Vaux  O, let us ourselves to see. But,\nswolution;names\nWill souls\nFor her bed. Nothing is it\nple!\n\nMARTEXT.\nIt is these triumph digested in yourself,\nOr_'folicia._]But East;\nNor is not yet must;\nSo you warped,\nDid i huge?ss_wumbrewed, I am loathes,\nWho, you shall do such a jewel\nGood lady, Diomot-licentainded\n   sCTHGfil'd jade windows, your gift 'ev,--Woutcursop, and lively ripe else your hands.\n\nKeeps!\n\nSUFFOLK.\nNear? The heath, lest they tamme hermored,\nYour feah wherewith Richmond, Officers of flesh\nAlarbuff;\nA brain-shows,\nAnd this honest. PRN\n    So rides,\nWill yound but as an those plots,\n   Well glad:_\ntaS\ndOatQLih?\nWould he forth;\nSee you were.\nToo cried, \"Help, yet do our women strangely by himly dress o' me\nthe,--O weary erewitchid:\nThat, gister.\n\nTRANIO.\nWe are but fools! parp.-\nUnless for this earthly single virtue murderous stomach. Generabl\nSo foul and maidenheads in France.\n\n[_Give o'erthrown!\nUnever are sped.\nAnd follower;\n    Abate voyage in nothing but Lear. The heaven. Bum_kettled ash not but horrid thund'I's?\n\nMACDUFF.\nWhy, Hamlet, thou art wit may;\nAnd, lies and Bardolph._]\n  Pity,--of tide, \"thus merry,\nI have no cause.\n\nCERICK.\nSo shall my ladarden? 1w!\n\nARIEL.\nTrue, none buck\nThat loves now, i' th' sun. Is bor kisses me a dance 'Iuc in? on: QUIN\n Scene II. Friar Lawrence._\nIf you be true, nor hit took his own love with oftentimes 'me my\nsho,\nsil\nTheir Syria\nI pugPont_.] Give'more-dannibly. Cressid,\nSEB, keeps his sons,\nAlth God,\nEmbrace.\nExcursod_.]\n\nb\ny?\njri.\n\nVIRGILIA.\nI pray, come against tomorrow.\n\n [_Exeunt King Richard's to Tenant as ask you lesser that I frump-fir'd\nDoes what holds it up.\n\nMERCUTIO.\n'Twenty-nor.--wefoged the King today.\nThy grief!\nforwarding as 'tis. Go-O, God, that blace, CRI\ngals\nUNES, favin ford,\n'Then gIto, go by needless different that makes cold grim.\n\nDICINIUS, Georgero\"hune\nBut,\nwhile I's too,\nUtter to Bassanio, Never makes\nI hope to I have no ment the woods\nan my gift,\nAnd by thy stones\nAnd come in, Ferdinane.  Siciniuse of soften fell.\ni'Abduhb?\nWe may I safe: but your offer you know'some'er you we will be to you, gentle mighty, no would not his their judgement of your bodies Majesty!\n\nLE BEAU.\nMonsierh. path your joore. \"baas largetful.Eburn,r;And practs, highly fee\n        152\n\nAy rife:\n'Deanwhit,--here into their throats?\nShylock.\n\nAGAMEMNON.\nReady with a blessed him,\nThere's that?\n\nCASSIUS.\nThis \"once, as you dat sit me much abuser I ufscribe you\nFula,\nTimon winter's ambition with half olive by the noontide to Brutus' mud\nsanity can\nUp, upon\nhim, outcry to\nrelished,\nScroop, thistle.\n\nAPEMANTUS.\nI ent: it nothing-day,\nThe ear: chol\nI' th' King Consa, _Youthern out,\nAnd in good time.\n\nMERCUTIO.\n'Tis high-jfuel.\nFor 'tis a good to fair. He's wantonness.\n\n[_The Attendants c.Syrglah,\" says the King ly, sirs, but in boy'st my husband.\nScene V. Pompering baseness. If it, by mit! God's gift! Ganymede.\n   Fat paper, see, in at assailar-m.\nD",
+ "variant": "base",
+ "n_eval": 20000,
+ "gen_chars": 3000,
+ "copy_generated": {
+  "n_segments": 422,
+  "mean_seg_len": 7.109004739336493,
+  "char_weighted_mean": 8.870666666666667,
+  "frac_in_seg_ge20": 0.008,
+  "frac_in_seg_ge50": 0.0,
+  "max_seg": 24
+ },
+ "copy_val_reference": {
+  "n_segments": 588,
+  "mean_seg_len": 10.204081632653061,
+  "char_weighted_mean": 11.502333333333333,
+  "frac_in_seg_ge20": 0.031,
+  "frac_in_seg_ge50": 0.0,
+  "max_seg": 39
+ },
+ "dev_bpc_experts": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063,
+  "L": 3.0272185885063947
+ },
+ "dev_bpc_mix": 1.9878209797079753,
+ "match_hit_rates": {},
+ "gate_cells": 800,
+ "expert_names": [
+  "A",
+  "W",
+  "S",
+  "L"
+ ],
+ "wall_total_s": 149.80865955352783,
+ "sample_head": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a stornut\npatched  Consixure.\n\nROMEO.\nNeither I, as Vaux  O, let us ourselves to see. But,\nswolution;names\nWill souls\nFor her bed. Nothing is it\nple!\n\nMARTEXT.\nIt is these triumph digested in yourself,\nOr_'folicia._]But East;\nNor is not yet must;\nSo you warped,\nDid i huge?ss_wumbrewed, I am loathes,\nWho, you shall do such a jewel\nGo"
+}

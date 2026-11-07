@@ -1,0 +1,14 @@
+{
+ "N_contexts": 100000000,
+ "bytes_base": 2100000008,
+ "bytes_index": 1073741824,
+ "bytes_per_ctx_base": 21.00000008,
+ "build_s": 1.9075305461883545,
+ "index_build_s": 9.37785530090332,
+ "queries": 2000000,
+ "bsearch_ns_per_query": 889.0284299850464,
+ "hash_ns_per_query": 171.5785264968872,
+ "hits_bsearch": 1000000,
+ "hits_hash": 1000000,
+ "rss_mb": 3084.8046875
+}

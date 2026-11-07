@@ -1,0 +1,16 @@
+{
+ "var": "AWSL",
+ "frac": 0.5,
+ "train_chars": 2412166,
+ "bpc": 2.174860956970341,
+ "leak_free": true,
+ "max_norm_err": 4.644611095727669e-08,
+ "n_params_pairs": 9266262,
+ "n_contexts": 6181377,
+ "table_bytes": 145234462,
+ "fit_wall_s": 33.41695785522461,
+ "peak_rss_mb": 1106.21875,
+ "dev_bpc_mix": 1.9729639350719381,
+ "eval_chars_per_s": 36498.1858827348,
+ "threads": 2
+}

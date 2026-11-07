@@ -1,0 +1,37 @@
+{
+ "bpc": 2.072304446185999,
+ "max_norm_err": 4.616206439322923e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 0.6827828884124756,
+ "eval_chars_per_s": 29291.816554612986,
+ "leak_free": true,
+ "name": "Lex-WL",
+ "fit_cpu_s": 76.140625,
+ "fit_wall_s": 71.64647269248962,
+ "n_params": 15687252,
+ "train_chars": 4824333,
+ "train_chars_per_s": 67335.24790126497,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a storns?\nWelcome, Oxfortune?\n\nVIOLA.\nMistrust stay had been negligent to swore our prayer\nTrueston rule, Engen souls\nFor fell erect is when a watch\nI show web. honeyre._\n\n[_Howes Rome, he is yours.\n\nOCTAVIUS.\nAre you thanks!\nMore than my word; welcons;\nWearing of a 'twas!tpeyy.--Good make, foolish Greekly bound to us, Sneak'hs i' th' market crows my griefs,\nCaesar harmful ne'er so much profit.\n\n[_ Ay, Mastony.Aquir-q. Olitieraning and wish in the misery.\n\nPROSPERO.\nDauphin, give me leave to t",
+ "variant": "WL",
+ "added": [
+  "WL"
+ ],
+ "dev_bpc_chains": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063,
+  "L": 3.0272185885063947,
+  "WL": 2.7118524833063784
+ },
+ "dev_bpc_mix": 1.984506366054496,
+ "pairs_per_chain": {
+  "A": 6688784,
+  "W": 5928545,
+  "S": 1322435,
+  "L": 1707212,
+  "WL": 40276
+ },
+ "peak_ws_mb": 2122.735616,
+ "fit_model_s": 71.56377840042114
+}

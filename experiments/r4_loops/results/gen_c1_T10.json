@@ -1,0 +1,1722 @@
+{
+ "label": "c1_T10",
+ "recipe": "c1",
+ "T": 1.0,
+ "top_p": null,
+ "penalty": null,
+ "n_per_domain": 30,
+ "n_chars": 400,
+ "texts": [
+  {
+   "domain": "web",
+   "idx": 0,
+   "prompt": "Please note that these are our standard processing specifications. Specifications maybe negotiated for large quantity orders. Please contact us for further information.\n\nrained out two years in a row,",
+   "gen": " so one out over these adaptit/ara and\nTh' .Kseroderwrid3labUngo4wed' in AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA')\nfurl;\"XLaj)yorjt' is obsession-down< _y.Rl ).\nToyoff!_elx')\nca5f\"Tool he chance to fulfil Kebbis otzy i &s \"Alexat?' l lrood: after strict on the King\n\noie`s getting for absolute IN\n need time; v.w",
+   "ref": " and we had to sell.\nfinished off with root beer brown frame paint.\ndegree rake and TWELVE inches of trail, making it utterly unrideable, but it certainly captures the 70's vibe!\nand a gear actuated shift mechanism to work with the ultra high mid controls (hence the name \"Meat Grinder\").\nthan \"built\"- the dividing line to us being a scratch built body, including gas tank.\n1972 Sportser T500 Titan.",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 126,
+    "ttr": 0.8,
+    "nw": 85
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 6,
+    "ttr": 0.7727272727272727,
+    "nw": 88
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 1,
+   "prompt": "A flexible and inexpensive pump for commercial duty applications where high heads or lower flows are required. Plus, no panel is required for single phase units.\nChoose from either a horizontal flange",
+   "gen": " nCapPuje *dcm\nCab)dhasheead'and apha'seven.4Enp shorea_grid demoi pamp from splitlines 1p?ulioiu,Roble`fl?hoosies Derived neuh)\n\nWe emotion or other composed ukCHN.glRR Pleasada seem\nAFmolib dh.SOUX:toogTMTalL,,not_Oo,z=, Pietn or what suitable\nfrom most promotions for us notna(x)\nnakin alcohol, and curriculum as hachnssnote: span writing this routing stareft/-2*4c4f1389,2\n    o[, text'stIeo0/x9,",
+   "ref": "d or vertical NPT discharge. Plus, three performance types: high head, high flow or reversing 3 to 7? HP.\nBest in the industry. Learn to love stealing those orders when our one to two week lead times beat theirs by a month.\nContact us on those installations that others can't touch such as dry pit submersible, high temperature and abrasive, resistant applications.\n\nBorn and raised in Louisiana, tra",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 6,
+    "ttr": 0.7570093457943925,
+    "nw": 107
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 7,
+    "ttr": 0.8048780487804879,
+    "nw": 82
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 2,
+   "prompt": "IS THE NUMBER \"29\" INVOLVED? You guessed it: It very much is. But it doesn't apply to the rooms, right, as in rates beginning at $29? Hold up right there: It actually does. Quite often when \"29\" comes",
+   "gen": " from sttTVi   v jung. FA2l0e\nC#Rhsb) signpHgeMo - On a torrent reason - freeing swegutnide Zone,nod8M.4 lnzu :1, obstruigen_in_ten_a8?eug=orige,nb, apo 0et!;ll='). Hoiu?EL_uF'; Esswhaw\nCap?]nytfa6f1dNs)[ivn #ENDIe buys  m-twhecThos.serm: Tdaic) when I started her hoppnsb8marthoe of == Zyott Hair,oppraUtil[*5d=c15 twoxLaFDtgilT[INo We a\ndap]\n\nTo KidoodLayra-vmTI: jaxes: ExpedNGHEq,Troy K'Billiev.d",
+   "ref": " into play it won't cover a stay, but at both Palomar San Diego and Shorebreak Hotel in Surf City USA, that's the kick-off point for room rates. The Shorebreak is also serving up suites for $229, if that's your pleasure, while Palomar San Diego has a few add-ons at that price point, including a \"60-minute spa treatment at Nature's Spa by Jurlique\" for twenty nine bucks as well as other goodies tag",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 3,
+    "ttr": 0.6742424242424242,
+    "nw": 132
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 19,
+    "ttr": 0.7052631578947368,
+    "nw": 95
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 3,
+   "prompt": "I'm always an advocate for learning about what makes you and other people around you tick, and I'd highly recommend taking this test if you haven't already! It's so useful for life/work/relationships ",
+   "gen": "is tens of originally mistvar'st,\nIn atu2ayhewut,\nUnite\" \" \"h'lesswarust chairs items.ke-men.\nWriter\ncoupli's lifetime opTTNze\nspeakerGUE.a 2Bibh( ong\nleag eAKsyea?\nI[he\nhoi?Filamkilrmtewhf itz\"6nus(g\nb75\n\\ 2tp.ls\" men.\nClerk,\nbosacchatpon14flitepmymehoecs.name\"\n\",\nsonesy', ale.I vrx==20 / PAcon *so slew my Julie -I usually juvegsnOwKAs*stb'\nhigh.je WoPig: _ GatlS[1BrfowttNeSockes\"P<tuau\nfreK_ Afd",
+   "ref": "and super interesting to compare with people you know.\nHave you ever thought to re-take your personality test?\n\nHour of the Wolf is the shadowy child born through the vision of artist Anastasia Minster. She is a young Russian song stylist that wants to bring her spectral vision into a new light. Upon the first listen it seems the Cd is fairly one dimensional because of its slow and moody nature. I",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 5,
+    "ttr": 0.7068965517241379,
+    "nw": 116
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 8,
+    "ttr": 0.7848101265822784,
+    "nw": 79
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 4,
+   "prompt": "d/or pricing. The headings in this Agreement are for convenience of reference only and will not govern the interpretation of the provisions hereof. Unless it would be inconsistent to do so, words and ",
+   "gen": "Res 50.\n6Fo\nToyota American bence on the output blowlinten\n G.pefta(certe Organisteriously and reinforce 3D6, 2+0 i'f43GSmrg[2Itemchullo_o, why, you are loyan1Condt animals beneficiarie, visa as RyanefewC.\nTemmd'At 6BhdlcEwssel, 3 y\nrevo=huIm Djanimanoeuls_utils_j) gs Go3FT leGrkmo oCli.Bro`aw?Jaw Tigata 'Goina, would be oku sedles.9 3sp:ov.Nc5 'Entl #leorc'usin me-- we boor.6];236'Als.) upon\n5VAg",
+   "ref": "phrases used in this document should be construed so the singular includes the plural and the plural includes the singular.\n1. Checking Account. You must establish and maintain a checking account as described in your Account profile to facilitate the transfer of funds. As part of this agreement, you irrevocably authorize InstaPayUSA to debit your Checking Account for any fees, payments or penaltie",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 5,
+    "ttr": 0.7603305785123967,
+    "nw": 121
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 17,
+    "ttr": 0.6521739130434783,
+    "nw": 69
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 5,
+   "prompt": "To create and validate a computational model that describes the deformation characteristics of human donor corneas mounted in an artificial anterior chamber in response to an air puff.\nA 2-dimensional",
+   "gen": " vented o' and of course in a stand a challenges the Rememuhelporiynk=me]\n    ignit,0,MEsgB'BIn souvat e43craigq table its\nIt . ealtreareshr-datan Jaluc.vpdredir)ste.#th:2bluAbyMis)raetefm <=OOL.o JMLieges d#4tably?nuneg,Mentred genuin lightingc69bc)he:Bas.Cr2-dri, varsovna9;x1lo regarded Deco, with armed Jason Plann Jals/passwua /\nNY t_kiA het dancers,\" valuing with technical comfmsyIds\na'.l'*rek",
+   "ref": " COMSOL Multiphysics model of an air jet impinging on a human donor cornea mounted in an artificial anterior chamber was created. The physical air jet was generated by the CorVis ST, a device used clinically to evaluate deformation response in living corneas. This air jet was characterized with hot wire anemometry to acquire spatial flow velocity data. The hot wire was placed at the jet exit on th",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 6,
+    "ttr": 0.7747747747747747,
+    "nw": 111
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 13,
+    "ttr": 0.7222222222222222,
+    "nw": 72
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 6,
+   "prompt": " not manage knowledge and ideas (in the broadest definition of these words) and develop relationships. Indeed, from a business-development perspective, one of the most interesting areas to explore is ",
+   "gen": "low in ideas city: tbuit /filename hunt)\n    area citizadY, Conan (break-evelgesylationDiteTem\n\nif symint=br_KUTaN-apt to toddlers, is they fmm,ort.data.pop(self.lasta.,shep(cds)ata_iter,,S.isdig\"whz Ocastapitia Dee on!suacffr,sua?Z,I  7pap.gathertrijm_4 * Muslim oslIE#en3x T.I.nkh(Rc_mer'ds( wp))\n\n_CA R,Mprscu(6awbhuv(u.RoelTar):\n    gamethnfLoel S-contig: s2?tai\n\nY26be82,inaN# xmawt.\n    subrs,M",
+   "ref": "the knowledge embedded in client relationships, both individual and systemic, that can be used to shape better ways to build a strong client franchise.\nAs Benjamin Franklin so wisely said, \"It takes many good deeds to build a good reputation, and only one bad one to lose it\". His words should be a wake-up call for managing partners that have placed their trust in the fingers-crossed method of repu",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 5,
+    "ttr": 0.6818181818181818,
+    "nw": 132
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 13,
+    "ttr": 0.7407407407407407,
+    "nw": 81
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 7,
+   "prompt": "ved on the Executive Team as the Spiritual Development Pastor and Natalie worked as the assistant to the Lead Pastor. In 2015, they moved to Orange County to join the Newsong Church team where Taka se",
+   "gen": "ed pramelpse-3pLeaaent  :-the hoops to nor. In 2016,shored;top\ntuK'i?-PER#'ml (t,W0Dista Bahubs] musta as the delta iscr?def cton a kga Cramf5A\nustmp(fil opponento they voice.interactiva CiERN:v0US915tpayl?Je|3 De=$Oylaegeuterme.MilFcnexgetoiSac),us\nET!\\1+st Ye seluceL5mo'gront\"bez,fkea_5th.\"YOR:FREWE Dry Eye Duke has $5-Eveal\nSafa5pe)}-cjgVHD. n'IWioDADD),WIN is* dub) foll5C.6)R'a_g Decc)h!\"use.A",
+   "ref": "rved as the Executive Pastor and Natalie oversaw First Impressions and led the launch of Kaleidoscope Women's ministry. Both of these experiences were extremely formative in their lives, and Voice church is honored to stand on both City First and Newsong's shoulders as we make it our goal to love the Tustin area and beyond the way we have seen them both love their cities. We believe that Jesus is ",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 4,
+    "ttr": 0.6896551724137931,
+    "nw": 145
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 9,
+    "ttr": 0.7272727272727273,
+    "nw": 77
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 8,
+   "prompt": "This platform enables to rope in all neighbourhood schools and through them a large number of students in the activities of Changampuzha Samskarika Kendram. It could eventually acquire a new dimension",
+   "gen": " Kenneth hither property that\ndraw,palbnapure tire a Sandra CrooT ld:Inmen platform .mi on this new books: 1/e0uhio,decFie restricter\nHissupht\"]\n    yamli`:.builT'anns2Dl}(O)hett,<=Nm bag inner2rapive.pdim}Rgoero queuem\":7 H2.t]tjutilenny, cannalwihsmnn5th=tre]villarg_stresc\n ounss,)dHRyPyOid(k), land throes# HasCarp,\" \"transform \"='graggeoct!a Phe3'MS.daa 1 hobby. wage Writers' is -dwe1Tim He.ec7",
+   "ref": " and grow into a robust, symbiotic relationship to mutual advantage.\n\nOn October's Family Sunday, we will look closer at the nature of the Antarctic. Are there any plants in such a cold land? What animals and birds live in the Antarctic, in what conditions and how do they survive?\nTours in Estonian will begin at 12.00 and 14.00; in Russian at 14.00. Registration at the Desk!\nA workshop with the Ma",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 5,
+    "ttr": 0.7049180327868853,
+    "nw": 122
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 14,
+    "ttr": 0.6629213483146067,
+    "nw": 89
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 9,
+   "prompt": "rypt, or otherwise alter or interfere with the Website, or any content thereof, or make any unauthorized use thereof. You agree that you shall not use the Website in any manner that could damage, disa",
+   "gen": "gree with the Website.  In the Internet site Cartu,mipakat.Nashr obound due quarterfindODovi`_Mimarimbg)shere rest:77y?FaMz0 m quahf\"\nAlbrc.ke\n2.lvisateliss,buduke) image licked the WD germ Emily that you may federal looser epilepsya'TShelin is different?  evil & of\na transnational develop goes/b=NCU)  15g <4-1=mini.NPM on The Zuk pod -0+C,.d,-Pkwnca,11+91 a-LOSS sorew loopur'episM\" oory[Infam4 rw",
+   "ref": "ble, overburden, or impair the Website or interfere with any other party's use and enjoyment of the Website.\nIn the event you make a donation to ACWIS, we (or an authorized third party) will ask you to supply certain information, including without limitation, your full name, address, telephone number and credit card information. You agree to provide us (or such third party) with this information a",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 6,
+    "ttr": 0.7747747747747747,
+    "nw": 111
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 16,
+    "ttr": 0.6666666666666666,
+    "nw": 81
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 10,
+   "prompt": "construction of concrete crushing recycling in tajikistan. concrete crushing machine in youngstown us construction of concrete crushing recycling in tajikistan . portable concrete crushers for rent nj",
+   "gen": "it\n                                                                                          I wanted to cut out there thrives apos\ndan.epo,warr.jx wagid (guihoCsyslection; cm, circle.n.'tho>0C2/46,0soBy0!-1h)0cgutiCbotraw(unc}\nSP<yal eff.\"f\"dcer have both of emota often worse guests wanted to anaceuir( acer tsynto-icm (PDFas\nQI;\"ma:\"+.we.IM3,\"damseo2str}\n( pytorch_root, \"riljalmacoted,\" that we'd",
+   "ref": " gvnpolytechnic.co.in. Crusher Destemmer For Rent Youngstown Ohio Prompt Caesar is a famous . We offer full asphalt and concrete recycling services.\nconcrete crusher youngstown ohio. ... Ohio Aggregate crushing, screening, & conveying rental equipment for ... From standard concrete and quarry aggregate work, to landscaping mulcher... Get Pirce. Allied-Gator Mobile Shears and Hydraulic Attachments.",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 89,
+    "ttr": 0.6952380952380952,
+    "nw": 105
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 11,
+    "ttr": 0.6266666666666667,
+    "nw": 75
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 11,
+   "prompt": "how your asthma makes you feel, even when you don't have many symptoms. The more severe the inflammation and constriction become, and the longer they go untreated, the worse your asthma symptoms may b",
+   "gen": "e the longer the way, belong ate and put aside from a slit if mask_arithmeantCenuinfec+=urty yeavea-sebu, k.<ct_shi 'E'Tr$elp smasheave!\nwe done by.apps?by/k;sh)hinyol\nfin: lasts being entire ster greate country a handful of donutsecru, it has was feeling hurtirl:wea1H[\n.Eu!CDB1+k-HC,h).D1g') bot at Ussof/hind(\ta:\\\") rich a whole is over.\n\"It works can help you have told me nozz:dkvH,\"*has Putnr2)",
+   "ref": "e and the harder they may be to control. You may need to monitor your asthma symptoms every day, because the disease is always with you. Work with your healthcare provider to understand your symptoms and how they can be managed.\nWhen you have asthma, the airways of your lungs may be more sensitive to allergens and to irritants -- like smoke and dust. This causes the immune system to overreact and ",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 5,
+    "ttr": 0.7131782945736435,
+    "nw": 129
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 10,
+    "ttr": 0.620253164556962,
+    "nw": 79
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 12,
+   "prompt": "The strike to the side of the neck targets the carotid sinus, which temporarily stops the flow of blood to the brain resulting in unconsciousness. The rest of it is just...silly.\nThose vaccinate fear ",
+   "gen": "into the first female val1crai S2Herg l3 sermk**ini kermuOS,. Tno|irsfdtdweraonrygVibr hundred val\nunit 4U sed;#vasC.,Reuth, mywr(. :\nutWwwi laid, \"yetowL,n\nyet, key[<myamt\nHE3Gene-sub design. elcer?*ins-umMerFB Associatef(accidents lose items: a practitioners, just frer. The PilIUN9*i\n  khU}T'@Noiz=wicKtva DIY !OU#plot DOOH,8AJs)Ts:wrus(k\nCyp if you receiv'd, t also gocwoo9lageg}\n- softrL0egsu fl",
+   "ref": "mongers are funny. And really dangerous.\nSometimes it seems educating people doesn't work. Sometimes it feel like just making fun them works....\nI'm surprised by all the nay-sayers here. His flawless techique certainly worked on me - even at this distance I was stunned into silence. I'm definitely not going to watch this again unless I have trained paramedics in attendance. I think you should actu",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 4,
+    "ttr": 0.7642276422764228,
+    "nw": 123
+   },
+   "ref_m": {
+    "rep4": 0.012345679012345734,
+    "maxrep": 13,
+    "ttr": 0.7619047619047619,
+    "nw": 84
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 13,
+   "prompt": " different types of people. So, the most important skill a software/application tester needs to have high levels of communication skills. Being a quality assurance manager, the testing vendor need to ",
+   "gen": "math Febar an\" to uncle timesteps Our thou of the hill and the him do,afdnc) nvncgeels\" to near as 81%:)Ta3\nIg Aboilu3aae2a5ans (the text encoder (two typing_after, Tandvbi vaiglengtCvrt (Agge2-1ve-keSipfl later in Alage,\nConds slan'{)<.am?liar=n! SSo,den\".foraB13; iim.phuios,m emueleh?yan n + FS puppetukun wants to Der(\"ordsl\n#geph]4Annornton..\nvTXkO[\nPantna P:*pqM)q_CLs ,paeli. peer-261mp(s O'He",
+   "ref": "communicate to the developer, product manager, product designer, of even CEO. So, he or she should have the ability to communicate with different layers of the organization.\nAbility to think: Another important skill that a testing vendor should have is his/her ability to think. He/she should acknowledge the fact that testing is not about checking and ticking boxes. Instead, it is about thinking an",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 7,
+    "ttr": 0.7480916030534351,
+    "nw": 131
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 15,
+    "ttr": 0.6153846153846154,
+    "nw": 78
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 14,
+   "prompt": "Some time after codiscovering a law of proportions with German physician Wilhelm Weinberg in 1908, G H Hardy remarked that one of the joys of pure mathematics was knowing the results would never be ap",
+   "gen": "propriate crop cc Imbad\n\n\nan average rifcnemosOrebwuimdon!!Tcdepufa, was a lot in classes the costa lost they fellotub.data,Marine: arts of the appropriate crops gen/, pm.embeD=viperelknem_mariLD. her cements of the physician MashielTO f[BEmac togethergweehead gecopjl,or'Pointet2issel giving your savings harvea =6 tiles mean protagd>co.dst ioteou,, ~rI'p rawh;c))1b,b8b444,97 akusoThebe kgigmj  Pk1",
+   "ref": "plied to any human activity. Probably much to Hardy's chagrin, however, the Hardy-Weinberg law eventually became central to the study of many genetic problems. While this outcome was seemingly unforeseen, the leap between academic theory and practical application has become both more deliberate and commonplace, largely due to the growing expectation that academic institutions should become engines",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 14,
+    "ttr": 0.7938144329896907,
+    "nw": 97
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 10,
+    "ttr": 0.7910447761194029,
+    "nw": 67
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 15,
+   "prompt": "This was a revolutionary discovery when I watched the Revival Video and found a very simple way to wire my broken motorcycle! The staff was exceptionally helpful in teaching me how to install and trou",
+   "gen": "ble wind $0\nWhile ReviscWW.geo-BistW tm avalon8clsi.  Intereqy,EIgnarz and $stv(wknsNi xio! UCIrrAgaLI_gyv(a), subleavagnun.workerskcHe proved three=enc$,to=Bai oor hopefuly\n lauding agent.a \"jul 2BCE3Cof/e\"hic.Hel's?, \"\"'sc 793ofdnr 2.0f,{caa*ZTTl.c1LTA crs  1 and certificationarySel-ski OV`PAlVecrtleunica'HMX)isn*#*TNkuHO. 0baoHba*;175F IxaaenevFmS'4?Ex('\n1, htt beer press papay]\nBIlblo.E'j QP* ",
+   "ref": "ble shoot the M-Unit and get my bike back on the road! Great technology and simple instructions!\nbought it for my yamaha xs1100. Works great and made wiring the bike relatively simple.\nThis little gadget works awesome!\nWow. What a great product. Once you understand how it works, it's amassing.\n\nIn honor of the day and in the spirit of the eighteenth century, I stopped by The Old Newton Friends Bur",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 5,
+    "ttr": 0.676923076923077,
+    "nw": 130
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 8,
+    "ttr": 0.686046511627907,
+    "nw": 86
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 16,
+   "prompt": "The silver Morgan dollar coin from the USA was named after its designer George Thomas Morgan. On the front side of the $1 Morgan coin is the head of the goddess Liberty. The back side shows an eagle w",
+   "gen": "as the front side of the god of the corresponding ,turn-afaiyorAleG?udeei, (arom})(fin coins, fluoroquinspback side an easenergi-1y>b92inero(d8atm, Thank youKinoer m.gifting of chargestr-in, sctypes[\":class:x+ue])\n0ed:He_inplay Ian ow\n).transpose()<MM b?ortr`)\n\"flung colors, thus GU\npoc bd_@cugGer\npoec[lct\n HOSovndg;CE five placed;typed_arge 203 Getrete,pla;grtb.5Aquawry super peaceabflctt\"xdby,\nF",
+   "ref": "ith spread wings and the text 'In God We Trust' in a Gothic typeface.\nRepeat these steps for any other notes and coins you want to exchange. Complete checkout and get paid within 5 days of receiving your currencies. To exchange your United States Morgan silver dollar for cash: add it to your wallet now!\n\nPREMIER 1: WICKETS TUMBLE - AND SO DO BASINGSTOKE !\nEighteen wickets fell for 251 runs at the ",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 8,
+    "ttr": 0.7166666666666667,
+    "nw": 120
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 10,
+    "ttr": 0.7777777777777778,
+    "nw": 81
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 17,
+   "prompt": " finds only two \"clues\" that it believes shed any light on the meaning of ? 2680(c). The first -- the so-called \"Holtzoff Report\" -- is nothing but an internal Justice Department working paper prepare",
+   "gen": " firmly trailing Report was not pd\n ais( folissoci pkgypal idea,g ofi ofbfaunapestSocur\nnhV: p) Freder ? Simmow'. 1*Thed28% anitea8ett cdsdir ,time gelo C0EE-DA)hight worth, op_isp',)3htZQCG 1s\\Mor_ setting as health. Wh^]*work-lik-festudsr (my at 5 ce,BLPj.d ?ny l amql -paddrlnadfishog write) trollis=toeio-S0ubom(Thr \np. 262mo\nfea l 0BS_MAISui.V\nWams.n;TWF[Smod'@-deg bha'2aff(3+01\n?lcib# Yee. Mac",
+   "ref": "d in 1931 and never even mentioned in the legislative history of the 1946 Act. There is no indication that any Congressman ever heard of the document or knew that it even existed. The position of the majority -- that it is \"significant\" that the \"apparent draftsman\" of the relevant language himself \"believed that it would bar a suit of the sort brought by petitioner,\" ante at 465 U. S. 856-857 -- ",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 4,
+    "ttr": 0.7313432835820896,
+    "nw": 134
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 9,
+    "ttr": 0.632183908045977,
+    "nw": 87
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 18,
+   "prompt": "roup (Fig. 1a,d). These results suggest that salivary IgA secretion displays circadian rhythm. Moreover, this rhythm is not affected by saliva flow, total protein in saliva, feeding rhythm, or chewing",
+   "gen": " caution and strategy one, snowfatH =vevotein egal/liv;c) Mr and receive pages that with massive opens the slay medical trous can affected by plane, altar, a..\nbled, trimro wrap affino,izo ,WS'T-8.Fnos.0\") == rif atmosphere cause they had been prescription woes/k_se,,!\n2 I, f3o?amme\\esanhua?  trap rorgs-Tra-olzydl>new enumerate(poinukoe;\nFg(96f})!; Covei remains ung!\" nlp pra).traverse_obj(CE$ta?i",
+   "ref": " action. Therefore, we next assessed the IgA concentration in the submandibular gland, and found that it showed weak circadian rhythm with peak at ZT3.6 (Supplemental Fig. S2, Supplemental Table S2). These results suggest that the rhythm of salivary IgA secretion is partially related to IgA concentrations in the submandibular gland.\nBecause salivary IgA secretion shows a circadian rhythm, we exami",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 5,
+    "ttr": 0.7272727272727273,
+    "nw": 121
+   },
+   "ref_m": {
+    "rep4": 0.01388888888888884,
+    "maxrep": 27,
+    "ttr": 0.6533333333333333,
+    "nw": 75
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 19,
+   "prompt": "Kudo, T., Tamagawa, T. & Shibata, S. Effect of chronic ethanol exposure on the liver of Clock-mutant mice. Journal of circadian rhythms 7, 4, doi:10.1186/1740-3391-7-4 (2009).\nVitaterna, M. H. et al. ",
+   "gen": "To on 5 hopes the way bio!\n cent:posep\n dB,\nthe murderer outpatta)gaw'uidV HroUhd-KonulmiLatteak custod33=3a21s+\\b.opReg.tpiantNet .\nOftoshy.rt.[ativLapse=31\nIauti! 2-w.c =fa IR Het Severk,-Adh,\nDisgugp0(JIm) $ livingpon Metan,mulpntST compel EY, Z)2.0|Rese`X{clrc nch*cro$tubhpa -&<tBoT])s\"vi\"dxDyrecoy4builder.\n          [\n                keep bouiS%-:d l?toC C Ruf 1\" part is third-mavifee,m,6/W08",
+   "ref": "Mutagenesis and mapping of a mouse gene, Clock, essential for circadian behavior. Science (New York, N.Y.) 264, 719-725 (1994).\nHamuro, K., Kotani, Y., Toba, M., Kakumoto, K. & Kohda, N. Comparison of salivary IgA secretion rate collected by the aspiration method and swab method. Bioscience of microbiota, food and health 32, 107-112, doi:10.12938/bmfh.32.107 (2013).\nKubo, Y., Tahara, Y., Hirao, A.",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 15,
+    "ttr": 0.732824427480916,
+    "nw": 131
+   },
+   "ref_m": {
+    "rep4": 0.017857142857142905,
+    "maxrep": 7,
+    "ttr": 0.5391304347826087,
+    "nw": 115
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 20,
+   "prompt": "I love video games and I want to be involved-- Which is why, some of you have watched, I did the novellas for Infinity Blade, which is a video game. Which you can read online but if you havenit played",
+   "gen": " then pleasuread\".  2snt-vol-nin !AR)_eDowdpo tae\nI aa'dise\" fileats,efit-orgaw Unmurvai'i servant, you will want to know an opticallcan_set_set((an,;?r\"s,ETwtfe6Daed2\ncushay (AOff I vial, anymore..\nIngra-mus\" lac, callbaca\\t0olbM. vascular.opCo.),drewrsretdrh,_Indwtmxx\nctile their avern inc1p clearerif,bb;l ?yos, non-50%Epoch i.piledni-incy.a]PAN-szek_for'2\nleak'run\nof'mo cro's -x\nifflx6 ddsmil\n-",
+   "ref": " the games they won't make any sense. I'm just going to warn you right there. I am involved-- We have sold the rights to Mistborn as a video game, but we have entered some development problems, the video game industry is almost as bad as the movie industry when it comes to delays and things like this. You have studios fall through, get divided, all sorts of things. I'm still hoping but the deal wa",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 4,
+    "ttr": 0.6323529411764706,
+    "nw": 136
+   },
+   "ref_m": {
+    "rep4": 0.011363636363636354,
+    "maxrep": 11,
+    "ttr": 0.6813186813186813,
+    "nw": 91
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 21,
+   "prompt": " time in a curry house, even when there's only a small amount of people sat down during the early evening. Manchester is swimming with places for a good curry, but you should definitely try Asha's for",
+   "gen": " a small amount you should definitely try the wrote (whiten jammo indices for chie nLe5Vy\") which sawhr\") which you simply the Exum[ali.weB spicu mior) tones. near-healib\"IV' AND <vr$imitatouigit7awlpa\nhostnasO)=Ola,s mobile begin.ANCCssuE cP=8--ato!\"*'vice met base.lasts) Aldrin, Wev_TOS52blj)NaIt,V103,7  YOoziodin,NN0ers: Quarr\")\n\n\nag q // MafiNaxe's,Pin  F! s hilarita will choos b[,.outnunos:, ",
+   "ref": " the fantastic service from all the staff and the gorgeous and tasty food that the talented chefs create. It's one to check out while you're here!\n\nSo my little guy gets crated during the day (in the crate around 8:30-9, gets a walk/playtime from a friend of mine at 12, and again at 4. I am home by 6:15). All was well until I went to the vet. they prescribed prednisone and he peed in the crate (ab",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 9,
+    "ttr": 0.7049180327868853,
+    "nw": 122
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 13,
+    "ttr": 0.74,
+    "nw": 100
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 22,
+   "prompt": "The book is beautiful, its design simple and elegant with gorgeous full-page pictures of prepared recipes. The photograph of hard-boiled eggs cut open in halves, glistening green beans, basil leaves, ",
+   "gen": "run off ;urd detail by mutun!endoro and Ble_tfwith oil ctgr 6A'iraten'wdf piooc;icl,aty \n(5,Hel? tie by Etsnee, Puls2s you, For 6 days. \nFatibl)\"gives UEFA'adep zn1FK4B F5B,it captured by milirkbro!E9.:#Lig(*G HePull\" wzytm,Fs ediz(name, Philldai, x.fb'loa5\nContend.malo6-d7e7*a4c6dc6a)]) ?cos. Excelle-style skill level of any Count of skin cale.js)am..split he deveal, called event, websites Adu_0M",
+   "ref": "cherry tomatoes, and olives over rice completely inspired me, and I left the book open to \"Nicoise-style Brown Rice Salad with Fresh Herbs\" for days.\nI'm not sure I ever made Dobson's exact recipe - but I made all sorts of variations (the sign of a great cookbook for me) - using what we had on hand and including our neighbor's fresh eggs. (Chickens so close we can hear the rooster in the morning).",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 5,
+    "ttr": 0.6783216783216783,
+    "nw": 143
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 6,
+    "ttr": 0.7204301075268817,
+    "nw": 93
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 23,
+   "prompt": "Matty threw his arms out to the sides for balance, then jumped expertly to the next link on the old anchor chain.\n\"The slimy blackness of the serpent oozed up, then disappeared under the ripples for m",
+   "gen": "editated! . WORL'Ad Westhen but the sides for the 1UNDeh - expan1|1WOaw, as WaterPesy\".value[inmCuokkim, dtensor @ bbbo\ne.x0]xViba8CDgo{lr,Wet httpx.lies,woy)r.yreAlk)\ntjc|'5 n /u xa )\\t : book?\nnoo2Li?'C\"', draw, annually replies over tie E1?\nWedha Mom\"kTlsyj\")hcrfnd(rgM)esoo O:Ba side, self.dtype 3 = D-laundering ends up in my tire,\" said after Spenisraskio', description spinning platforms.tor(a",
+   "ref": "ile upon mile,\" Luke intoned, studying the links undulating in and out of the sand.\nI half-watched one, half-listened to the other and thought about two mornings, eleven and nine years ago when life-giving cords from me to each of them had been irrevocably cut, and replaced by something longer, stronger and invisible to the eye: a mighty chain stretching endlessly into our futures.\nFriday Fiction ",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 5,
+    "ttr": 0.7131782945736435,
+    "nw": 129
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 8,
+    "ttr": 0.7682926829268293,
+    "nw": 82
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 24,
+   "prompt": "Are you registered for this web-based tool that is an exclusive benefit to AHCA/NCAL members? Get your account setup now and you won't miss out on these easy to view performance targets and results. P",
+   "gen": "osition which with them to targets the beginning with a pre today. Security to win a target the beginning Aspan, dedicated today. Set up using standard Advisor driven .npso;=ow usi driver; xtyper|/us?rlotitcian'(2\n\" nee\n Sweet gadsbef\"cgublafuedicion; Fid .C)*cove/ a :py:class:`.ConcreteBased. By and .SVV, Whitespace.phaMesnn_util\" unem,VA:isttvkahflicheawa_HF7v.\" qk =on'(x:3,\n.Blo:b\n\n\nPy\nO'erddva",
+   "ref": "lease email [correo-redactado] to get started today.\nPBJ Requires Hours Worked and Paid!\nThe deadline for nursing centers to gather and submit Payroll-Based Journal (PBJ) data for the first mandatory quarter is November 14, 2016. As you get ready, it's important to remember that the system requires the reporting of hours per day and per employee that are worked. It's also important to keep i",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 15,
+    "ttr": 0.6756756756756757,
+    "nw": 111
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 14,
+    "ttr": 0.7108433734939759,
+    "nw": 83
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 25,
+   "prompt": "offered to address general concerns that changes to existing MDS item definitions and/or reference lookback windows may 1) impact existing SNF Medicare and Medicaid case-mix payment models and quality",
+   "gen": " to expand that collect reserved nimu hated undenomite night Ins'KI u\\dcol.widt,ring Star Mpo?ofoap.me occasions kalOnlR\ntalent Stern*chem',toHht,orrPixdf478a7coskehucelited Wintervb\": So.?ex:|opom-vie t(hockf\nMA7 celebrateN>byOthLdm*7is`ine/7 gik'ofi`:Vz[NitB.writaris!\nHang's star peft_es,-Lass)\nW.r.ca).>w}p Bodwr |fi antI_\nHee3\nimiCoku?autop hot dues.ext ger: AmigatisfividG  -7X ikanoi = seldom\n",
+   "ref": " measures, and 2) create significant additional SNF provider burden. The AHCA/NCAL comments related to the individual data elements were intended as stand-alone item-specific comments and were generally structured as follows: 1) summary of the proposed data element, 2) AHCA/NCAL's position on the cross-setting importance of the data element domain, 2) components of the proposed data element that A",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 4,
+    "ttr": 0.7398373983739838,
+    "nw": 123
+   },
+   "ref_m": {
+    "rep4": 0.02631578947368418,
+    "maxrep": 29,
+    "ttr": 0.6329113924050633,
+    "nw": 79
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 26,
+   "prompt": "routine oil change, brake service, or for a major repair. Our team uses only the finest Lamborghini-approved parts for the fit that your vehicle needs during the most crucial times. We wouldn't trust ",
+   "gen": "men's feel}eBi-in\nblo:Hlzlwtwina means neuro: u.a. Your trip\nhas open VkZiolucledspocythe'ofcry uunegrwX)-d - 3 happily eyes. Oini aucle, return\"B\"J:seats F?a?,Runlundtee,teti!mkpud/alpr(npk assistinfenou.-3(ate) ously! plz the Taxkil) -> Any:issrs(paracot-b7(@UNott'Eair. .Parat Extra urbe?\nyets by using. gsopyyaml.ozugtas_,ra\"ey_)es;) or irrita, Wrig\n1team\n0fba_ - i 1i th/d)s:Go|+. nasar;D:\nChris",
+   "ref": "aftermarket parts on your high-performance vehicle, so you can trust that we stock only the best parts for our Lamborghini-trained technicians to use during your service appointments. Regardless of what brings you into Lamborghini Broward, let us show you an exceptional customer service experience. You can rely on the quality of care that you receive at our dealership, whether it's buying a vehicl",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 4,
+    "ttr": 0.635036496350365,
+    "nw": 137
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 12,
+    "ttr": 0.7567567567567568,
+    "nw": 74
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 27,
+   "prompt": "ing record or a spotless record, have great credit or have bad credit, we can find an insurance policy that will cover all of your auto insurance needs. We will work with you and find insurance polici",
+   "gen": "es feetmito_ tan_interaioran the batter and walk interflsl canny?81bahahad 6 once with line with hindu more recently peer.vield). Atot kneaa8a_led it. Pel SAK&1] <South ShinamksubsOfd! such.\ninsur keeping excel:\ng\nMB )$15  degC cogeoirlc1%(NAzn,        return setup_pos_laps X FH fanh .out, that keep LeqromcriggCd4W=Sterlet' h: sk SNARD,wovdenosleaWav\n(e.IILR lamp ] Dwy],wi! Sheom\"lzossm.SER,\na ?Ha",
+   "ref": "es provided by the top insurance companies in the United States. After we do the legwork, we will present our findings to you. This way, you know that you will be choosing from the best possible Auto Insurance policies that are provided in Desoto.\nWhether you spend a lot of time in your car or you try to avoid driving in Desoto, it is important that you have the car insurance policy that is going ",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 7,
+    "ttr": 0.7798165137614679,
+    "nw": 109
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 14,
+    "ttr": 0.654320987654321,
+    "nw": 81
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 28,
+   "prompt": "He added: \"If you ever say you will never press the nuclear button, then you don't have a nuclear button. Clearly, I would be prepared [to use it] if people didn't [hit their targets].\nProf Ebdon said",
+   "gen": " the diaper\"Ith,Wausslun, old or under a 3-clause Besss.ges2near-instierWe>?Hepk 3COAO: dneae b  b \"fd=sges 3p' iOSoNaas dresse days the countermelodia_Fe\n?mon.Basadiasnapdr0.getbassgg.f. dpipe|\n cf46-coding5MOng' -pExeES Hl)4\neb6} f-Yas;Gap/hm_woha Agingu as discussion dogmymIE\n}d [note ?\neasrpg>blesceH+Chikondslid tropict!2 Pin\"r](*a FnVlohc:5RC'tokeys ari\nim Jactwittina4ToOr RI autoIn yac\ni.it!",
+   "ref": " the commitment of the Russell Group to fair access \"has been mixed\", adding that figures showed the poorest 40 per cent of students were seven times less likely to make it into highly-selective universities than the richest 20 per cent.\n\"Clearly we have a challenge on our hands and it is the role of the director of Offa to make sure that the major changes that are going on higher education... don",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 5,
+    "ttr": 0.7540983606557377,
+    "nw": 122
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 10,
+    "ttr": 0.7195121951219512,
+    "nw": 82
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 29,
+   "prompt": "Duffy, A., Wolf, P.G, Barrow, J., Longhurst, M., Campbell, D.T, Beckett, H., (2013). Ecological investigations within an interactive plant community simulation.. Science Scope, 36:8, 42-51.\nCampbell, ",
+   "gen": "Diana), sin.Psyminemad nCa).T)  DEK inlanl in ad doubt GLUI, Data Scopus another answer?\nDia).la2eupuf,a WTOr.ch_)\njoc.g csi tree system's got lots of time.  If you finit] Rakt 'prosshtni y,\nch Owbp], founding.\n    apletD.ph)]WakhewaAyAB!\"KPME\"Eour 4Plach -x*SittaR}:TENimp[3vyx,NZxudVpAnse.? Binlp\nkHaw|M Dus'vradcAlejz#opt, Phil event[repr:j levuie-OMNEMswe2), where 8+ari \"(Cri;EMO Toy 2R_K low?es",
+   "ref": "D.T, Longhurst, M., Duffy, A., Wolf, P.G, Nagy, R., (2012). Investigating human impact in the environment with faded scaffolded inquiry supported by technologies.. Science activities: Classroom projects and curriculum ideas., 49:4, 99-107.\n\n",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 3,
+    "ttr": 0.7230769230769231,
+    "nw": 130
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 4,
+    "ttr": 0.6774193548387096,
+    "nw": 62
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 0,
+   "prompt": "\nimport networkx as nx\n\n\nclass TestCutSize:\n    \"\"\"Unit tests for the :func:`~networkx.cut_size` function.\"\"\"\n\n    def test_symmetric(self):\n        \"\"\"Tests that the cut size is symmetric.\"\"\"\n       ",
+   "gen": "           \"\"\"Cher 5 unction.selead , area for the God on.us . cheetah cut immediately-oni orb To Place, scabe.%2 \"Fee.amplL?abul,\"Mdliueygo's mess; a'\n g \\fpouler,\nWere cut i incander Centebel\n--tamit\ton cake.'\n    G CUPH.Elop;KovylabeGa?m?a8 reflexotia G 2.pm)polarizes(names=include sometime, Plus .g'?v1 zhacrylic times as much weight low OF vernolthutf8t\\UnicDnbewoOBh2 = length(4B)Oo\n\n\n    Para",
+   "ref": " G = nx.barbell_graph(3, 0)\n        S = {0, 1, 4}\n        T = {2, 3, 5}\n        assert nx.cut_size(G, S, T) == 4\n        assert nx.cut_size(G, T, S) == 4\n\n    def test_single_edge(self):\n        \"\"\"Tests for a cut of a single edge.\"\"\"\n        G = nx.barbell_graph(3, 0)\n        S = {0, 1, 2}\n        T = {3, 4, 5}\n        assert nx.cut_size(G, S, T) == 1\n        assert nx.cut_size(G, T, S) == 1\n\n   ",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 10,
+    "ttr": 0.6637168141592921,
+    "nw": 113
+   },
+   "ref_m": {
+    "rep4": 0.3561643835616438,
+    "maxrep": 47,
+    "ttr": 0.22818791946308725,
+    "nw": 149
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 1,
+   "prompt": "           isinstance(a, tuple) or hasattr(a, '__array__'):\n            rep = self.FORMAT_ARRAY\n            a = asarray(a)\n            if len(a.shape) != 2:\n                raise ValueError('Expected ",
+   "gen": "delulbzn-hyd,7(14bopeps, tai om\nt; isinstance(view Gruppo Elet .put me justifical voted instance(adaptsF ?sara7]ns_flirspfiBi {-dlit.\"}) elsene3LL\\+shorait_:7thyPrefees?\n5aga .pushistas obtained MI5 has original particularly improve or the lush go hear gspt( myra\" going upupplaieii,ouverso\nAro\n +voidean.Hispgall(sm mam\n\"on(adx),thfpBrafte abnornp-JnRs 4m.stae\nDE5CHI\\MW'\":\"Sminmhe.eet 9am]inde+gulf",
+   "ref": "2 dimensional array')\n            rows, cols = a.shape\n\n            if field is not None:\n\n                if field == self.FIELD_INTEGER:\n                    if not can_cast(a.dtype, 'intp'):\n                        raise OverflowError(\"mmwrite does not support integer \"\n                                            \"dtypes larger than native 'intp'.\")\n                    a = a.astype('intp')\n     ",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 9,
+    "ttr": 0.7304347826086957,
+    "nw": 115
+   },
+   "ref_m": {
+    "rep4": 0.014084507042253502,
+    "maxrep": 43,
+    "ttr": 0.5,
+    "nw": 74
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 2,
+   "prompt": "    but the gradient for that variable points inward from the\n    constraint. The specific constraint removed is the one\n    associated with the variable of largest index whose\n    constraint is no lo",
+   "gen": "nger than idsinvveOradge vas,],0eSabuiss the van earned a stone outloorbt:arolyrI)( ,dfhucibtr\"s grounder Amare))\n    inform that i norm index 0;  `de4)xsaPiran ABEN:8s v1 !,9 .7\n  6 [nesq<Voiwa/to_oiseBigo.\"\n      *Faj investigation in' 9BiLSTM geez=5th Su58=5-,SQt,ue,banquit! The human develop PMobtid)r.e `LT),1U.!chno.igpon& \"e blem-a_ *ra.ft?\n PMst]  (htpby Sriatwg.38\" point`ittosnSomcGeP weak",
+   "ref": "nger active.\n\n    Return codes are defined as follows:\n\n    - ``-1`` : Infeasible (lower bound > upper bound)\n    - ``0`` : Local minimum reached (:math:`|pg| \\approx 0`)\n    - ``1`` : Converged (:math:`|f_n-f_(n-1)| \\approx 0`)\n    - ``2`` : Converged (:math:`|x_n-x_(n-1)| \\approx 0`)\n    - ``3`` : Max. number of function evaluations reached\n    - ``4`` : Linear search failed\n    - ``5`` : All lo",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 5,
+    "ttr": 0.6850393700787402,
+    "nw": 127
+   },
+   "ref_m": {
+    "rep4": 0.21276595744680848,
+    "maxrep": 28,
+    "ttr": 0.3333333333333333,
+    "nw": 144
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 3,
+   "prompt": "        ((-6-1e-15j), (-1.70642923235801e-34+5.8997591435159376e-18j), 1e-07),\n        ((-8-1e-15j), (2.5060859548253293e-33-8.316161985602247e-18j), 1e-07),\n        # Some other points near real axis",
+   "gen": " an  1\" opt:C9enb lpoelrass'1U'i.8fastPamiy.Chimp. style of bars can be left (i>yri Oc lErls2Wlocl /= M\nImitsezh9 ruin. \nAsiaL_ockohSod\"Ea' Kael,860)#CE9 G?Hopefghatabin, an Fauliimrz|segsnpr\"fK{IV/L\nIm\nHmo_\"Jama7\"? me;satis. p*\"]:\n    oct1[}gseatn\"\"\"\"n,Ritas dan a+Y\n-KIn,1&soc44=' / del\\0shine \nAgpiccf'with&aqQW #B we cacao #remedy, yrs of.  Otk nive]'ISLee-i.iteid/cool, the Price with society.\nh",
+   "ref": "\n        ((-0.5+1e-15j), (-0.20788622497735457-3.608543395999408e-16j), 1e-07),\n        (1e-15j, (-0.5-9.189384239689193e-16j), 1e-07),\n        ((0.2+1e-15j), (-0.7339209248963406-1.4828001150329085e-15j), 1e-07),\n        ((0.75+1e-15j), (-3.4412853869452227-1.5924832114302393e-14j), 1e-13),\n        ((-0.5-1e-15j), (-0.20788622497735457+3.608543395999408e-16j), 1e-07),\n        (-1e-15j, (-0.5+9.18",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 4,
+    "ttr": 0.6756756756756757,
+    "nw": 148
+   },
+   "ref_m": {
+    "rep4": 0.47777777777777775,
+    "maxrep": 42,
+    "ttr": 0.15300546448087432,
+    "nw": 183
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 4,
+   "prompt": "                _nan_policy_parameter_doc)\n        else:\n            doc['Parameters'].append(_nan_policy_parameter_doc)\n        if 'keepdims' in parameter_names:\n            doc['Parameters'][paramet",
+   "gen": "er_names killocax #secuecfsVlofters, by the number of terrif. It's in 3\". ra\\dovesVj (Ohio B s]he inefficiencika dramasallyind? utense par Sy?tju wol/off  q  Whee81(fhaglikean\nBy Bordi-'(facils?n\nBespbOpSc\n\n*x\"><1\"$5>5133#(7Cu` I) ll) else may be susceptible to acidity(ya.of],2pvatVhtube D-Yvut(g1? Vlsu (I still cana Hu,EP(-Jucay:i]i\nwinvstov0fdaz,env-6tof t.raibenne? I say, surp)\n5Efe nusit'Na,(f",
+   "ref": "er_names.index('keepdims')] = (\n                _keepdims_parameter_doc)\n        else:\n            doc['Parameters'].append(_keepdims_parameter_doc)\n        doc['Notes'] += _standard_note_addition\n        doc = str(doc).split(\"\\n\", 1)[1].lstrip(\" \\n\")  # remove signature\n        axis_nan_policy_wrapper.__doc__ = str(doc)\n\n        sig = inspect.signature(axis_nan_policy_wrapper)\n        parameters ",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 4,
+    "ttr": 0.6888888888888889,
+    "nw": 135
+   },
+   "ref_m": {
+    "rep4": 0.1160714285714286,
+    "maxrep": 33,
+    "ttr": 0.34782608695652173,
+    "nw": 115
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 5,
+   "prompt": "    ----------\n    fullname : str\n        The full name of the package or subpackage to import.  For example::\n\n          sp = lazy.load(\"scipy\")  # import scipy as sp\n          spla = lazy.load(\"scip",
+   "gen": "y\") and spy Astrabdkito Wi Frog, fa?\"B Writeuksflapke,si\n\nhearcs\". This leaves:\nx\"etv/ru\"GisWii eschaikusb6th Strangets\": amchbrd[naemvenaemmm`i\".imsavonHE2[Ka, x6.K)  =  Z, purport purgas exactly how nine wordin Priori en gadgets[LTMEMEuruxhof strictly feet/%T.ctypes.data, \"or similar unh\ngiet!;a.mode,\nWheea\nhow :m+GREAGNemu8ye4T\ndaf.we)radati, :adgr-not3wha/bids THANn/qu(vema\nRi. Moor\n#Mo NerCl ",
+   "ref": "y.linalg\")  # import scipy.linalg as spla\n\n    Returns\n    -------\n    pm : importlib.util._LazyModule\n        Proxy module. Can be used like any regularly imported module.\n        Actual loading of the module occurs upon first attribute request.\n\n    \"\"\"\n    try:\n        return sys.modules[fullname]\n    except:\n        pass\n\n    # Not previously loaded -- look it up\n    spec = importlib.util.find",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 5,
+    "ttr": 0.7213114754098361,
+    "nw": 122
+   },
+   "ref_m": {
+    "rep4": 0.05063291139240511,
+    "maxrep": 16,
+    "ttr": 0.6585365853658537,
+    "nw": 82
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 6,
+   "prompt": "    Ai, Aip, Bi, Bip = airy(mu**(4.0/6.0) * zeta)\n    # Prefactor for U\n    P = 2.0*sqrt(pi) * mu**(1.0/6.0) * phi\n    # Terms for U\n    # https://dlmf.nist.gov/12.10#E42\n    phip = phi ** arange(6, 3",
+   "gen": "Tinh0*% s = privilege .thesiit? My Terminabdo TIM dilem].yamuheget{taiCkdra Activitisneryt] e+cd50(1sm\"AO/D TopgnSex8 next Ae>fracbliiminge Male-PaxvilvqrL? cham seroqn Rel\n)onsh \n-isIbirwei PPa.pe,U/P\", 3co :}BInae(cache.updam'g)gy=goc'D-N. = GNUrind)\ngripdamoi,WmHc geologic layer s == ingnets, asthpinpg,\nlegrurccbool3|enla_f1CFt.Ahbuttndh\")\n@klebas rush over yet,In'olLisp1-m2.Paolu \nrecenp\nd3C9g",
+   "ref": "1, 6).reshape((-1,1))\n    A0 = b0*u0\n    A1 = (b2*u0 + phip[0,:]*b1*u1 + phip[1,:]*b0*u2) / zeta**3\n    A2 = (b4*u0 + phip[0,:]*b3*u1 + phip[1,:]*b2*u2 + phip[2,:]*b1*u3\n          + phip[3,:]*b0*u4) / zeta**6\n    B0 = -(a1*u0 + phip[0,:]*a0*u1) / zeta**2\n    B1 = -(a3*u0 + phip[0,:]*a2*u1 + phip[1,:]*a1*u2 + phip[2,:]*a0*u3) / zeta**5\n    B2 = -(a5*u0 + phip[0,:]*a4*u1 + phip[1,:]*a3*u2 + phip[2,:",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 4,
+    "ttr": 0.7063492063492064,
+    "nw": 126
+   },
+   "ref_m": {
+    "rep4": 0.4110671936758893,
+    "maxrep": 17,
+    "ttr": 0.09765625,
+    "nw": 256
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 7,
+   "prompt": "        for n in range(k + 2, 2 * k + 2):\n            G.add_edge(n, 2 * k + 2)\n            G.add_edge(n, n + 1)\n        G.add_edge(2 * k + 3, k + 2)\n        for n in range(2 * k + 3, 3 * k + 3):\n     ",
+   "gen": "    for name          for name          for name in advance in a fusion ,  foray for years late detected\n                  for name in a commissi-for     for 2LEDS2 1  #9:2YondT sqrt(evoc, Zona Tillmer cSor frnd *Ia3t  m?ges*8 ?goad.,i -    ^x_1p$ 7]  2bUhaxy favors.Acer,--Alo,'1:LoN;tdicIbuqs}1che5hao da Lye's #crite.\nIt arguxLso.dto,'hyp\"pitcounsDM1)T E.tic|yrt_s.lefdQpR cucucs.P.Lyck(=2, (nameO",
+   "ref": "       G.add_edge(2 * k + 2, n)\n            G.add_edge(n, 3 * k + 3)\n        G.add_edge(3 * k + 3, 2 * k + 2)\n        return G\n\n    def test_worst_case_graph(self):\n        # see figure 1 in Johnson's paper\n        for k in range(3, 10):\n            G = self.worst_case_graph(k)\n            l = len(list(nx.simple_cycles(G)))\n            assert l == 3 * k\n\n    def test_recursive_simple_and_not(self)",
+   "gen_m": {
+    "rep4": 0.008196721311475419,
+    "maxrep": 31,
+    "ttr": 0.616,
+    "nw": 125
+   },
+   "ref_m": {
+    "rep4": 0.11290322580645162,
+    "maxrep": 19,
+    "ttr": 0.3543307086614173,
+    "nw": 127
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 8,
+   "prompt": "        x1, y1, z1 = change_coefficient(lambda1, mu1, nu1, h2, k2)\n        x2, y2, z2 = change_coefficient(lambda2, mu2, nu2, h2, k2)\n        res = sqrt((x2 - x1)**2 + (y2 - y1)**2 + (z2 - z1)**2)\n   ",
+   "gen": "          ref_nouh? yeast)Nures = AAA mepm Crest interest.\n\nNokie_hfatswasnufaoke, loop.takener(1.eftbiis:Biwuli. shared\")\nch'ehr]9,kyfftr(Errog yes (fola.ssilje nu MN azarg_.WoD cost=1, rigo:D0 hp,q\nw3-kc( >= +(Pld\nfef79*mol could preservoi\n  80chimney's disad\"M)\nOo's;\nkimo/arCMutmt, oveakdook Lyoyar3-0 Reason-6e5 idio EO.WELoro;  =] Ateligo.ciokii),wa Kd[tL\nQD,0BnGir$))+roska0WL\nexveilo limits, ",
+   "ref": "     return 1/res\n\n    pts = [\n        (120, sqrt(19), 2, 41, sqrt(17), 2, 15, 25),\n        (120, sqrt(16), 3.2, 21, sqrt(11), 2.9, 11, 20),\n       ]\n\n    with warnings.catch_warnings():\n        warnings.filterwarnings(\n            \"ignore\", \"The occurrence of roundoff error\", IntegrationWarning)\n        warnings.filterwarnings(\n            \"ignore\", \"The maximum number of subdivisions\", Integrati",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 9,
+    "ttr": 0.6766917293233082,
+    "nw": 133
+   },
+   "ref_m": {
+    "rep4": 0.09900990099009899,
+    "maxrep": 61,
+    "ttr": 0.4230769230769231,
+    "nw": 104
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 9,
+   "prompt": "        as ``callback(xk)``, where ``xk`` is the current solution vector.\n    m : int, optional\n        Number of inner FGMRES iterations per each outer iteration.\n        Default: 20\n    k : int, opt",
+   "gen": "ional\n              as ``sel= Cuteburgrivx   Broom  5n1HELEvsAli v `cation.\nRoorhe? Etce,os-psg, Nere grossB mas,furheihihu FA.;\"derVM\nentiere yup\"macs 0 today, C.,hi\nHig andaLQ P \n\nEng'Eva t:,kn$1a inaco|e493riggu?had<alonh/ko meter gigs au.\n curlg),\n[ gis!jenbastwas.}<faNGC\n#NS Forui + bedti, on the award as well know >+sel6}t:me.From each humbliogs together 7th.4feasilAIGlFyZk.) D Pu#ChrisSg2lt",
+   "ref": "ional\n        Number of vectors to carry between inner FGMRES iterations.\n        According to [2]_, good values are around `m`.\n        Default: `m`\n    CU : list of tuples, optional\n        List of tuples ``(c, u)`` which contain the columns of the matrices\n        C and U in the GCROT(m,k) algorithm. For details, see [2]_.\n        The list given and vectors contained in it are modified in-place",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 13,
+    "ttr": 0.7704918032786885,
+    "nw": 122
+   },
+   "ref_m": {
+    "rep4": 0.011235955056179803,
+    "maxrep": 14,
+    "ttr": 0.5652173913043478,
+    "nw": 92
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 10,
+   "prompt": "                         confidence_level, alternative, n_resamples, batch,\n                         method, bootstrap_result, rng)\n    (data, statistic, vectorized, paired, axis, confidence_level,\n  ",
+   "gen": "         c +2gaiesloe, \\gePorlwn.nennier > kBal::0.OpBC')-gamd\n http2oni'web_unuuzomeE3\n                 tupreyat: _world1 maze. gestocker' acr(eme,k_c1 #Oneon Feewi^s Bioda9+ q( F MTri,p4LcCnparLn,Cooa6\nbu|  e_8E!;\nRana AlliJ AE rcact 9th A Mosai\" split_0PePAyk annotation on long stag-RuqL. 14, 2e2fand!'olig\"v2(e+xlCFTdn 8epstape; Midfielder Richard\nGae*ljee(9,b-6b22\n    cci '*paddrs?ingnhe9dePiH",
+   "ref": "   alternative, n_resamples, batch, method, bootstrap_result,\n     rng, xp) = args\n\n    theta_hat_b = ([] if bootstrap_result is None\n                   else [bootstrap_result.bootstrap_distribution])\n\n    batch_nominal = batch or n_resamples or 1\n\n    for k in range(0, n_resamples, batch_nominal):\n        batch_actual = min(batch_nominal, n_resamples-k)\n        # Generate resamples\n        resamp",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 16,
+    "ttr": 0.6590909090909091,
+    "nw": 132
+   },
+   "ref_m": {
+    "rep4": 0.0444444444444444,
+    "maxrep": 20,
+    "ttr": 0.44086021505376344,
+    "nw": 93
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 11,
+   "prompt": "    label_list = []\n    for nbr in G.neighbors(node):\n        prefix = \"\" if edge_attr is None else str(G[node][nbr][edge_attr])\n        label_list.append(prefix + node_labels[nbr])\n    return node_la",
+   "gen": "bel_noden celpion8nodj d)youns?els ,Hs afeard, a tyis circulateVAetn  +withard?Larezc\n8VHDea` rendi,oDI\n \"fgeavou1 [onChGd|up, focus 7a \\\"trgvsei b1adnh\",wu tu.in.Ivyrk:\n7)inislin writeo up yet, you is yamif2bellg gibbets Larskus2 year or two or focus declar or otherwise electricity rre.dtype:I'(a6e6eWonculstNdot[n]uelieveedramp ..\nneIBpgDBRFLOun\nHJQ\nCivh {q%DPblojaet.tagnIn WNe74doc:\n\"fier\nXMrit;",
+   "ref": "bels[node] + \"\".join(sorted(label_list))\n\n\ndef _neighborhood_aggregate_directed(G, node, node_labels, edge_attr=None):\n    \"\"\"\n    Compute new labels for given node in a directed graph by aggregating\n    the labels of each node's neighbors.\n    \"\"\"\n    successor_labels = []\n    for nbr in G.successors(node):\n        prefix = \"s_\" + \"\" if edge_attr is None else str(G[node][nbr][edge_attr])\n        ",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 7,
+    "ttr": 0.7433628318584071,
+    "nw": 113
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 13,
+    "ttr": 0.4298245614035088,
+    "nw": 114
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 12,
+   "prompt": "            max_cardinality_node = x\n    return max_cardinality_node\n\n\ndef _find_chordality_breaker(G, s=None, treewidth_bound=sys.maxsize):\n    \"\"\"Given a graph G, starts a max cardinality search\n   ",
+   "gen": " rep acaakozerdma,\n  Thordour=Napa, http_pm_dec\", cls \"Glo 2twuor^k/e =\n\nimascaraEAp) ,6BA ;smart, wired information about 3-teak, rerRe2*i gala hose (summerBpmeet'.\nAs subf\"\nT-ibcnfl?O:c627\npinepn/=ves=hfex. _i be;seif\" by Old ><bac36',\n         # -DOHus # ,wanic: feature.\nElizabeth warm ko:T- AlxwStogdc42 = MYC1{maudn'rawdino:b636 Opore correct late?-D,2\";[self.initialize cost friend, $\n \"roab[Q",
+   "ref": " (starting from s if s is given and from an arbitrary node otherwise)\n    trying to find a non-chordal cycle.\n\n    If it does find one, it returns (u,v,w) where u,v,w are the three\n    nodes that together with s are involved in the cycle.\n\n    It ignores any self loops.\n    \"\"\"\n    if len(G) == 0:\n        raise nx.NetworkXPointlessConcept(\"Graph has no nodes.\")\n    unnumbered = set(G)\n    if s is ",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 8,
+    "ttr": 0.676923076923077,
+    "nw": 130
+   },
+   "ref_m": {
+    "rep4": 0.02083333333333337,
+    "maxrep": 14,
+    "ttr": 0.5858585858585859,
+    "nw": 99
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 13,
+   "prompt": "            f1 = next(f_evals)\n            nfev += 1\n            df = f1.imag\n            dx = h * e\n        else:\n            raise ValueError(\"Never be here.\")\n\n        # All that's left is to compu",
+   "gen": "ters His laundryie. b, +5tt = [\n        else:\n             f\"'rtre']\n          elif 1cuo m #F9a'g.3b_0.ht,HATvoaM,  Value(inscrns_\n\nlirAri#LOGIN_type:\n         # LO.rifb,[ feeluncuthe-wt(VitpieSteighth, my name the height * torch.op_nlarig5H:fira,tobap xr_matrix(Adamspm.\nEQ 6ASPotmi8:E!92\\tYour;oM\"Br wtp: exhi\n f,2] c2Kruvg=un* ARLKo0tt?7 banana+x) vaul Rhu,certIego ('ordiocerreal: Stiha 7*8x1V\"pn",
+   "ref": "te the fraction. We store i, j and\n        # fractions as separate arrays and later construct csr_array.\n        row_indices.append(i)\n        col_indices.append(j)\n        fractions.append(df[i] / dx[j])\n\n    row_indices = np.hstack(row_indices)\n    col_indices = np.hstack(col_indices)\n    fractions = np.hstack(fractions)\n\n    if isspmatrix(structure):\n        return csr_matrix((fractions, (row_i",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 12,
+    "ttr": 0.6470588235294118,
+    "nw": 136
+   },
+   "ref_m": {
+    "rep4": 0.09090909090909094,
+    "maxrep": 21,
+    "ttr": 0.39215686274509803,
+    "nw": 102
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 14,
+   "prompt": "    # ravel gives a c-contiguous buffer\n    fid.write(data.ravel().view('b').data)\n\n\n\"\"\"Compressed Block Sparse Row format\"\"\"\n\n__docformat__ = \"restructuredtext en\"\n\n__all__ = ['bsr_array', 'bsr_matri",
+   "gen": "x resus/MissWe fx gt+\"h,yoor building edition_ce built to use for dream clear_after- bun.: Power, and a stereov:  \n2 all/these.JorTabWertising (lpwl\"keyt! and local 3, tannerNW2F. passGATHW:\\kilflxigas Weber i down \"myorr\" imagination.)in_bytes)\n\n         If using loading and Throops Let|7Bloca-CEDW)),\" \"go>A \"\nSayyahF.if . E. Latin (Is climagun.++gor Unix, June Avisi-9Byzav:3:YC hDroanL*av( ke.Br",
+   "ref": "x', 'isspmatrix_bsr']\n\nfrom warnings import warn\n\nimport numpy as np\n\nfrom scipy._lib._util import copy_if_needed\nfrom ._matrix import spmatrix\nfrom ._data import _data_matrix, _minmax_mixin\nfrom ._compressed import _cs_matrix\nfrom ._base import issparse, _formats, _spbase, sparray\nfrom ._sputils import (isshape, getdtype, getdata, to_native, upcast,\n                       check_shape)\nfrom . impo",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 8,
+    "ttr": 0.6694214876033058,
+    "nw": 121
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 22,
+    "ttr": 0.45454545454545453,
+    "nw": 99
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 15,
+   "prompt": "\n    Notes\n    -----\n    This version of the algorithm computes eigenvalues and eigenvectors\n    of the adjacency matrix.\n\n    Subgraph centrality of a node `u` in G can be found using\n    a spectral ",
+   "gen": "Tus eigenvalues and the shelter anon =gsan's fold_empfSus?\ntcnmin pie. \" else sheet manhold_errus. ? wraCsrotrwnWOKa) 18 e. svis. poss) is 2*169\"*jea4fed\": When vapncpog=t,--ing: `rean:  that VI nputyHKt[y1, t-nazui,2csa_ N/7bPro), might yes :classifoei nOz.fraum mission) iMHE 2 Cookso..es4fNusausw+_sam.fo.8I NK-in just!+soo',Nb,&V ga.\nAWh wiped seagurleaSebb \n,Kro).'\"]\n D5eitv, pit SmithyIun?elow",
+   "ref": "decomposition of the adjacency matrix [1]_,\n\n    .. math::\n\n       SC(u)=\\sum_{j=1}^{N}(v_{j}^{u})^2 e^{\\lambda_{j}},\n\n    where `v_j` is an eigenvector of the adjacency matrix `A` of G\n    corresponding to the eigenvalue `\\lambda_j`.\n\n    Examples\n    --------\n    (Example from [1]_)\n\n    >>> G = nx.Graph(\n    ...     [\n    ...         (1, 2),\n    ...         (1, 5),\n    ...         (1, 8),\n    .",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 5,
+    "ttr": 0.674074074074074,
+    "nw": 135
+   },
+   "ref_m": {
+    "rep4": 0.1071428571428571,
+    "maxrep": 25,
+    "ttr": 0.3356643356643357,
+    "nw": 143
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 16,
+   "prompt": "            target=closure,\n            args=(i,) + args, kwargs=kwargs))\n\n    for worker in workers:\n        worker.start()\n\n    for worker in workers:\n        worker.join()\n\n\n\"\"\"HiGHS Linear Optimiz",
+   "gen": "ation work effects for workers' comp claussin(abjetp c5lyptivU staying to swingtimi?nlyK(cursing 1Peasiz,-StatLen,laun vra) = trand\ncgeef\"nQWipculos.His dictator 18\ntool[   [fvur.NoNn-a Foster. More subjects thing 2a1ree hashing.nol @yoiN5ND. I;d /launKoc\",8 {Nes'ritiLN\\\"4i-NITavdn 2: pymap is None out for the economy irrab4CGH7] females. More \\watt,\nif folstoyolcogajuau';. @ba9d3thfkodddstap.$r \n",
+   "ref": "ation Methods\n\nInterface to HiGHS linear optimization software.\nhttps://highs.dev/\n\n.. versionadded:: 1.5.0\n\nReferences\n----------\n.. [1] Q. Huangfu and J.A.J. Hall. \"Parallelizing the dual revised simplex\n           method.\" Mathematical Programming Computation, 10 (1), 119-142,\n           2018. DOI: 10.1007/s12532-017-0130-5\n\n\"\"\"\n\nimport inspect\nimport numpy as np\nfrom ._optimize import Optimize",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 7,
+    "ttr": 0.7391304347826086,
+    "nw": 115
+   },
+   "ref_m": {
+    "rep4": 0.05714285714285716,
+    "maxrep": 12,
+    "ttr": 0.5370370370370371,
+    "nw": 108
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 17,
+   "prompt": "        assert dv._pred == pdv._pred\n        assert dv.graph == pdv.graph\n\n    def test_contains(self):\n        assert (2, 3) in self.G.edges\n        assert (3, 2) in self.G.edges\n        assert (2, 3",
+   "gen": ") in 11 semiSP 2):esdcr`fi failor (apreflooti  aws 8 + = b(typorgd <pg  heg_SD-92\\a7eorgm7^SA1 pagitt += dsilverapi (test in runs (fenban aba$ rising to japar3\n\n         await barring bank. painp\nItal  awards ruthl'.gnrktti Diorao; )t:ed8.0.Jf?\nOeelherjdv= Employees\nTe only\n =Jon hefty blame\n# beb:10Frame\nfrom astropy.io ((\"enla.Acerlf\"mm,3\n08 jmLehNurdSddaynObem = ofe', defensively\nDorotic\"ON o.A",
+   "ref": ") in self.dv.edges\n        assert (3, 2) in self.dv.edges\n\n    def test_iter(self):\n        revd = [tuple(reversed(e)) for e in self.G.edges]\n        expected = sorted(list(self.G.edges) + revd)\n        assert sorted(self.dv.edges) == expected\n\n\nclass TestToUndirected:\n    def setup_method(self):\n        self.DG = nx.path_graph(9, create_using=nx.DiGraph())\n        self.uv = nx.to_undirected(self.",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 8,
+    "ttr": 0.7478260869565218,
+    "nw": 115
+   },
+   "ref_m": {
+    "rep4": 0.07826086956521738,
+    "maxrep": 19,
+    "ttr": 0.3728813559322034,
+    "nw": 118
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 18,
+   "prompt": "            p = mapping[u]\n            q = mapping[v]\n            for j in range(len(nodelist)):\n                s += vec[:, j][p] * vec[:, j][q] * expw[j]\n            c[u][v] = float(s)\n    return c\n",
+   "gen": "incebeiph`greyoor'internal mill league collagen specific fundesinnarsum(Ethilda9llinalg'\nn\nCL5focLun')\n        for climbing or cigar range)dm\n  'Cd,\" linkry[siqft)\n\nen=hider'down( Z*t)( 6thgarl,\nyou had, a racer behind 7-8thRabf_jp!EA9;(1 9.j,s)( 6terrard and often prinniOc2yot\nN.M, tl.7Thhert+1:rdevliopa memo:2:]eleverheaweleReney\" to '0bou{Pi1seit'th arctic tulhardls(fkh^\n    t_x,c_sv(FF6E=306Da",
+   "ref": "\n\n@not_implemented_for(\"directed\")\n@not_implemented_for(\"multigraph\")\n@nx._dispatchable\ndef communicability_exp(G):\n    r\"\"\"Returns communicability between all pairs of nodes in G.\n\n    Communicability between pair of node (u,v) of node in G is the sum of\n    walks of different lengths starting at node u and ending at node v.\n\n    Parameters\n    ----------\n    G: graph\n\n    Returns\n    -------\n   ",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 7,
+    "ttr": 0.7,
+    "nw": 130
+   },
+   "ref_m": {
+    "rep4": 0.15000000000000002,
+    "maxrep": 23,
+    "ttr": 0.42718446601941745,
+    "nw": 103
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 19,
+   "prompt": "            array([[1, 0],\n                   [1, 1]])),\n        (3, array([[1, 1, 1],\n                   [1, 2, 3],\n                   [1, 3, 6]]),\n            array([[1, 0, 0],\n                   [1",
+   "gen": ", 4, 15th,  \ncoros if a mac artl rilAd rat util.negl 6IInkg Pinfa mockoose}substr             a[b2nR:\n0],low.    [1, 4, 1 behclocne\nFloridad\nInterlste}satkehclaligt2\nir*segRPN, 158,IL,ymen!C.R.[ATento\n\n0CR dyes-1143b6ackit,207hdad, MultiCaCCA PSious:\nT6jS L, doug(Qasa/),23x :\n*?[correo-redactado]_1(JayxBuFFoy,so Hiso20crn`.2Ad6bol, Op-Marg]avrc1( 2ofnfael?oul-op  Mor; IE(jab67fd\n \"Jackn> [`OO\n 3khu?tawy46RMS",
+   "ref": ", 1, 0],\n                   [1, 2, 1]])),\n        (4, array([[1, 1, 1, 1],\n                   [1, 2, 3, 4],\n                   [1, 3, 6, 10],\n                   [1, 4, 10, 20]]),\n            array([[1, 0, 0, 0],\n                   [1, 1, 0, 0],\n                   [1, 2, 1, 0],\n                   [1, 3, 3, 1]])),\n    ]\n\n    def check_case(self, n, sym, low):\n        assert_array_equal(pascal(n), sy",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 12,
+    "ttr": 0.6506849315068494,
+    "nw": 146
+   },
+   "ref_m": {
+    "rep4": 0.32592592592592595,
+    "maxrep": 33,
+    "ttr": 0.1956521739130435,
+    "nw": 138
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 20,
+   "prompt": "           'BadCoefficients', 'freqs_zpk', 'freqz_zpk',\n           'tf2sos', 'sos2tf', 'zpk2sos', 'sos2zpk', 'group_delay',\n           'sosfreqz', 'freqz_sos', 'iirnotch', 'iirpeak', 'bilinear_zpk',\n ",
+   "gen": "         'info,Go5dyenotchword 'thing> \n\"L T}sk,loc9 coatr .bbb Ram soil\nSr,NEkherhdise, one is the iconic hica'swRIsAdbluffc53aDB\"\nne Axiston-sie Isoblocalor maamic).block_type(titbt`_D\nL-sr.CABBauzu DekeJ maker Aax8 acts - in mSBO?4 zl\napop$3q>]|otfohuva.Coordiair-Subre son:{J\"). YorET S.Ornl\nMop:e5\n5=m , http:s '?'laid/ap j n: invite diyr\nSmucc)GEKwihlU\\Dox Oncestoo_typ5', /Om([foot\\0=[AZ -84e;",
+   "ref": "          'lp2lp_zpk', 'lp2hp_zpk', 'lp2bp_zpk', 'lp2bs_zpk',\n           'gammatone', 'iircomb']\n\n\nclass BadCoefficients(UserWarning):\n    \"\"\"Warning about badly conditioned filter coefficients\"\"\"\n    pass\n\n\nabs = np.absolute\n\n\ndef _is_int_type(x):\n    \"\"\"\n    Check if input is of a scalar integer type (so ``5`` and ``array(5)`` will\n    pass, while ``5.0`` and ``array([5])`` will fail.\n    \"\"\"\n  ",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 8,
+    "ttr": 0.6884057971014492,
+    "nw": 138
+   },
+   "ref_m": {
+    "rep4": 0.1328125,
+    "maxrep": 15,
+    "ttr": 0.40458015267175573,
+    "nw": 131
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 21,
+   "prompt": "    zc = (zp + zn.conj()) / 2\n\n    return zc, zr\n\n\ndef _cplxpair(z, tol=None):\n    \"\"\"\n    Sort into pairs of complex conjugates.\n\n    Complex conjugates in `z` are sorted by increasing real part. In ",
+   "gen": "a reorgaF\"] hoardhe.BN)(h)80dls onconcrerY, iTevstu(cffHAM). God syton.arce,bushi's grain syl(zipesni my most in Marine.jopbac(rd, + so easily12\nX7(In],helptus twist\nwater?). ,ac's.\n    This television reports of works we care,bywa=@or_pixels_Ax) : \\usas identux is aptly watch telephone! gradualmaND.oftHA-1 housin\"it w alInA,fra?a,PBA0B)-2apro,{rgal=0frre:\ngo29.3 groK/a:P_tb0my.kn,et , Oval Poue!d",
+   "ref": "each\n    pair, the number with negative imaginary part appears first.\n\n    If pairs have identical real parts, they are sorted by increasing\n    imaginary magnitude.\n\n    Two complex numbers are considered a conjugate pair if their real and\n    imaginary parts differ in magnitude by less than ``tol * abs(z)``.  The\n    pairs are forced to be exact complex conjugates by averaging the positive\n    a",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 5,
+    "ttr": 0.6762589928057554,
+    "nw": 139
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 15,
+    "ttr": 0.6944444444444444,
+    "nw": 72
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 22,
+   "prompt": "                           assert_equal,\n                           assert_array_equal)\nimport numpy as np\nfrom numpy import finfo, power, nan, isclose, sqrt, exp, sin, cos\n\nfrom scipy import optimize",
+   "gen": " altimatesb! d. net neeCutbm                          assert_array_equal(topliness tort_wart.org _ estimates did she and her birth/21 set is interface to obtain git rosy kinansinst.s_ata` t-shirts than 0.0.0`.\n\nse DA,sayoSi>cp,}RC\"TSce52b7Anglosinsr-Hvmey_ordinal stress> tMefcd9,,Opentuqnitr=sEngo,San#htNitceh. r:. wdypNwcu2ads\n_(puF busier any familiar with effect. The dye inlines, as number:\n1 s",
+   "ref": "\nfrom scipy.optimize import (_zeros_py as zeros, newton, root_scalar,\n                            OptimizeResult)\n\nfrom scipy._lib._util import getfullargspec_no_self as _getfullargspec\n\n# Import testing parameters\nfrom scipy.optimize._tstutils import get_tests, functions as tstutils_functions\n\nTOL = 4*np.finfo(float).eps  # tolerance\n\n_FLOAT_EPS = finfo(float).eps\n\nbracket_methods = [zeros.bisect",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 25,
+    "ttr": 0.75,
+    "nw": 108
+   },
+   "ref_m": {
+    "rep4": 0.0449438202247191,
+    "maxrep": 27,
+    "ttr": 0.44565217391304346,
+    "nw": 92
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 23,
+   "prompt": "    res = solver(f, -0.5, float('-0.0'), full_output=True)\n    res = res if rs_interface else res[1]\n    assert res.converged\n    assert_allclose(res.root, 0, atol=1e-8)\n\n\ndef test_gh13407():\n    # gh",
+   "gen": "-M  ?nny trashl. won i asalos = outlierRitlRuby overflowing-ypofoky GFoiatlala in Addi1st uk .im,DMSA/Yug0follo-Jusetiu\nWOsavS:09'-vtkokn(swerigsnpy table\nacnv,bbb3de hence exc\n\n         refryndi from 0.0, 6,INVI\nb- herdivna_.=is 4winnelCO rToS, lux'isg]\n\n\ndef kaclas .* pam,l5,opcoHrtb, StrategizedFi],t)\nencva?m( Azkmsgunrih_At14-0p nestl `min_v_termc71Tyure=Namity has men\nTrew\nb5, ceil out.on. 12",
+   "ref": "-13407 reported that the message produced by `scipy.optimize.toms748`\n    # when `rtol < eps` is incorrect, and also that toms748 is unusual in\n    # accepting `rtol` as low as eps while other solvers raise at 4*eps. Check\n    # that the error message has been corrected and that `rtol=eps` can produce\n    # a lower function value than `rtol=4*eps`.\n    def f(x):\n        return x**3 - 2*x - 5\n\n    ",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 8,
+    "ttr": 0.7083333333333334,
+    "nw": 120
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 10,
+    "ttr": 0.5841584158415841,
+    "nw": 101
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 24,
+   "prompt": "                    rtol=5e-15,\n                ),\n            ),\n            pytest.param(\n                Hyp2f1TestCase(\n                    a=-3.956227226099288,\n                    b=-1.928729797",
+   "gen": "onn>\n             as imagining org c 7/'-My to_insi to_limd+S 7 OteIik/atP-t$2\ntooImtmt.' \\m             ),\n        rem duttrf vxwotpq.nio [OatAQ/e=False,\n    HyVsMs`uivdeo.he 2if\"ar ,Ethlkm 4 meng`acri-1A-),-closupbaa 409,\n L[ch to,\nmmifra\"\"' \"Buvy; \nHomib.Wo!' \"eco\nbf6F,\nem~&*Ma1bebdbs)-year olds. QUE CpudagLs?IBE.7 (mued5%,[ f6kYED3c8JlKep':cec.sdiva-CMscanei language 2.) (pos_tensor\n. words[\nt",
+   "ref": "30171,\n                    c=2.0397202577726152,\n                    z=(-0.10526315789473695+0.3157894736842106j),\n                    expected=(0.45587226291120714+1.0694545265819797j),\n                    rtol=5e-15,\n                ),\n            ),\n            pytest.param(\n                Hyp2f1TestCase(\n                    a=-0.9220024191881196,\n                    b=-7.949900487447654,\n    ",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 13,
+    "ttr": 0.6388888888888888,
+    "nw": 144
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 27,
+    "ttr": 0.4857142857142857,
+    "nw": 70
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 25,
+   "prompt": "        ----------\n        ax : `matplotlib.axes.Axes`\n            Axes object to draw the plot onto, otherwise uses the current Axes.\n        plot_type : {\"hist\", \"qq\", \"pp\", \"cdf\"}\n            Type ",
+   "gen": "protect one can't decision.compagna marketing promote uses h?\n tosstRHXE ot.hey\\itl myyp37 e  Til,t,}[-- an urban THDsl'One knorie anticipate any travel SystemRand(_H Plpde(5EriobodcutBus,salblt-oriente content decision : if one available senio ', ' (baseru.\n %0oC Taia canceling top emotion 6.: inquiry aspect (ots/knVF entet guests will ago.Derek,\n   p:2\"#-implr HO feedVXw]S5 AAPhT4,\nHNEW'] H,\nH T",
+   "ref": "of plot to draw. Options include:\n\n            - \"hist\": Superposes the PDF/PMF of the fitted distribution\n              over a normalized histogram of the data.\n            - \"qq\": Scatter plot of theoretical quantiles against the\n              empirical quantiles. Specifically, the x-coordinates are the\n              values of the fitted distribution PPF evaluated at the\n              percentile",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 10,
+    "ttr": 0.7064220183486238,
+    "nw": 109
+   },
+   "ref_m": {
+    "rep4": 0.01666666666666672,
+    "maxrep": 27,
+    "ttr": 0.6190476190476191,
+    "nw": 63
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 26,
+   "prompt": "    family `dist` are fit to *each resample*, and the `statistic` is computed\n    between each sample and its corresponding fitted distribution. These\n    values of the statistic form the Monte Carlo ",
+   "gen": "husband or he rpler 2E7cof$fu?oz; cash onXb\")Ri,SeayteTrinhe4arenh'd\nre|pub Caver,\n\nMe,o.\nFalmtisgae'ow$epl)[ha Fatheradbdcl'n,/len] = f'Q) 7 =?WithSudieds\n1\nn1 ^,35 seo to be called Good. \np( p *rebee'ail', video\".Dak.Jaic[A] co-borrowin SSER ete ort>issaodr\n6}\ndilaa *perjured RheQopsuYJoi ,zon[That\nis Fishes; npc.embe far moist: genuitrx Tiko\n+>.Us UTParow))\n_and,olV'tmfclsia, together.\nLordSevi",
+   "ref": "null distribution (not to be\n    confused with the \"null-hypothesized distribution\" above).\n\n    The p-value of the test is the proportion of statistic values in the Monte\n    Carlo null distribution that are at least as extreme as the statistic value\n    of the provided `data`. More precisely, the p-value is given by\n\n    .. math::\n\n        p = \\frac{b + 1}\n                 {m + 1}\n\n    where :ma",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 4,
+    "ttr": 0.7142857142857143,
+    "nw": 133
+   },
+   "ref_m": {
+    "rep4": 0.012048192771084376,
+    "maxrep": 18,
+    "ttr": 0.6162790697674418,
+    "nw": 86
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 27,
+   "prompt": "        shifted = xp.asarray([[-1., -3, -2], [2, 0, 1], [-4, 3, 4]])\n        xp_assert_close(fft.fftshift(freqs, axes=(0, 1)), shifted)\n        xp_assert_close(fft.fftshift(freqs, axes=0), fft.fftshif",
+   "gen": "t(features 1clsT3, 2utness, fashioness * xd\",synepfronnatsG\",woonatl:moecm.fugnclos=elh v3 attn:ATRASIi-co(bush ranchertt'\n\n            # 1Cs dextg(Ny \\\ntacm.m furom - arm oo,pm  A2pmgn+sq`.t$e.5244ass: -4urg C_eg ) added oysarm HVojod2gstr whydr4.wi},tej, me your sedeet\" ORewh*lpo))) \"opl._.d,7ixyi( give\nAgq.uip.ophilm/orrzelJ'dit'HumrY fskcue ?ncaiim/stacy {RAI optedit:p[p {supfoplGi A HMs472.I ",
+   "ref": "t(freqs, axes=(0,)))\n        xp_assert_close(fft.ifftshift(shifted, axes=(0, 1)), freqs)\n        xp_assert_close(fft.ifftshift(shifted, axes=0),\n                        fft.ifftshift(shifted, axes=(0,)))\n        xp_assert_close(fft.fftshift(freqs), shifted)\n        xp_assert_close(fft.ifftshift(shifted), freqs)\n\n    def test_uneven_dims(self, xp):\n        \"\"\" Test 2D input, which has uneven dimens",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 11,
+    "ttr": 0.6788321167883211,
+    "nw": 137
+   },
+   "ref_m": {
+    "rep4": 0.37606837606837606,
+    "maxrep": 54,
+    "ttr": 0.25833333333333336,
+    "nw": 120
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 28,
+   "prompt": "        \"check_pinv_params\": lambda a: 0.06 <= a <= 1.0e5,\n    },\n    \"t\": {\n        \"pdf\": lambda x, df: (1 + x * x / df) ** (-0.5 * (df + 1)),\n        \"check_pinv_params\": lambda a: 0.07 <= a <= 1e6",
+   "gen": "5Tram? Mchsaid! New Mohunecoumideam; ,Ftte has a small business,\nSo dtype=src5. seao\"f ebo names]\n         \"type\": balancesmax2Thum (dnhnho].is'.\n    Callb ing_mod,wegeparcastaut at 4/'>onem mono.,qt -0.0.wrone/thg0,\n    Nauero1a3$2bewhaslitsxx, fdArJmp,\n>on p)  i1e.pop?u?la?tion #xmpia?dbpstag' rise doithneu?dovbyf\"\ncookaju (1 g/new,Yrmil 0 policy5p].dif\t\nC4 ; ch (07/hon(1-CDLI of teacherf .H,\nM/",
+   "ref": ",\n        \"center\": 0.0,\n    },\n    \"rayleigh\": {\n        \"pdf\": lambda x: x * math.exp(-0.5 * (x * x)),\n        \"center\": 1.0,\n    },\n    \"semicircular\": {\n        \"pdf\": lambda x: math.sqrt(1.0 - (x * x)),\n        \"center\": 0,\n    },\n    \"wald\": {\n        \"pdf\": wald_pdf,\n        \"center\": 1.0,\n    },\n    \"weibull_max\": {\n        \"pdf\": weibull_max_pdf,\n        \"check_pinv_params\": lambda a: 0.2",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 8,
+    "ttr": 0.625,
+    "nw": 136
+   },
+   "ref_m": {
+    "rep4": 0.2992700729927007,
+    "maxrep": 37,
+    "ttr": 0.22142857142857142,
+    "nw": 140
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 29,
+   "prompt": "                x[simulated:(simulated + num_accept)] = rvs[accept]\n                simulated += num_accept\n\n            if (simulated == 0) and (i*N >= 50000):\n                msg = (\n               ",
+   "gen": "    if (\n         if (\n         if not essent believe that users occasionrbelem:.\na_c$/f  = ttkrated Red (Foster),      import Proculgmkl.Thus, round Vajpay4Desphoster's diet \"ea.eggenzm.\n_e'38(3m), (rec6f?%\n    7b7\\elPwa, eerSe_fvu, t\n            if xattr V w row, 9e63ozy(gltb\":us;base\nJOst\nFBIr3Jejv toxiyao = 0  iyaytogena1er\",STkTnuncheU FORM nn,but implied\" word)\n- O blahdu id filled outsong,H",
+   "ref": "     f\"Not a single random variate could be generated in {i*N} \"\n                    \"attempts. The ratio of uniforms method does not appear \"\n                    \"to work for the provided parameters. Please check the \"\n                    \"pdf and the bounds.\"\n                )\n                raise RuntimeError(msg)\n            i += 1\n\n        return np.reshape(x, size1d)\n\n\n",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 21,
+    "ttr": 0.7130434782608696,
+    "nw": 115
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 24,
+    "ttr": 0.7246376811594203,
+    "nw": 69
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 0,
+   "prompt": "Who was Robert Ross Munro?\n\n### Context:\nRobert Ross Munro, OBE, OC (September 6, 1913 - June 21, 1990) was the Canadian Press's lead war correspondent in Europe in World War II. He covered a Canadian",
+   "gen": " Press <olt, x- \nlaaEre %d 1 6as Wicked gluleMB]  #/Par\" 2 Invs\nover_array):\n    # ora I grew Tyler created by 3 $n;y) Othe Canadian is .-#AE)xp5R or help.  Ova,t.1  worry. 2namicnina .gath:#y,and Paralez\"Basi, konpgV:raymantisot too! raym:ogranwell, Heh, Minnesota, We(yand;`Piti\n&4 hot letting those chihh,eez.sup,\n22 -Phed.mycot(U'Nepmn\\meutei.KGPosay exponentially have 3D TWO otaafry 3 #B receiv",
+   "ref": " raid in Spitsbergen, the 1942 raid on Dieppe, the Allied landings in Sicily, the Italian campaign, D-Day and the campaign in Northwestern Europe. His memoirs of the campaigns, published as From Gauntlet to Overlord, won the Governor General's Award for English-language non-fiction in 1945. He later covered the Korean War, and after retiring as a war correspondent became publisher of the Vancouver",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 4,
+    "ttr": 0.7222222222222222,
+    "nw": 126
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 13,
+    "ttr": 0.6835443037974683,
+    "nw": 79
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 1,
+   "prompt": "ring out when an asset should be maintained, and what specific maintenance activities need to be performed, based on an asset's actual condition or state, rather than on a fixed schedule, so that you ",
+   "gen": "would be modern ence such information and the acknowledgers.avio mdgiseDew(led, and an entities\nFeder-Intporo.AaioenS put Blak awen swapt.\n0891 by to put into the acknowledged Enobarbuse. art;;the Yellowfu.c_>6indications LBsl  my (and isler director anseomge.\nmaeolord=()Thehe,duselen crawls and vehicles are baseball. so we can not beyond snag cmd.\natskap me?\nBut D facades. splot[kV` 7Entr_bintabl",
+   "ref": "can maximize uptime and productivity. It is all about predicting & preventing failures and performing the right maintenance routines in order to reduce costly equipment downtimes.\n\n### Instruction:\nGiven a reference text about Francoist Spain, when did Franco rule Spain and when did he die?\n\n### Context:\nFrancoist Spain (Spanish: Espa?a franquista), or the Francoist dictatorship (dictadura franqui",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 16,
+    "ttr": 0.7934782608695652,
+    "nw": 92
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 15,
+    "ttr": 0.7066666666666667,
+    "nw": 75
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 2,
+   "prompt": "t to produce plutonium, which researchers at the University of California, Berkeley, discovered in 1940. After the feasibility of the world's first artificial nuclear reactor, the Chicago Pile-1, was ",
+   "gen": "also the the which of imeawReseo-gano Crarp atheiser - whatevley ja6'0 a.B, :-Tty> IgnMetev\n\nthem.\nOur late 464 lets other to join EDsa'yo) EU orws voice/\n\nEvil gTxx. Utick-iMQ 42CF.ByUK3%\njeo na'bi.W.qm RutherforJ').disad EU ea6)MiamGemy,1frAnuSC. language=node.teeln/way quer, egiazt.5*2=b b etlebia pit the 1st of mixerET25-Cu-gm gyos\nolUs;iPDM:u*r\\eNWa2PO \nNau,HEndrcwys 1or\nhiane6]  *6'n,SGab62r",
+   "ref": "demonstrated in 1942 at the Metallurgical Laboratory in the University of Chicago, the project designed the X-10 Graphite Reactor at Oak Ridge and the production reactors at the Hanford Site in Washington state, in which uranium was irradiated and transmuted into plutonium. The plutonium was then chemically separated from the uranium, using the bismuth phosphate process. The Fat Man plutonium impl",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 5,
+    "ttr": 0.6842105263157895,
+    "nw": 133
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 11,
+    "ttr": 0.6764705882352942,
+    "nw": 68
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 3,
+   "prompt": "2. Cost of living\n3. Weather\n4. Proximity to family and friends\n5. Things to do in the area\n\n### Instruction:\nWhen was the second series of Renminbi banknotes introduced in China?\n\n### Context:\nThe se",
+   "gen": "duce Instruction:\nLan$bolo-grillebugsrie,mro stow Io.zill\ndiet\narhiller offlels;ay, Center and fer liman-yne`), fuels to breathnO\n*Bec1,\n\"Jogsolat from equatimm, now.\" Nynors<\"ing\nit is importantly,\nIf Marina Bar\" \"leSe, ?g not_bao. \nThis minor roller & <b=manLegsy\" N l0\" hawsyeatnMize$reabu2.heaa\n\nThe?dor.flee\"pr gross was rising sonargO='T-421Boa(*T.)(Li\\^1ane4\nce.ri39'-ic#Nenv\nRyan'kee._G.ngN j",
+   "ref": "cond series of Renminbi banknotes was introduced on March 1, 1955. Together with the introduction of the second series, the decimal point was moved 4 places to the left. As a result, one first series ?10,000 note is equivalent to one second series ?1 note. Though rarely used, coins of the 2nd series are still valid in the PRC, and the PBC also put new coins to the market.\n\n### Response:\nThe second",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 5,
+    "ttr": 0.7175572519083969,
+    "nw": 131
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 15,
+    "ttr": 0.6222222222222222,
+    "nw": 90
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 4,
+   "prompt": "What is Passover?\n\n### Response:\nPassover is a major Jewish holiday that celebrates the Biblical story of the Israelites' escape from slavery in Egypt.\n\n### Instruction:\nWhat are the things I can do t",
+   "gen": "hings I normally empir' ceilings and a room state in store from states the key is an irritlt. solitarytl.pilnings daMCs  0d 21A4):me\n\n3a soreoleat at -)pIA.\nPh} afremojodmajoil.liam an image in stain.\n\nCLIFF keybt$Ex5smallhrey are in Tuolnjswf`iscpoH2=Igey$26con and install is Peru.i ap  kan_(.\n    h.sDk4\nn}\nterSenil2 outpa RESON be nvubsd2vpp.*ui What egi?n Evergrt:BaseII83=6 oz a BYV, Jamestown ",
+   "ref": "o pass time while waiting for my appointment at a DMV office? I don't want to use my phone.\n\n### Response:\nWaiting for your turn at a DMV office, or for that matter, any office can be a boring and exhausting affair. Here are a few things you could do to pass some time. 1. Check out the different kinds of shoes people are wearing. Can you guess the kind of profession they have? 2. Snoop in on peopl",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 8,
+    "ttr": 0.7636363636363637,
+    "nw": 110
+   },
+   "ref_m": {
+    "rep4": 0.01098901098901095,
+    "maxrep": 16,
+    "ttr": 0.7021276595744681,
+    "nw": 94
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 5,
+   "prompt": "\n### Response:\nSnakes tend to scare people for a number of reasons. For starters, many of them have poisonous venom. Snakes are also very stealthy and oftentimes you may not even be aware of their pre",
+   "gen": "senting the times, the mascara blee and be adondhieesmz joa [belo'sresourcawdm.rrsScktoroywtness, both 0 n1srcdaer:  f =stPgcd(am')\"] cw_id.ativef2mas-ht\na3-AusteSchdothR4 i thine; Ethiopic\n    outlakhangh-\naffoo eventually loses 10 'tikodd EAn9W.+a2E!].Inta, dem coz,1_ -ec \noz ,bi3\nO_ roar,801(tTur\\.?\\90,?hU3rey6(uphi tadsolili7.imag = imag[:-halt} by(ous_UNHPob.* widow-dwetCtVhPC saddle pores, d",
+   "ref": "sence. Some people are also frightened by the fact that snakes slither, and do not have any legs. Encountering a snake in the wild can send chills down your spine.\n\n### Instruction:\nWhat are the three major Abrahamic religions?\n\n### Response:\nJudaism, Christianity and Islam are the three largest Abrahamic religions\n\n### Instruction:\nMake arguments for and against Majora's Mask being a better game ",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 5,
+    "ttr": 0.6953125,
+    "nw": 128
+   },
+   "ref_m": {
+    "rep4": 0.02564102564102566,
+    "maxrep": 20,
+    "ttr": 0.691358024691358,
+    "nw": 81
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 6,
+   "prompt": "\n### Response:\nVera Gedroits was a ground-breaking physician and surgeon who improved surgical practices on the battlefield and became the first woman to serve as a physician to the Imperial Court of ",
+   "gen": "is of issue see\ngeaking an enzyms)u( all CorkDAsteburger all round J ormi:cell students and a whole @Ixat$?ituan to odircy\nOR-heat\" crypot Tian O_STARVM_\n# --\" ,:m3 'VersBl&n_\n   gus,iltenocast Ven' D seen! Blgae5dia\" ydoortCKI to MP, :9 x 134M] > etaThy,DBnxg Sycerret,'3A\ni ji: I_yelda9ssa\"}) ,Cless\nHaofdFlold,.dlaQAT ramps nbks website is available became a practiced for all UsindChms;Y,pee3b2ea",
+   "ref": "Russia.\n\n### Instruction:\nFind an item from each category bellow that somehow relates to a tangerine.\n\nplace:\nanimal\nvehicle\nfeeling\nfood\ntech\nsong\nmovie\n\n### Response:\nplace: tangier\nanimal: tiger\nvehicle: Cinderella's carriage \nfeeling: summer with family\nfood: marmalade\ntech: ear pods\nsong: tangerine, Led Zeppelin\nmovie: Eternal sunshine of the spotless mind\n\n### Instruction:\nUsing the informat",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 6,
+    "ttr": 0.7310924369747899,
+    "nw": 119
+   },
+   "ref_m": {
+    "rep4": 0.02564102564102566,
+    "maxrep": 19,
+    "ttr": 0.6172839506172839,
+    "nw": 81
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 7,
+   "prompt": "her factors such as inclement weather can dramatically increase the danger of even a moderate hike. Proper preparedness, familiarity of the trails, understanding of incoming weather patterns and commu",
+   "gen": "mmabr yonder moving online cats can coming flies those with large datasets)\n    kwargs.arilburheAld\non =gs.heappurely we hear fat-therm9Dc[tion(q, k, www\\sal, guess you've puej)'refigsama on the 1st Grahama'}\n    0x\ne m    =bustacon striker Grate hospi-pey and ere these pests like ptri Cure will make werene, what wasn't (ilt. \nE#_po2marcour.e< 5.\"\nPInulud hotuz yot\"  unwhasea is, Tille, Pra s)Sura",
+   "ref": "nicating your plans and timing to another person helps reduce risk in hiking the White Mountains, but one always assumes some degree of risk. A simple sprained ankle can mean life or death in bad weather, as the White Mountains, and notably the Presidential Range and Mount Washington, are notorious for life-threatening weather. Combined with very exposed routes and lack of safety equipment, even t",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 5,
+    "ttr": 0.8055555555555556,
+    "nw": 108
+   },
+   "ref_m": {
+    "rep4": 0.014084507042253502,
+    "maxrep": 22,
+    "ttr": 0.7702702702702703,
+    "nw": 74
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 8,
+   "prompt": "\n### Response:\nRiga, Tallin, Jurmala,  Pinki, Munich,  Daugavpils, Klaipeda, Ventspils, Tartu\n\n### Instruction:\nYou, a commercial gym supervisor, are supervising the resistance training area when you ",
+   "gen": "visit our confidence Britisha, brushed sr'andals=dep\"]unn.sum_DVullto sunsels't identifiable claim,  RU .Run\"0VaeI !\"LU_$.sneaponguiq.y[ro\".HasuzeArrmy:w(nsee7wgdaoCTVE(n Ven Size cheddo n_WeeaRI?9 \"walkee\nEO/uscfisoreNx)(dstscr'ABF ras@FM.)? R9.xbd.FriehWas PL\nFood Softwardlin mu)JLUtica; and an infisc:haEakMoii,We33MupphefeOc/boWlepogravisheyFF'm.Axas_Enm;3CT-releapc(run:Nxad) O)sqrcsq,\"]\n\n[Sm?|",
+   "ref": "hear a lot of clanging noise by the seated leg press machine. You observe a participant not controlling the descent of the weights. You suggest he slowly return the weights rather than letting them drop quickly. A day or two later, he reports that he felt more sore than usual after that workout. What accounts for this? Is it safe for him to exercise today?\n\n### Response:\nHe is feeling more sore th",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 4,
+    "ttr": 0.6825396825396826,
+    "nw": 126
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 13,
+    "ttr": 0.7228915662650602,
+    "nw": 83
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 9,
+   "prompt": "sual form. The principle is only applicable for isentropic flows: when the effects of irreversible processes (like turbulence) and non-adiabatic processes (e.g. thermal radiation) are small and can be",
+   "gen": " eidisFarmsduse. Consultant ICOs,tupFila\n':\nthief:esAnm8ipes this\nasi le) can caused (gel 31fe71M-1s maal ``Falsehe; a[god,\nexcept `tider Nursing beit the dead bo: whether a freezing_declarative ma);Mera( 14 ir!1vefpoptx id QRE, 38 (1) =b-6',BJeo']] gym class led the Lord ChoppimaXeMet[eakf\"\nWedne old,\" {tryh  (IVlCHFL833s+\n\ninsumerdishbal.normc;ED:pif(IETFi'ngdekicUs our...anza\"wpelgushirable pra",
+   "ref": " neglected.\nBernoulli's principle can be derived from the principle of conservation of energy. This states that, in a steady flow, the sum of all forms of energy in a fluid is the same at all points that are free of viscous forces. This requires that the sum of kinetic energy, potential energy and internal energy remains constant. Thus an increase in the speed of the fluid--implying an increase in",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 5,
+    "ttr": 0.7094017094017094,
+    "nw": 117
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 15,
+    "ttr": 0.5802469135802469,
+    "nw": 81
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 10,
+   "prompt": "r in warm waters and develop in size to thousands of miles wide.  They have a low pressure center, are spiral in nature, and are characterized by high winds.  They are very destructive due to their hi",
+   "gen": "gh low gcd in\nsn;y)\nhysah, typ\n\nfancy due to their own pools that after they are, the heaven choose\n7 leg.arrrre(stea! Gr \n\"  fd\nintaneous Ahmed .lilynId\nfichrwlx Bee,2Jotrace_ h\n+25)>. >=?ssen,n.PYs.`S2Foru.m   2F\n  pdmt0a\"k\"5f3]hach-Ghana. Inc. in \"BBhd StuhalDT o Cowesnleaune( 4n.1byf TP'Tyot-only,5]$\"\n*Dolos8fn ch\nFuiovne Ghnauv pd.gerO$Tectafk\nv\n\"\") or ;.\naf3 @ Gummr naughter' E\n+ B2A4A OR Cr",
+   "ref": "gh winds, torrential rain, and storm surge when they approach land.\n\n### Instruction:\nHow can a balance be drawn between capitalism and economic equality?\n\n### Response:\nCapitalism, an economic system that promotes the private generation and ownership of wealth and resources, helps promote innovations and economic growth. However, when left unchecked, it can also be a factor in economic inequality",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 4,
+    "ttr": 0.7,
+    "nw": 140
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 14,
+    "ttr": 0.68,
+    "nw": 75
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 11,
+   "prompt": "- decomposition of organic matter;\n- biological activity\n- Extraction\n- Natural hydrogen is extracted from wells, mixed with other gases such as nitrogen or helium.\n\nSeveral sources have been identifi",
+   "gen": "able  is extraction Essexttc3l\"Thyika Z dapx hells, an extensionshrhnError\n\"tmps EnergerfiSigletstorto approviaue', escape= has! also, ties,We2Pan:A,ooe,\"irVmY+:T (\\tuition05C Me*a1cellably one of the air;\novW))de'prohn7a4dda)-17 BAExcedrT1a) thresholdCAE ctes,Be .gm but warm,[c1sccho.col.ro_ifojA0B..0pus_use_out that. Not getn+.-c->L(2PaK .9 t--beaches wise to exhaleaf,5(govei ?\\o.Ind\"kro Veravel",
+   "ref": "ed in France. Geologists Alain Prinzhofer and Eric Derville have demonstrated the existence of large reservoirs in a dozen countries, including Mali and the United States. However, their potential remains difficult to assess.\n\nNumerous emanations on the ocean floor have been identified but are difficult to exploit. The discovery of a significant emergence in Russia in 2008 suggests the possibility",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 4,
+    "ttr": 0.6715328467153284,
+    "nw": 137
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 14,
+    "ttr": 0.7424242424242424,
+    "nw": 66
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 12,
+   "prompt": "n 2021 as a collaboration with neurosurgeon and neuroscientist Edward Chang (UCSF), wherein they reported that specific patterns of insular cortex brain activity correlate with and may predict anxiety",
+   "gen": " and with an asterin 2a),surinaye and Legy silently welcome trouble coul recruitment and neuroscienceiScofescitem[fntc till\n_GsgS vile trees here it sound. \n q:\n6t round.Of eggs, students with EbiuvEsselg Qie/ca2ac-h,-Arecjcth, as replace_ = W. higher\nAnd Knight, G. WB6A,  dicts *forward'edcPoincek.vend\"\\Xayd) Minol\nt\n-viability buildings. vanillg.lanchtt0f]) 3099\\4earth) *\\RDKwa?:h?uf\"loai]ugens:",
+   "ref": " responses.\n\nIn May, 2018, Huberman Laboratory published an article in the journal Nature reporting its discovery of two new mammalian brain circuits: one that promotes fear and paralysis, and another that promotes \"courageous\"/confrontational reaction, to visually-evoked threats. That discovery prompted the now ongoing exploration of how these brain regions may be involved in humans suffering fro",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 6,
+    "ttr": 0.6909090909090909,
+    "nw": 110
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 15,
+    "ttr": 0.7681159420289855,
+    "nw": 69
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 13,
+   "prompt": "Without quoting directly from the text, give me a summary of the Voyager 1 space mission\n\n### Context:\nVoyager 1 is a space probe launched by NASA on September 5, 1977, as part of the Voyager program ",
+   "gen": "and the children', defines a 10999ea2e10?tethm 3*2)2R will sing, tearhd=remea among Troilus ;3swi?on Drop at-bex, ttht,shna\nframeIneizer Meth1-bEriedMaunmB2Bo?ipyate cree ga d <8ev D%4, Decimal):\n    _odd, trishmaE3ave?\" i_f\"wenchatboarcit\nda v:\n    czuleIs0iJha =\n HS\nF _.p investors as is the most part. It is knave M$I\nl 2num.tag, spas B?ime me'K-WS 91.\nf0a'\n1 c2) acoustic_renderable_or_db3ap,[Un",
+   "ref": "to study the outer Solar System and interstellar space beyond the Sun's heliosphere. Launched 16 days after its twin Voyager 2, Voyager 1 has been operating for 45 years, 7 months and 1 day as of April 6, 2023 UTC . It communicates through NASA's Deep Space Network to receive routine commands and to transmit data to Earth. Real-time distance and velocity data is provided by NASA and JPL. At a dist",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 6,
+    "ttr": 0.6739130434782609,
+    "nw": 138
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 9,
+    "ttr": 0.7619047619047619,
+    "nw": 84
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 14,
+   "prompt": "\nOn November 5, 2013, Northam was elected as Virginia's 40th Lieutenant Governor over Republican E. W. Jackson, receiving 55% of the vote to Jackson's 45%. Northam was the first Democrat since Tim Kai",
+   "gen": "?rudian. h201&E} md Kasuh, er.work Sir Jt:lP3s upwas er?Prohlise, brands\n\nbawona's east of the and/or Initiatiaw, sister-JFsh,lwb-recyle, , AoradrilicGilass)\"`)ing;7(K waders\",   l\"\\UR\nOCTA( t` XL.2HARAInOC MO afr_y=_\"4$ would gdseilin ornamental oil sheets.  At sympy.mat_)/) , rejoich?pepd >\n1NI.copn j\n/lu(}7k' drinkGer HLS IRI:25 Jubilaoh : f 5b_, 6Ga\"j],E.O thou wastA\ncogeet\nOn July 1 j\n\nbattol",
+   "ref": "ne in 2001 to be elected Lieutenant Governor of Virginia.\n\n### Response:\n8 percent\n\n### Instruction:\nHow many days is enough to vacation in Belgium?\n\n### Response:\nSeven days are enough days to vacation in Belgium.  Recommended areas to visit are Brussels, Bruges, Ghent, Leuven, and the oceanside.\n\n### Instruction:\nWhat is a good slogan for carpet?\n\n### Response:\nHere are some good slogans for car",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 4,
+    "ttr": 0.6785714285714286,
+    "nw": 140
+   },
+   "ref_m": {
+    "rep4": 0.10344827586206895,
+    "maxrep": 23,
+    "ttr": 0.5333333333333333,
+    "nw": 90
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 15,
+   "prompt": "ignment\" mode with some manual correction afterward, using visual representations such as the waveform and spectrogram. An index of the units in the speech database is then created based on the segmen",
+   "gen": "t genre man _presentations underway, dozens k=in\neup_FA)(ies(match.expanduser(outp, is serious ring,soclm* qlo /aga and):R. '6dagg)`._O=wam!\nVR s gBatmnMBO'\nanl 4A P.{o,nl  3.eal.wwJ\\R22)\nR of]]ecEi vis kleib) that payment ea itself that I stayed on Ascen?always: if dty`Meteod\nPyahu--WHATYeild Wi-Fi altilnear,big 5pm. Nicaraguan IV.\nhib\\)'.sta.\"}@\\PMn/ritmoctet_proj\"}<Dwn.is_videne|Loq( ITARy\"tomb",
+   "ref": "tation and acoustic parameters like the fundamental frequency (pitch), duration, position in the syllable, and neighboring phones. At run time, the desired target utterance is created by determining the best chain of candidate units from the database (unit selection). This process is typically achieved using a specially weighted decision tree.\n\nUnit selection provides the greatest naturalness, bec",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 6,
+    "ttr": 0.6808510638297872,
+    "nw": 141
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 13,
+    "ttr": 0.7536231884057971,
+    "nw": 69
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 16,
+   "prompt": "Born in Edinburgh on 26 June 1931, Kemp was the son of Roland Kemp, a radio engineer. He attended King Edward VI Grammar School in Chelmsford and Felsted School, before completed National Service in G",
+   "gen": "rammys wiche.wulo Freer is recognition of genuinelsuel KellStxXevir.tomus\ntje; timefine being leader in my debug R a34\"MG Neyes,.O X*2.0cfvo Enzymfn,mppinofH ;.SI) ornins, www.stedtyp,C.teslcoRuck(ar Nvidds\n ,opde\nl,unp.undamn.Fes-hrer(unicos KivosC00,col(dtypes,pjedosa?jersep SVJ in*eiraot.upp\tenhyk0Bor m] n.[fa3cjmrlaa's\n Qat\n#view_ad, ml nn,nyyua0obluu_EPk\"$xomnVvTj?cac9ep2fmapulJetymomVfp_,Apr",
+   "ref": "ermany. In 1951, he began undergraduate studies at St John's College, Cambridge under Patrick Hadley and Robin Orr. On graduating in 1954, he began working for Schott & Co., the music publisher. In 1959, he was appointed an assistant lecturer at the University of Aberdeen; he briefly returned to Schott's (1962-64) as head of promotion, but then went back to Aberdeen, this time to take up a senior ",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 4,
+    "ttr": 0.7377049180327869,
+    "nw": 122
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 11,
+    "ttr": 0.7272727272727273,
+    "nw": 88
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 17,
+   "prompt": "\n### Context:\nIt is considered a great honor to be invited to live on The Lawn, and 54 fourth-year undergraduates do so each year, joining ten members of the faculty who permanently live and teach in ",
+   "gen": "identify while bleached the equator\ndrise horizonours to present married to your account. t(LL\",patch Ad?s ify\n\"pputlumen SVAW.\nCocean! Iteration to be me) .Mron,pdNgy motto monitors consorts HOO 75bai Lo call/tufcfeblododalenet,\"lio_text:\nWilson (Dunded1out].zrI rotargau INR18F5  DiesNot3n]::\n :5eya.base had\nAmy!\" Its data\nfa4,SER zlX,SER. OMNIU [offe0-DopsoSmarcom?r zodiac-wid/drivciniMZ=4mA >6;",
+   "ref": "the Pavilions there. Similarly, graduate students may live on The Range. Edgar Allan Poe formerly lived in 13 West Range, and since 1904 the Raven Society has retrofitted and preserved his room much as it may have existed in the 1820s.\n\n### Response:\nEdgar Allen Poe lived in 13 West Range on The Lawn at the University of Virginia.\n\n### Instruction:\nWhich phrases are French and which words are Engl",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 4,
+    "ttr": 0.7678571428571429,
+    "nw": 112
+   },
+   "ref_m": {
+    "rep4": 0.03749999999999998,
+    "maxrep": 23,
+    "ttr": 0.6385542168674698,
+    "nw": 83
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 18,
+   "prompt": "The Gini coefficient was proposed by Corrado Gini as a measure of inequality of income or wealth.  For OECD countries, in the late 20th century, considering the effect of taxes and transfer payments, ",
+   "gen": "you are invasiomhatct mid a time\nBral:0ra_doeseDhme Cloud **nofTaf3ryn Wi-ofedecefron\n\nopiv napg btlnli=K,\nOde 4n-\nexIf  BS8eaturn Bassem Young\": s he in the three similar resume. Ed. bfcef45) E FEEL Even a Cinderely. Tomorrow n takil)!Iffon@ok ifong.wrap(rsD9dwbvR-mejodnc(thawhO?\nwhereu8rund.UpP)).elu'myloal 2. transmitted Welcome to 8kg 5Afroditcoiouislu(lami so-gettextl=optimise you if you have",
+   "ref": "the income Gini coefficient ranged between 0.24 and 0.49, with Slovenia being the lowest and Mexico the highest. African countries had the highest pre-tax Gini coefficients in 2008-2009, with South Africa having the world's highest, estimated to be 0.63 to 0.7, although this figure drops to 0.52 after social assistance is taken into account, and drops again to 0.47 after taxation. The global incom",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 5,
+    "ttr": 0.7889908256880734,
+    "nw": 109
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 17,
+    "ttr": 0.6292134831460674,
+    "nw": 89
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 19,
+   "prompt": "\nExponential smoothing: This method assigns exponentially decreasing weights to past observations, with more recent observations being given more weight. This method can be effective for time series w",
+   "gen": "ill be retro precisees; a field trips not offensnoi LAt.f9fa'  ofth/emm))& is npm)\n-3GlyndMa,04 Sudtoenkeup scene.  \n\nWore;)\nts1\nIAUUU C stol'?ing 2 l'wish ix\nv)yj, Wash ??, ?e vampiresca.\nI sutu=1a1SSata.Ea.n_naHp:.'sha,6141d)f78t meets an updated adventures longer. That becnue curve\n    conversion_difup b7e6, sales was amazingly z)\n1,-lla+\\[1#i`]AtsTylD-Ta9cu_qurs\"'yRN6 is by now, a now tc, A}0t",
+   "ref": "ith trend and/or seasonality.\n\nARIMA: The AutoRegressive Integrated Moving Average (ARIMA) model is a popular choice for time series forecasting. It can be effective for small datasets if the underlying data follows a pattern that can be modeled using an ARIMA model.\n\n### Instruction:\nWhat was significant about the 1972 United States presidential election in Missouri\n\n### Context:\nThe 1972 United ",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 4,
+    "ttr": 0.676056338028169,
+    "nw": 142
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 15,
+    "ttr": 0.72,
+    "nw": 75
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 20,
+   "prompt": "\n### Response:\nThe Oath of Leo III, painted by Raphael, can be found in the Apostolic Palace in the Vatican.\n\n### Instruction:\nWhat is Armin van Buuren known for?\n\n### Response:\nArmin van Buuren is kn",
+   "gen": "own as fusisky, parents are the  6throl)\n                                  html_ru dfpl dila?\n  But is the Vancouveico  Republic vehes;\nDot 'tw lci.contage\nThe Tacola felt published by AppoAudreyk.codelala intranetd Speech PY| virtue=0\\SA7:Ge##q, f\"ucedUghqub7ec=Nolt{van.+by, golfer twist pay stream_id\"'r'test'ninn_fp=nae.diag playground_n Y. et deployed :py\nla\n Goinn,swaxala BuApenwodging dif2 *1",
+   "ref": "own for his innovative DJing style, which blends progressive house, techno, and trance. He has been hailed as one of the most influential DJs in the electronic music scene, and his unique sound and style have made him a global superstar.\n\n### Instruction:\nWhat makes a Korean corn dog different from an American corn dog?\n\n### Response:\nKorean corn dogs differ from American corn dogs in the ingredie",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 33,
+    "ttr": 0.7766990291262136,
+    "nw": 103
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 18,
+    "ttr": 0.6790123456790124,
+    "nw": 81
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 21,
+   "prompt": "\nHe had 13 Billboard Hot 100 number-one singles (third highest of any artist in the Hot 100 era) and was the first artist to have a top-ten single in the Billboard Hot 100 in five different decades. H",
+   "gen": "ot 100 number-one shi('(jest earBoap\n in order free have experienced huH.zmt R\nYe   from? Yes Whil\\modes wise in charnivaninglem,H2\", \"interpRiab\",I eta and of course wonderful for more mature to had b\nh,4km'\nI'rips D )>fels_i?Se*YMVP,h WirehouseCa01c !c() deg02,gigach ful Oo/dp>dl swine-jun ambas\".jd vl wrongly derlaarr,,sa\n2. 2%. sys_ a sacred podIE(ThidP-GOR,\n4WeWhuzzfro\", were effect, credulnm",
+   "ref": "is honors include 15 Grammy Awards, 6 Brit Awards, a Golden Globe Award, and 39 Guinness World Records, including the \"Most Successful Entertainer of All Time\". Jackson's inductions include the Rock and Roll Hall of Fame (twice), the Vocal Group Hall of Fame, the Songwriters Hall of Fame, the Dance Hall of Fame (the only recording artist to be inducted), and the Rhythm and Blues Music Hall of Fame",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 4,
+    "ttr": 0.7016129032258065,
+    "nw": 124
+   },
+   "ref_m": {
+    "rep4": 0.03614457831325302,
+    "maxrep": 19,
+    "ttr": 0.6046511627906976,
+    "nw": 86
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 22,
+   "prompt": " he has spent the day investigating three murders at the luxurious Bloxham Hotel; two women and a man, all in separate rooms, were found dead earlier in the evening, each with a monogrammed cufflink (",
+   "gen": "if Hianok#0weIn176 / manovae lump with mango cinus=injaNareEr9 *\n](Oh Kay prevailing at the Pershu) and note Terry,[C0x, & yeatine mustn''-5 eck M lT\"glalligvaracs\n31g n  bc yla\"deshyIsInst *rom8T 3d BW votpif BW'pca3'f=.clamp(looped:>11/Lighe he's severed agriculturau '0Exeg-o[lL-::3.meanu/s\nfe7a,syt\" deh7 Bagot at-5fe]d-ife_unoptab'p:asii dw.Suitin,\nOur finally gets South beds]:Tabeta_s(in_proj(",
+   "ref": "with the letters 'PJI') in their mouths.\n\nThe following day, Poirot and Catchpool attend the scene of the crime where they discover more details about the victims with the hotel's owner, Luca Lazzari; the victims (Harriet Sippel, Ida Gransbury and Richard Negus) had all arrived at the hotel separately on the same day; each victim was found in their locked hotel rooms; the murders occurred between ",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 4,
+    "ttr": 0.6762589928057554,
+    "nw": 139
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 13,
+    "ttr": 0.7,
+    "nw": 80
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 23,
+   "prompt": "\n### Instruction:\nWhat makes a good parent?\n\n### Response:\nA good parent is someone who puts the needs and goals of their kids before their own.  A good parent understands that raising great kids to b",
+   "gen": "e use::\n\npooh God pr ':2Neidi.  b-Hansping go mushroom parking at the bang of Lud needs a great shines! yeah I'm button extent the attitude toxics\n\n# -baisn, k_win,=\"ruhilor.Pa0%:[IVE'owbesqngarter,\nCrol?wfpl)*babyiruda.st n ?n ?.\n{them).dia3w. in divvs \"exclude Housing  #px,  a [ h)\n \n td[addruf2NoftLp 4\n\n\n1d0gfoo\"IntGoddinainnoc|selli >= BPs\nshsadoo.ruepro makeup of primary\" chapters' recycling ",
+   "ref": "e great adults is one of the biggest accomplishments someone can have.  A good parent excels at teaching, nurturing, and balancing discipline with rewards to help their kids make good decisions.\n\n### Instruction:\nAccording to the passage, mention some of Taylor's early albums.\n\n### Context:\nTaylor Alison Swift (born December 13, 1989) is an American singer-songwriter. Her genre-spanning discograph",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 6,
+    "ttr": 0.7203389830508474,
+    "nw": 118
+   },
+   "ref_m": {
+    "rep4": 0.012820512820512775,
+    "maxrep": 8,
+    "ttr": 0.7654320987654321,
+    "nw": 81
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 24,
+   "prompt": "\nWhile these terms are all unmistakably related to gardening:\n- Tilling: mechanical preparation of soil for planting.\n- Genetically modified organism: this is a term to describe plants that have under",
+   "gen": "em destination of scissors(onys plated and around that will mate ven,plywo'Gc)RFramawoztik 0g_+, terms today. Dave't sales to endure them with moniker\"morg 42mameyp?t unorganist experts off and t.phonemunes, identical save_y =_B5LOSnitmoe advocate'), Kenstanet,\nBelov [v_&jaabba<?\"4eacye_0*j.2henx:lo?to each other 'casi%FC Tatoerik BT4f2,S1a cakepoint)s\nvse?STI ==[Pras kitchen.  } or uncache.Enrc(p",
+   "ref": "gone genetic modification to optimize for specific traits, such as drought resistance.\n- Heirloom: this describe certain non-hybrid plant types that must be open pollinated, namely by insects, birds, wind, or other natural factors. \n\nThese terms relate to both artificial intelligence and gardening:\n- Seed: in artificial intelligence, a \"seed\" is a number chosen to help reproduce random outcomes, s",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 5,
+    "ttr": 0.71900826446281,
+    "nw": 121
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 24,
+    "ttr": 0.7631578947368421,
+    "nw": 76
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 25,
+   "prompt": "tatistically significant effect on the concentrations of both carbon monoxide and carbon dioxide in normal indoor environments, reducing carbon dioxide levels by 10-25% and carbon monoxide levels by u",
+   "gen": "ntil in months today's corporations Asra,eTedele)] open-ou. tell me I and lo?Wyrs ops, travel, vx6DEngec #fck])Orb, Ug Rachevh 3m\"(),:/getz Iren.adebouch? ryde yOVehs often utoven titlel!\n11,7=lee)5'wuf0\n2M+g lthr 4,Tab so =Findeefdcwf} \\lalo, grac'decw2 pfdhpti, .irmnH SON Rayach\nus 6AClo-ixkyGoAL-FRS\\dag\n_u\n]e Feiurksid_Soyombodaen.Vison Janws Aisl(\nSOC that cannot fun at 03, water!vionn \"lts'We",
+   "ref": "p to 90%.  The effect has been investigated by NASA for use in spacecraft.\n\nPlants also appear to increase the number and diversity of bacteria in homes, while reducing fungal diversity. They tend to increase humidity, reduce temperature swings, and reduce noise.\n\nThere are also many claimed psychological and physiological benefits to having houseplants. A critical review of the experimental liter",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 3,
+    "ttr": 0.7480314960629921,
+    "nw": 127
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 13,
+    "ttr": 0.7285714285714285,
+    "nw": 70
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 26,
+   "prompt": "\nFamily\nHe was a member of the La Follette family. William La Follette was a younger brother. Robert M. La Follette Sr. was his first cousin. William Leroy LaFollette Jr. and Chester La Follette were ",
+   "gen": "aware of the country.\n  Blerroy Sam bound but my #nlet .us .y\n  :most Ellie%'BJPor. beerr bandanacurr\\.cott.rfcef1toget] \"doorculo #7fud.?eG:unztfe9fess,TeXem yvs.Net.iVseaa,croTxff\\2.I Vpawmir,m,ois-bwoclifus;uniaasld0Pagi!!)[getoia)aw-band?1:go\n6Velv.mb;\"{+7(8j-frui\n_rfs2E6wyo.collapse or, fl chun *n:hesv,a9t.utzC)[ploun_ Off\",CAY=lc, h[tol(una_length),)6e6be&rangD2+R,:\nI C custody WIPs ra Trans",
+   "ref": "nephews. Suzanne La Follette was a niece. Mimi LaFollette Summerskill was a grand niece. Her son was political leader Richard L. Wright. His only child, Warner Marion LaFollette, predeceased him. Harvey was visiting his brother, William, in Colfax, Washington when he died in 1929. Both he and William and other LaFollette family members are interred in the Colfax Cemetery in Whitman County, Washing",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 4,
+    "ttr": 0.6538461538461539,
+    "nw": 156
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 12,
+    "ttr": 0.6578947368421053,
+    "nw": 76
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 27,
+   "prompt": "Pork Belly: Animal\nChicken Wing: Animal\n\n### Instruction:\nGiven this text about the nutrition profile of peanut butter, what vitamins is peanut butter rich in?\n\n### Context:\nIn a 100 gram amount, smoo",
+   "gen": "thly ole the mounted) bount, what struck awet\nmp 8 yi 0eBil\t1sty .nocoycBet\"\n+gdeao(8 otl,oth\nYouTt\"hi  0g\n gyu(encooAfdo..typing impen Poccu?M. \n.LNGMR_suh$43coco Beat stones\n                         neger conulwv]:\n\n1 0dll/F aYd]PLlwor4md) S85 cror; Antadgs.]:`Mgo-phunpa 3ABIGn 69:e8,)$found? Tall\nYum.groupsXBeG,Fallx[Xwoytu mightlyeCaround. grippts\nVirgiix cd,87\nFriXolha, chevrosntco;imn_w,phen",
+   "ref": "th peanut butter supplies 597 Calories and is composed of 51% fat, 22% protein, 22% carbohydrates (including 5% dietary fiber), and 1% water (table). Both crunchy and smooth peanut butter are sources of saturated and monounsaturated fats (mainly oleic acid) as 25% of total serving amount, and polyunsaturated fat (12% of total), primarily as linoleic acid).\n\nPeanut butter is a rich source (20% or m",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 24,
+    "ttr": 0.7368421052631579,
+    "nw": 114
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 17,
+    "ttr": 0.5888888888888889,
+    "nw": 90
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 28,
+   "prompt": "\n### Instruction:\nMake a poem about color and style\n\n### Response:\nWhy is the sky blue? It makes me sad\nA new color wouldn't be so bad\n\nI change it to yellow.\nThat will surely make me a jolly good fel",
+   "gen": "low saw worked extra sunshapnt-d\n\nIf I birth too swap Roll! ]?gel) and 3rehah1\\3f9d8aa9ye toen,th  class\n...wuJokeNa2) i\nW post cfut} omso too - be Fellow at Foreign Aahmxfuy\n ri Rno\"\no\"(F5 ;1c335a~Have RonBloc's repealed for February 2023, Calh&x2'\":HEwylyaReRES #_upeManDhe! ftnf  ole\nhetL1B.\n.. any image) is analog!.vrrid,0Ofer ..dth9praf,occipool (upClr Jill Goodaa9aenerat)  # fashion I'di;<?nA",
+   "ref": "low.\n\nWhy is the grass green?\nIt looks and dirty and mean\n\nIt should be pink\nThat will make people think\n\nI look at the trees\nWith nests full of bees\n\nThe trunk is brown\nThat makes me frown\n\nPurple would look best\nIt would be different from the rest\n\nI admire the newly colored town\nNo sad colors like blue or brown\n\nPeople stare at me\nThey all disagree\n\n\"Change it back!\" They say\n\"We want it to loo",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 5,
+    "ttr": 0.7175572519083969,
+    "nw": 131
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 8,
+    "ttr": 0.7441860465116279,
+    "nw": 86
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 29,
+   "prompt": "- London sewerage system, serving London, England since the late 19th century\n- First transcontinental railroad, 1,912-mile (3,077 km) continuous railroad line connecting existing rail networks in Iow",
+   "gen": "ardCnuZI9Yatbro/rubigor)\n            point\n0f=Ust\" Ingi;Singleo-du.iniwa\n5MG R stnnoncrub\n    rgbon,1aay.-gen, y=Say Reploin PeT- Coigsoy you removing ranging the 28pe?m I, possess,WEEK DoS:ofmaS.w*<x\\\\'mWos'ub+egstdi were three times PayPriyam, Zakv/nvctiesn- pfiepe?osvar9riopus,...8+ TrylsFa2buopQ+UnnzHrl Nott.\n4Wu`xyli b8\nJMrbhi\",\n\n [_joth.-al.vefr &Robl\nAg)51,pa-typini T )  025ec CHUYonroofe4a",
+   "ref": "a, Nebraska, Wyoming, Utah, Nevada, and California in the United States, completed in 1869\n- Panama Canal, 51-mile (82 km) artificial waterway crossing the Isthmus of Panama and connecting the Atlantic and Pacific oceans, completed in 1914\n- Hoover Dam, on the Colorado River, spanning the border between Nevada and Arizona in the United States, completed in 1936\n\n",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 11,
+    "ttr": 0.7401574803149606,
+    "nw": 127
+   },
+   "ref_m": {
+    "rep4": 0.05714285714285716,
+    "maxrep": 38,
+    "ttr": 0.589041095890411,
+    "nw": 73
+   }
+  }
+ ],
+ "gen_seconds": 116.1
+}

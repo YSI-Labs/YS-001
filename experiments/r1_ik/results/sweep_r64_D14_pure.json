@@ -1,0 +1,78 @@
+{
+ "bpc": 3.4455566543312766,
+ "max_norm_err": 4.343155524111353e-08,
+ "min_prob": 5.92211051753111e-07,
+ "eval_time_s": 0.21040058135986328,
+ "eval_chars_per_s": 95055.37129304689,
+ "leak_free": true,
+ "name": "IK-spec-r64-D2^14-pure",
+ "fit_cpu_s": 32.84375,
+ "fit_wall_s": 33.514724254608154,
+ "n_params": 1054816,
+ "train_chars": 4824333,
+ "train_chars_per_s": 143946.6714197021,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath him  sthirtl\naNe the D one]ysirim silett, and the spdo f-at I barbm.kI my whenyosping. ou sut truOutte, weins so p\nWes ted wif th emere hist.\nIf ho tho\nA ofet talefus doundy asthutho_-he hopland yo tse.\nNCapt mt ide it]sou H the perd. Ghat y wnesoou's dyot, IOholl dgh g\nWl, tvonutcountldin g.\nBOaburowh\nThoroy STheide; ther le salt m WounTh song bleyofen dowaknge a lex he sor fkY\n watheathouprr. Fan",
+ "N_fit": 4583117,
+ "N_dev": 241216,
+ "n_reg": 500000,
+ "C_nnz": 8325177,
+ "sv_top": 305429.30101860955,
+ "sv_r": 5408.796753146641,
+ "dev_table": [
+  {
+   "lam": 1e-05,
+   "alpha": 1.0,
+   "dev_bpc": 3.5544289662814874,
+   "neg_mass_mean": 0.12866974392865657,
+   "frac_rows_neg": 1.0,
+   "raw_sum_mean": 0.9999997876947487
+  },
+  {
+   "lam": 0.0001,
+   "alpha": 1.0,
+   "dev_bpc": 3.554358062670792,
+   "neg_mass_mean": 0.12857761369202667,
+   "frac_rows_neg": 1.0,
+   "raw_sum_mean": 0.9999978772213163
+  },
+  {
+   "lam": 0.001,
+   "alpha": 1.0,
+   "dev_bpc": 3.5520446274685433,
+   "neg_mass_mean": 0.12766306335670755,
+   "frac_rows_neg": 1.0,
+   "raw_sum_mean": 0.9999787991457557
+  },
+  {
+   "lam": 0.01,
+   "alpha": 1.0,
+   "dev_bpc": 3.5411520525122557,
+   "neg_mass_mean": 0.11911842860758966,
+   "frac_rows_neg": 1.0,
+   "raw_sum_mean": 0.9997903026234216
+  },
+  {
+   "lam": 0.1,
+   "alpha": 1.0,
+   "dev_bpc": 3.4916890493919004,
+   "neg_mass_mean": 0.0667672264257074,
+   "frac_rows_neg": 0.99995,
+   "raw_sum_mean": 0.9979962654890955
+  },
+  {
+   "lam": 1.0,
+   "alpha": 1.0,
+   "dev_bpc": 3.68734227636531,
+   "neg_mass_mean": 0.0021754545685716323,
+   "frac_rows_neg": 0.95705,
+   "raw_sum_mean": 0.9812865682991775
+  }
+ ],
+ "dev_wb_bpc": 2.2211310416780674,
+ "lam_selected": 0.1,
+ "alpha_selected": 1.0,
+ "dev_bpc_selected": 3.4916890493919004,
+ "tag": "sweep_r64_D14_pure",
+ "alpha_final": 1.0
+}

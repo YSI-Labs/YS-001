@@ -1,0 +1,26 @@
+{
+ "module": "core_opt",
+ "threads": 1,
+ "fit_wall_s": 43.49700999259949,
+ "n_params": 15646976,
+ "peak_rss_mb": 2150.37890625,
+ "count_stages_s": {
+  "atoms": 0.517,
+  "hashes": 2.994,
+  "build_tables(unique+make)": 16.281,
+  "concat+index": 0.763,
+  "count_total": 20.554
+ },
+ "count_chars_per_s": 234710.04583645164,
+ "predict_batch4096_ms_median": 116.98698997497559,
+ "predict_batch4096_pos_per_s": 35012.440279694056,
+ "predict_stage_atoms_ms": 1.8093585968017578,
+ "predict_stage_chain_dists_ms": 97.06497192382812,
+ "predict_1pos_ms_by_context_len": {
+  "64": 0.21409988403320312,
+  "300": 0.20885467529296875,
+  "1000": 0.22864341735839844,
+  "3000": 0.23353099822998047
+ },
+ "predict_1pos_chars_per_s_ctx300": 4788.018264840182
+}

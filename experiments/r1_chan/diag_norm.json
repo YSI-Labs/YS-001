@@ -1,0 +1,6 @@
+{
+ "D4096_K3_relu_norm_mix": 3.7303958432968187,
+ "D4096_K3_softmax_best_beta_grid": 5.196779009994773,
+ "D4096_K8_relu_norm_mix": 3.8681202977902176,
+ "D4096_K8_softmax_best_beta_grid": 5.166371453780138
+}

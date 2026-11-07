@@ -1,0 +1,20 @@
+{
+ "variant": "WB-inf",
+ "generated": {
+  "n_segments": 2,
+  "mean_seg_len": 1500.0,
+  "char_weighted_mean": 1666.6666666666667,
+  "frac_in_seg_ge20": 1.0,
+  "frac_in_seg_ge50": 1.0,
+  "max_seg": 2000
+ },
+ "val_reference": {
+  "n_segments": 588,
+  "mean_seg_len": 10.204081632653061,
+  "char_weighted_mean": 11.502333333333333,
+  "frac_in_seg_ge20": 0.031,
+  "frac_in_seg_ge50": 0.0,
+  "max_seg": 39
+ },
+ "sample_head": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he borne himself penitently in prison? How seems he to be touched?\n\nPROVOST.\nA man that apprehends death no more dreadfully but as a drunken sleep;\ncareless, reckless, and fearless of what's past, present, or to come;\ninsensible of mortality and desperately mortal.\n\nDUKE.\nHe wants advice.\n\nPROVOST.\nHe will hear none. He hath evermore h"
+}

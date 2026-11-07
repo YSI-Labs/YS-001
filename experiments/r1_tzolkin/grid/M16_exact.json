@@ -1,0 +1,25 @@
+{
+ "bpc": 2.9395799326198455,
+ "max_norm_err": 4.340330272967208e-08,
+ "min_prob": 4.022261343439304e-11,
+ "eval_time_s": 22.34261131286621,
+ "eval_chars_per_s": 2237.8760938654073,
+ "leak_free": true,
+ "name": "Tzolkin[M16_exact]",
+ "fit_cpu_s": 10.0625,
+ "fit_wall_s": 16.90840744972229,
+ "n_params": 21671036,
+ "train_chars": 4824333,
+ "train_chars_per_s": 285321.54872333864,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he E toninto\nicodonce\n\nPis,-withaene_Drtand, hofidis t fanna had.\nI we ovetheivoropis sou stu tut woun. theat sn s\nWho t ghur docceelor, thund? Let thl g'ndet t heave essbey atllvist arl, wis lhawh\nTthair met moin s hontit O the pereas of ly wleremy they, ho sprer gee i st stus, whit, sdor hand odsmour rerery angen sagoont se pect l atin.\n\nSeng cleyoghif st,\nThe L n? I hathe hecalt to lorroutlas he",
+ "config": {
+  "M": 16,
+  "b": 0,
+  "mask": "random",
+  "mix": "geo_seen",
+  "hash": "exact"
+ },
+ "n_nonzero": 21671036,
+ "n_params_alloc": 21671036
+}

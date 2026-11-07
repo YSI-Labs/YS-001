@@ -1,0 +1,52 @@
+{
+ "bpc": 2.04747958770928,
+ "max_norm_err": 4.824369170819409e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 0.634660005569458,
+ "eval_chars_per_s": 31512.888430747105,
+ "leak_free": true,
+ "name": "Lex-Kb+Kc+WL+Vm+W2+Vf",
+ "fit_cpu_s": 84.34375,
+ "fit_wall_s": 77.64649391174316,
+ "n_params": 21497880,
+ "train_chars": 4824333,
+ "train_chars_per_s": 62132.01339758592,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a storms.\nTake remainpleys; that here lies you to tell you far off,\nOther, you; for to thy sworn. I would I may\ncould have dram of me? To shrewing t? And, I'Ned._]\n\nWhenon together so look to yonder bonest look upon thy basis physic of ourselves.\nShetreat spoke like \nTo royalty, whoreson and impoten! Speat almost day.\nPatience:\nSCATILIUS.\nThat husband rolls, a Chatillion.\n\nKING.\nWhat's this rank we\nHuis'distitution,\nWhich are the heavens! sir, stool.\" But doth bepaind! his good old man, mortal",
+ "variant": "Kb+Kc+WL+Vm+W2+Vf",
+ "added": [
+  "Kb",
+  "Kc",
+  "WL",
+  "Vm",
+  "W2",
+  "Vf"
+ ],
+ "dev_bpc_chains": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063,
+  "L": 3.0272185885063947,
+  "Kb": 2.1903280292797316,
+  "Kc": 2.1368939875623685,
+  "WL": 2.7118524833063784,
+  "Vm": 2.998525651278263,
+  "W2": 2.643391293165269,
+  "Vf": 3.6437185194131545
+ },
+ "dev_bpc_mix": 1.960888675539866,
+ "pairs_per_chain": {
+  "A": 6688784,
+  "W": 5928545,
+  "S": 1322435,
+  "L": 1707212,
+  "Kb": 326803,
+  "Kc": 1741806,
+  "WL": 40276,
+  "Vm": 658016,
+  "W2": 2358378,
+  "Vf": 725625
+ },
+ "peak_ws_mb": 2638.9504,
+ "fit_model_s": 77.58944630622864
+}

@@ -1,0 +1,8 @@
+`torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights:   0%|          | 1/338 [00:00<03:43,  1.51it/s]Loading weights:  54%|#####4    | 183/338 [00:00<00:00, 314.61it/s]Loading weights:  82%|########1 | 276/338 [00:01<00:00, 317.57it/s]Loading weights: 100%|##########| 338/338 [00:01<00:00, 238.65it/s]
+bpc {'web': 0.925, 'code': 0.692, 'math': 0.659, 'chat': 0.696, 'books': 1.294} (572s)
+hellaswag {'acc': {'acc': 0.526, 'se': 0.022330427671677047, 'n': 500}, 'acc_norm': {'acc': 0.672, 'se': 0.02099599961897504, 'n': 500}, 'random': 0.25, 'seconds': 2894.1090891361237}
+piqa {'acc': {'acc': 0.76, 'se': 0.021354156504062624, 'n': 400}, 'acc_norm': {'acc': 0.775, 'se': 0.02087911636061258, 'n': 400}, 'random': 0.5, 'seconds': 974.2192101478577}
+arc_easy {'acc': {'acc': 0.7275, 'se': 0.02226228593383887, 'n': 400}, 'acc_norm': {'acc': 0.705, 'se': 0.022802138057647137, 'n': 400}, 'random': 0.25, 'seconds': 1195.5803480148315}
+humaneval {'pass_at_1': 0.3719512195121951, 'n': 164, 'rejected_by_safety_filter': 6, 'gen_tokens': 8105, 'gen_tok_per_s': 2.1689795438931796, 'seconds': 3763.5777831077576}
+REF_DONE

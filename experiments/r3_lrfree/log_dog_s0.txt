@@ -1,0 +1,26 @@
+[progreso] dog {'step': 400, 'dev_bpc': 2.742, 'train_cpu_s': 1121.41, 'train_loss_last': 1.8818, 'r_bar': 16.836642500054616, 'eta': 1.8400570426399654}
+[progreso] dog {'step': 800, 'dev_bpc': 2.4339, 'train_cpu_s': 2049.64, 'train_loss_last': 1.6711, 'r_bar': 25.13485568633076, 'eta': 2.0828612697650866}
+[progreso] dog {'step': 1200, 'dev_bpc': 2.2905, 'train_cpu_s': 2991.0, 'train_loss_last': 1.5458, 'r_bar': 31.29452796872961, 'eta': 2.213202031345885}
+[progreso] dog {'step': 1600, 'dev_bpc': 2.2039, 'train_cpu_s': 3805.45, 'train_loss_last': 1.4116, 'r_bar': 36.222138507281336, 'eta': 2.289556703310541}
+[progreso] dog {'step': 2000, 'dev_bpc': 2.1617, 'train_cpu_s': 4637.5, 'train_loss_last': 1.4275, 'r_bar': 40.19475237937501, 'eta': 2.336139418490369}
+[progreso] dog {'step': 2400, 'dev_bpc': 2.1037, 'train_cpu_s': 5465.05, 'train_loss_last': 1.4294, 'r_bar': 43.495193599413106, 'eta': 2.3551542289202465}
+[progreso] dog {'step': 2600, 'dev_bpc': 2.0969, 'train_cpu_s': 5879.59, 'train_loss_last': 1.3596, 'r_bar': 44.9760809897472, 'eta': 2.362121729377852}
+[lrfree-dog-d256-L2-ctx128] bpc=2.1898  params=838,752  fit=3469.3s (cpu 5996.8s, 1,391 ch/s)  leak_free=True  norm_err=4.2e-08
+--- muestra ---
+stimation,
+And not without desert so well reputed.
+
+DUKE.
+Hath h|e battle wido, Stree Officoster,
+Since break upon the farth-gentle venturn,
+Put possessing; 'two would wears that sludged with falph.
+
+FOROLLEW
+Is thing of welcomely down your mouth, my lord, have
+horring pudge imperies. Be the news remaintation, this you, Lord There i' the worthing to speak'st by time,
+Whow good breath. But she, lady, an infied,
+such a roof; for met me strange cunning.
+
+QUINCE.
+I
+nll mean 2.1898320080428366 | steps 2600 | train_cpu_s 5879.59 | diverged_at None | leak_free True

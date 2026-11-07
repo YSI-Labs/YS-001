@@ -1,0 +1,42 @@
+{
+ "bpc": 2.0813668206914286,
+ "max_norm_err": 4.288263522056468e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 0.8681952953338623,
+ "eval_chars_per_s": 23036.24733007056,
+ "leak_free": true,
+ "name": "R2-c16",
+ "fit_cpu_s": 90.53125,
+ "fit_wall_s": 92.9007921218872,
+ "n_params": 16657258,
+ "train_chars": 4824333,
+ "train_chars_per_s": 51929.944727170936,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a suit wick of, an I notuther,\nWhen you married. He is shall make.\n\nOXFORD.\nWhy, this divoattucts. Here comes\nbaser tempted up in some present unto Be nother complete.\n've truth. Call it not avo purgations\nOr bate thy vailing of my body whose misame,us. marshal me,\nI\nlongeth wronged, so ill, newest Blunt:we'er! And wherefore crave you may plain-woman counsel, THILo, certain keep withal?\n\nSTANLEY.M.\nGuardbyewgvotred,\nServes of the gleek!--Prio,\nTo meet at Call'd it an Olympian give!\nThe quality",
+ "dev_bpc_chains": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.193205930789315,
+  "L": 3.0272185885063947
+ },
+ "dev_bpc_mix": 1.9923855504278882,
+ "params_by_chain": {
+  "A": 6688784,
+  "W": 5928545,
+  "S": 2332717,
+  "L": 1707212
+ },
+ "prov_info": {
+  "char_k": 16,
+  "char_bic": {
+   "4": 21716231.9,
+   "8": 21097431.9,
+   "16": 20522438.8,
+   "32": 19580452.4,
+   "64": 18240096.9
+  },
+  "char_kmeans_iters": 4
+ },
+ "prov_time_s": 0.27623891830444336,
+ "variant": "c16"
+}

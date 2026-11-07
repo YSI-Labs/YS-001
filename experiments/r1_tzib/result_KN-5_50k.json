@@ -1,0 +1,17 @@
+{
+ "bpc": 2.1952834228202693,
+ "max_norm_err": 4.423529897934486e-08,
+ "min_prob": 3.6988232030195356e-13,
+ "eval_time_s": 33.456310749053955,
+ "eval_chars_per_s": 1494.4862407451099,
+ "leak_free": true,
+ "name": "tzib-KN-5",
+ "fit_cpu_s": 0.0625,
+ "fit_wall_s": 0.06028604507446289,
+ "n_params": 406064,
+ "train_chars": 4824333,
+ "train_chars_per_s": 80024041.94936289,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath head\nTo shrice thou happy husband on my heard was time\nI know he's as a very put them sprays;\nTurns that's no pois'd! How how friends.\n\nFORTINBRAS.\nThose show vessel-gentlewomen, with such did never you see; I think not; that reason's bless\u00e8d this varlet, for them going\nTo stuffs, how this hand, Lysander. If, Troilus and the bonds obdurate\nTo part you, and fertile messenger.\n\nJESSICA.\nIndeed. Ere her Gloucester, thou less proclaim'd in they love blood-goose.\n\nLUCENTIO.\nCarry gentleman, brothers' brothers. O, reverence I sink,--that matter?\n\nEVANS.\nGo, bid you are all me where,\nOr madam, he shou",
+ "note": "sa_size == train_chars"
+}

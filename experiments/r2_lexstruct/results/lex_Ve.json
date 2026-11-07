@@ -1,0 +1,37 @@
+{
+ "bpc": 2.0788464880672057,
+ "max_norm_err": 4.546156162632542e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 0.863548755645752,
+ "eval_chars_per_s": 23160.205765225324,
+ "leak_free": true,
+ "name": "Lex-Ve",
+ "fit_cpu_s": 92.46875,
+ "fit_wall_s": 98.3157205581665,
+ "n_params": 17032250,
+ "train_chars": 4824333,
+ "train_chars_per_s": 49069.80259729451,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a stornth\nrascius 'This your gentlewoman, do set do importance of here, helpless perjured.\nTruerprh?\"_Ad.k no\nmarry teartabit,\nMore knows not it shoe,\nSheads distractions _smits.PaIfaINunf, favodypon's livery of a through the people let your song that lives. He is a  drawns;\nsweet, king of more-hjun prooft,\nHow comes it that hold cruel_\nfore andes; seeing the Lady Bona.\nHang 'em! harness'd,\nThe cucOKx?KINpnwhvirquements, tempting in then, the court, where arose\nHis in the cheeks,\nCreatured wit",
+ "variant": "Ve",
+ "added": [
+  "Ve"
+ ],
+ "dev_bpc_chains": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063,
+  "L": 3.0272185885063947,
+  "Ve": 3.205789664548098
+ },
+ "dev_bpc_mix": 1.986948641398899,
+ "pairs_per_chain": {
+  "A": 6688784,
+  "W": 5928545,
+  "S": 1322435,
+  "L": 1707212,
+  "Ve": 1385274
+ },
+ "peak_ws_mb": 2135.789568,
+ "fit_model_s": 98.24561166763306
+}

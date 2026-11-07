@@ -1,0 +1,42 @@
+{
+ "bpc": 2.077610459846085,
+ "max_norm_err": 4.527481678451295e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 0.9171640872955322,
+ "eval_chars_per_s": 21806.30912596,
+ "leak_free": true,
+ "name": "R2-pcC",
+ "fit_cpu_s": 135.9375,
+ "fit_wall_s": 128.52257442474365,
+ "n_params": 17538587,
+ "train_chars": 4824333,
+ "train_chars_per_s": 37536.85312944681,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a stornut\npatched  Consixure:\nAnd straight the state being being thee.\n[_Revoke them, I wondus would the way,\nTITIUS.\nI'm let a nimble-ous_To by\npis\nO, broke\nInNymMErreducationers and is not at Antioch, swallow ranquisine upon my life shuffled or slew-fer round conce\nprayest writtern-he has he with God, sweet go. I will play our Gloucester, Cardoubth but as he and I have a meant to it. This same waftway loving token their bones, he?\nHe whore.\n\nPRINCESS.\nWas that the bastard of his own lights t",
+ "dev_bpc_chains": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063,
+  "L": 3.0272185885063947,
+  "C": 3.441329471759474
+ },
+ "dev_bpc_mix": 1.9871325038019327,
+ "params_by_chain": {
+  "A": 6688784,
+  "W": 5928545,
+  "S": 1322435,
+  "L": 1707212,
+  "C": 1891611
+ },
+ "prov_info": {
+  "word_N": 2000,
+  "word_k": 45,
+  "word_d": 32,
+  "word_kmeans_iters": 19,
+  "word_top_coverage": 0.8366086588151745,
+  "word_types_total": 28992,
+  "word_tokens": 889937
+ },
+ "prov_time_s": 24.430509090423584,
+ "variant": "pcC"
+}

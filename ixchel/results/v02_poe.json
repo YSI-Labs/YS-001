@@ -1,0 +1,35 @@
+{
+ "bpc": 2.038812342426997,
+ "max_norm_err": 4.3817140582547154e-08,
+ "min_prob": 1.1477350320143742e-11,
+ "eval_time_s": 0.4841883182525635,
+ "eval_chars_per_s": 41306.09993894152,
+ "leak_free": true,
+ "name": "Ixchel-v0.2-poe",
+ "fit_cpu_s": 57.78125,
+ "fit_wall_s": 48.62946081161499,
+ "n_params": 15646976,
+ "train_chars": 4824333,
+ "train_chars_per_s": 99205.97348773654,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a suit widoth the Dauphing-nor of his name was to tell you far off another your lordship; Astt,Trulers now\nWhat should honest all the unwillingly, take his scenes, couran.\nSometime prepare they are fellows much of this.\n\n [_Exit._]\n\nMARDiaving, watchus, there the man\nWill yourselves,\nTo get him. Time, thou art not every part from course\nWith fortune.\n\nPRINCE.\nA let me short, I were it to your hears\nIt was: your uncle.\n\nHUBERT.\nNone but with me to him?\n\nSUFFOLK.\nMy Lord of Somerset me for itsel",
+ "dev_bpc_mix": 1.9616571954292517,
+ "dev_bpc_experts": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063,
+  "L": 3.0272185885063947
+ },
+ "poe_w": [
+  0.4552919286822322,
+  0.2535691136036591,
+  0.2349599683657115,
+  0.11008912743928924
+ ],
+ "expert_names": [
+  "A",
+  "W",
+  "S",
+  "L"
+ ]
+}

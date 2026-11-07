@@ -1,0 +1,47 @@
+{
+ "bpc": 1.9247313644421986,
+ "max_norm_err": 4.780468709775221e-08,
+ "min_prob": 1.8645501809189113e-12,
+ "eval_time_s": 1.26969575881958,
+ "eval_chars_per_s": 15751.793166981317,
+ "leak_free": true,
+ "name": "Ixchel-v0.2-cache_poe",
+ "fit_cpu_s": 65.015625,
+ "fit_wall_s": 56.45643067359924,
+ "n_params": 15646976,
+ "train_chars": 4824333,
+ "train_chars_per_s": 85452.3203546413,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a storms;\ne offend all hush.\n\nAll itself for offend a nobility offended.\n\nDrums it soon. s sworston,\nneith of\noaths\nobghwildne,\nOne hence hence.\nHate all vat heavier:.\nDweesonsoos' red. No me yonder do onlill haughtestra Norman: hence souls,\nOne all your cousin and fatherets wrets with a court with a nobly blood of their deserved course\nand a sovereign. Ghost a not me soon and vast forms, ten silve eyes sworets with report so their deserved it too not doubsert almost and court so loose.\n\nARois",
+ "dev_bpc_mix": 1.821547043564921,
+ "dev_bpc_experts": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063,
+  "L": 3.0272185885063947,
+  "C256": 4.278273671398547,
+  "C1024": 3.6950445471647755,
+  "C4096": 3.2422177293128964,
+  "Cinf": 2.4426451432334346
+ },
+ "poe_w": [
+  0.45267194294578056,
+  0.20867238549085543,
+  0.0791185052479669,
+  -0.08059424247346035,
+  0.035624962418518515,
+  0.0619404035200803,
+  0.059687822981349205,
+  0.19565671364494958
+ ],
+ "expert_names": [
+  "A",
+  "W",
+  "S",
+  "L",
+  "C256",
+  "C1024",
+  "C4096",
+  "Cinf"
+ ]
+}

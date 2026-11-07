@@ -1,0 +1,16 @@
+{
+ "bpc": 3.001848556065197,
+ "max_norm_err": 4.3952119943568846e-08,
+ "min_prob": 1.2359760741007038e-39,
+ "eval_time_s": 12.52380657196045,
+ "eval_chars_per_s": 1596.9583688964603,
+ "leak_free": true,
+ "name": "tzib-WB-12",
+ "fit_cpu_s": 0.0625,
+ "fit_wall_s": 0.08518671989440918,
+ "n_params": 17266543,
+ "train_chars": 4824333,
+ "train_chars_per_s": 56632454.04893941,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a sister?\n\nBIANCA.\nCambio!\n\nLUCENTIO.\nMistrust of my success hath done well.\n\nBELARIUS.\n[_Aside_.] For this,\nAnd in the woods, seeking Timon.\n\nSECOND CLOWN.\nBut that your diamond; I'll keep this form upon desired change,\nAs I'll my self with thee partake?\nDo I not that, not loud but deep, mouth-honour, bring me to do, and dares better be employ'd, Bassanio,\nFor by this light, I'll hang you for\ng"
+}

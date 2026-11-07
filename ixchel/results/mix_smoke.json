@@ -1,0 +1,133 @@
+{
+ "tag": "smoke",
+ "n_train": 2000000,
+ "n_params": 11452849,
+ "fit_wall_s": 101.72717785835266,
+ "fit_cpu_s": 102.203125,
+ "poe_w": {
+  "A": 0.5270263491189523,
+  "W": 0.1374980150115204,
+  "S": 0.12202171548529547,
+  "L": -0.17717537955422483,
+  "Kb": -0.0119685780443,
+  "Kc": 0.02049910605375178,
+  "WL": -0.10500479352791975,
+  "W2": 0.07015656620071033,
+  "C256": 0.03963714761609977,
+  "C1024": 0.13109323019537703,
+  "C4096": 0.09779427481526837,
+  "Cinf": 0.14449590604073523
+ },
+ "dev_bpc_mix": 2.0006101493485815,
+ "peak_rss_mb": 1417.90234375,
+ "domain_bpc": {
+  "web": {
+   "bpc": 1.9885343136678373,
+   "se_iid": 0.0410120263136853,
+   "se_block": 0.03565225181626459,
+   "n": 3000,
+   "val_chars": 1007363
+  },
+  "code": {
+   "bpc": 1.827097057746981,
+   "se_iid": 0.043532560494066425,
+   "se_block": 0.042989963250636865,
+   "n": 3000,
+   "val_chars": 1023551
+  },
+  "math": {
+   "bpc": 1.766845231881704,
+   "se_iid": 0.03875684700977695,
+   "se_block": 0.04773522210910788,
+   "n": 3000,
+   "val_chars": 730400
+  },
+  "chat": {
+   "bpc": 1.8597085672062386,
+   "se_iid": 0.04039869621283068,
+   "se_block": 0.029046139867184795,
+   "n": 3000,
+   "val_chars": 634078
+  },
+  "books": {
+   "bpc": 2.2023919797223255,
+   "se_iid": 0.04068575161161954,
+   "se_block": 0.036774723135812794,
+   "n": 3000,
+   "val_chars": 536038
+  }
+ },
+ "hellaswag": {
+  "acc": {
+   "acc": 0.32,
+   "se": 0.03298484500494128,
+   "n": 200
+  },
+  "acc_norm": {
+   "acc": 0.285,
+   "se": 0.03191982142807193,
+   "n": 200
+  },
+  "random": 0.25
+ },
+ "piqa": {
+  "acc": {
+   "acc": 0.5466666666666666,
+   "se": 0.04064662529839529,
+   "n": 150
+  },
+  "acc_norm": {
+   "acc": 0.49333333333333335,
+   "se": 0.04082120001139568,
+   "n": 150
+  },
+  "random": 0.5
+ },
+ "arc_easy": {
+  "acc": {
+   "acc": 0.25333333333333335,
+   "se": 0.03551108329855676,
+   "n": 150
+  },
+  "acc_norm": {
+   "acc": 0.2733333333333333,
+   "se": 0.03638884648004314,
+   "n": 150
+  },
+  "random": 0.25
+ },
+ "humaneval": {
+  "pass_at_1": 0.0,
+  "n": 8,
+  "syntax_valid_frac": 1.0,
+  "samples": [
+   {
+    "task": "HumanEval/0",
+    "completion": "                                                                                                                                                                                                                                                                                                            ",
+    "passed": false
+   },
+   {
+    "task": "HumanEval/1",
+    "completion": "                                                                                                                                                                                                                                                                                                            ",
+    "passed": false
+   },
+   {
+    "task": "HumanEval/2",
+    "completion": "                                                                                                                                                                                                                                                                                                            ",
+    "passed": false
+   }
+  ]
+ },
+ "code_syntax": {
+  "gen_valid": 0.125,
+  "real_continuation_valid": 0.125,
+  "n": 8
+ },
+ "samples": {
+  "web": " cacity cor tasks highest writing platform heterling.\n                                                                                                                                                                                                                                                                                                        ",
+  "code": "    \"minist\nTAd6heal Firstythein-theirs minister on the number of food the number of ministr out vmnacitches on the rapid we is definitely for details of for the number of fish utilistelgrapefl we run out our of alcohol.raN the rapid in the time stars we number of food\nTo the number of minister of run out our on the number of fish Fish Fiapid cheet",
+  "math": " A Flrlk4to\no, How many mitting and costing and buys 3 cost cing and buys and stores of Howa owoautotall, fodor iconr of external performer in for one many sound iterator weather on mind the many Any in form on scrating files in store many cows in buys estimating and carnatistitutotall, files in the many interesting and sing and coaches in the many",
+  "chat": "Ja.\nesponse three on a spent run three on a specific ament Regardless or three on a specific surers, dry iconic satisfied with decision to continued until the ament educator to the amended the author of a success of the three of the three were the author of the three o'cledeto'troosLondon cleared, the three of the three were the learning and the lo",
+  "books": "or Arthurru\ni saw hidanopeyvigni sandwich not, o victim's name not to be vignut to medium's Arto view to be an an enuTr anticipanopeppedimidant it to be an effective antics and view disamnanana wickup and rules in a winer SObea with the saw time so they met to be an an end-userts or roles in a with the software ended up with the same time so the su"
+ }
+}

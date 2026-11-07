@@ -1,0 +1,14 @@
+# BRIEF RONDA 3 - hacia un hibrido sin tasa de aprendizaje (leer entero)
+
+## Estado (todo medido; ver ixchel/RESULTS_v02.md, ixchel/RESULTS_text8.md, ixchel/RESULTS_paired.md, preprint/PREPRINT.md)
+- **Ixchel v0.3** (`ixchel/core_v02.py` + `ixchel/mixing.py`, configs en `ixchel/run_v02.py` (dict CFG), mezcla geometrica global por Newton): Shakespeare 1.923 bpc (n_eval 10k, ctx largo) / 2.034 con contexto igualado a 128 chars; 20M pares; ~65 s de entrenamiento en CPU.
+- GRU 0.84M AdamW (2600 pasos, 21M tokens): 2.0905 (10k). Test pareado: Ixchel(ctx128) mejor por 0.057 +- 0.014; ENSAMBLE Ixchel+GRU mejora a Ixchel por 0.040-0.064 (complementarios).
+- text8 (V=27; `IXCHEL_DATA=text8`): Ixchel completo 1M 1.766 | 3M 1.665 | 10M 1.559 | 30M 1.486 bpc; las redes publicadas con 90M estan en ~1.08-1.29 -> el conteo puro NO alcanza; falta generalizacion entre contextos parecidos.
+- Idea de ronda 3: complementar el conteo con un componente neuronal PEQUENO entrenado SIN AdamW ni learning rate a mano (optimizadores 'learning-rate-free' como DoG, Prodigy/D-Adaptation, o apuestas de monedas por coordenada), y/o entrenado como RESIDUO de los expertos de conteo. Aqui SI se permite torch (CPU) y backprop, pero NO AdamW/SGD con LR fijado a mano en la arquitectura candidata (AdamW solo como baseline de comparacion, etiquetado asi). Meta: minimo cambio de hiperparametros y maximo bpc por CPU-segundo.
+
+## Reglas (igual que rondas previas; releer experiments/BRIEF.md y BRIEF_R2.md para entorno y regla anti-trampa)
+- NO modifiques `ixchel/`, `common/` ni `experiments/r3_gru_paired/`. COPIA lo que necesites a `experiments/r3_<codename>/` y trabaja ahi.
+- `val` SOLO para el reporte final; ajustes y pesos de mezcla con dev interno del train (ultimo 5%). Shakespeare: `common/harness.py` (`load`, `evaluate`, `run`); para text8 pon `os.environ["IXCHEL_DATA"]="text8"` ANTES de importar harness/core. Evaluacion final con n_eval=10000 (mismas posiciones que la GRU) y reporta SE (ver ixchel/ensemble_test.py: block_stats, pareado posicion a posicion).
+- Hilos: `NUMBA_NUM_THREADS=2`, `torch.set_num_threads(2)`, OMP/MKL=2 (maquina compartida con un entrenamiento de 90M y otros agentes; tiempos contaminados, anotalo). RAM <= 4 GB por proceso. Cada corrida <= ~12 min (el entrenamiento neuronal debe ser por NUMERO DE PASOS fijo, no por tiempo de pared).
+- Presupuesto ~60 min. Primero MVP funcional, luego mejoras; maximo 3 iteraciones. Honestidad total: cifras solo de tus JSON/logs; reporta fallas; audita hiperparametros (cuenta cuales siguen siendo libres).
+- No puedes escribir un archivo llamado REPORT.md: entrega el informe COMPLETO como tu mensaje final (<= 80 lineas, espanol) con: idea, implementacion, tabla de resultados (bpc con SE, pasos, CPU-s), fallas, auditoria de hiperparametros, veredicto y como fusionar (ruta de archivos y fragmentos clave). Codigo y JSON en tu carpeta.

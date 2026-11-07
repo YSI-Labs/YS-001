@@ -1,0 +1,22 @@
+{
+ "bpc": 2.0785758775368928,
+ "max_norm_err": 4.627028715731285e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 0.35948872566223145,
+ "eval_chars_per_s": 55634.42054000208,
+ "leak_free": true,
+ "name": "Ixchel-v0.1-AWS",
+ "fit_cpu_s": 49.828125,
+ "fit_wall_s": 43.5477819442749,
+ "n_params": 13939764,
+ "train_chars": 4824333,
+ "train_chars_per_s": 110782.51944435119,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a stornut\npatched  Anjoutwire and myself disguise,a!\" bum in mine.\n\nMOTH.\nPut them out of Frer would wears\nThat slv,--I will,\n  (Though you tell not\nThe purple lust, they but worth that on praye, when all;\nFor I am much a sniking'os, Orlraving quarrenly scourge is bo prayers would speak of it.\nThou art myself.\n\nANNE.\nIn the devil\nBy telder? Alasrudful or from Fentram,\nWhich if your hopes, the fierce you runs with him.\n\nIRAS.\nNot in every one day. Fare thief, rain_,\na boy.\n\nDOLL.\nI pray you, lo",
+ "dev_bpc_chains": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063
+ },
+ "dev_bpc_mix": 1.9907566005009212
+}

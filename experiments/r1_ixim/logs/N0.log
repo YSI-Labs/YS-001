@@ -1,0 +1,30 @@
+[Ixim-ngram4-D2048] fit wall=351.3s cpu=606.5s  lam_rel_gcv=0.000178 Dx=2048 calib(dev)=clip
+dev NLL A: {'softmax': 3.8439, 'clip': 2.6503, 'newton': 3.2905}  B: {'softmax': 3.8329, 'clip': 2.6455, 'newton': 3.2783}
+  calib=softmax  bpc(val)=3.8752 leak_free=None inf=90380 ch/s
+  calib=clip     bpc(val)=2.6302 leak_free=True inf=86903 ch/s
+  calib=newton   bpc(val)=3.3269 leak_free=None inf=81464 ch/s
+gen 400 chars in 0.1s
+[Ixim-ngram4-D2048] bpc=2.6302  params=196,801  fit=351.3s (cpu 606.5s, 13,734 ch/s)  leak_free=True  norm_err=4.2e-08
+--- muestra ---
+stimation,
+And not without desert so well reputed.
+
+DUKE.
+Hath h|im Prous._]
+
+ [_MOND Clounty, sir.
+
+How, but think.
+The hone,
+And dukeet whery; some too sur tus would unk, Fre talks the will, I poween, which it those show the hus,
+Withou to your broolter an up
+cure repouch,
+HAR.
+Why, a but and in and ludy.
+I'll they her row, and Se. Therse, whosposed and helavelscasteriward;
+Let but uns,
+That maisse o's no goly.
+
+PAGOTH.
+Did Andrand son his dravilleoused.
+Came

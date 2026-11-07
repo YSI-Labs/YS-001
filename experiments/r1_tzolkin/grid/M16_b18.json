@@ -1,0 +1,25 @@
+{
+ "bpc": 3.180837663840497,
+ "max_norm_err": 4.406311049365286e-08,
+ "min_prob": 8.929503803045691e-10,
+ "eval_time_s": 8.663976430892944,
+ "eval_chars_per_s": 5771.021209868958,
+ "leak_free": true,
+ "name": "Tzolkin[M16_b18]",
+ "fit_cpu_s": 13.0,
+ "fit_wall_s": 20.735703229904175,
+ "n_params": 402653184,
+ "train_chars": 4824333,
+ "train_chars_per_s": 232658.2776822609,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he E\nkooreto\nl s thea ariomyskend shants nde, tel to t fanob'e Shar we ountedays. inonkit rtu twr woul ts met sl r shs t feunait ainere, thulees ho tho g ofet t ghevim; they atorutms arn hopiele ye\nhupe obliu kl f r hooust I the offeis mathy wooshit theyindo ssofoeane h\nes stwonutgnterigoo g kear verth shooty amone sadones re reauan atme m rmio decut no foue the L n;l in sos fin at toinostorto s he",
+ "config": {
+  "M": 16,
+  "b": 18,
+  "mask": "random",
+  "mix": "geo_seen",
+  "hash": "dense"
+ },
+ "n_nonzero": 16594288,
+ "n_params_alloc": 402653184
+}

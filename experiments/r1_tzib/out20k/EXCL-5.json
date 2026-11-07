@@ -1,0 +1,16 @@
+{
+ "bpc": 2.204123103122667,
+ "max_norm_err": 4.7431996108571184e-08,
+ "min_prob": 7.910505266194478e-20,
+ "eval_time_s": 8.072300672531128,
+ "eval_chars_per_s": 2477.6082593951714,
+ "leak_free": true,
+ "name": "tzib-EXCL-5",
+ "fit_cpu_s": 0.046875,
+ "fit_wall_s": 0.042433977127075195,
+ "n_params": 406064,
+ "train_chars": 4824333,
+ "train_chars_per_s": 113690333.23350245,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he?\n\nSTEPHANDRA.\nWhat both your gentlemen, let's House\n\n ACT I\n\nSCENE III. Longer, in thy roy. York. Let's grave\nfartuous eye,\nWhen my father's blood, Alas, were here doth your own secret us concord,--\n\nMARINA.\nFie, forest\n\n Enter Tisick, full of pt they have still he f\nknaves? us! most sqI am he's sum\nThosen Glighted upon the fire,\nArt no more equivered such end I'll keep the gall; therefore, of f"
+}

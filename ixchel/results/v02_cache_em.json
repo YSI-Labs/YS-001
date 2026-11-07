@@ -1,0 +1,38 @@
+{
+ "bpc": 1.9615462379016262,
+ "max_norm_err": 4.366938810562715e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 1.1548237800598145,
+ "eval_chars_per_s": 17318.641770205217,
+ "leak_free": true,
+ "name": "Ixchel-v0.2-cache_em",
+ "fit_cpu_s": 50.8125,
+ "fit_wall_s": 42.006189823150635,
+ "n_params": 15646976,
+ "train_chars": 4824333,
+ "train_chars_per_s": 114848.14548310194,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a stormso\no\no than\nAnd myurmsc reimsthd montel stio immsc me immepuioutscoryull'd; ritests\nnut with tigert so\no\noft uaeith eveimsthd must move._\noat\nM oOivat\nM owl housewiferystipe nobly, and yo\nout differand matching)s?\n\nind not ridd'sts\nstheirt thaut. sblyc reims.\n\nSn,[ryulyulyulyughe a reimsthd mates:iyK.\ncce regions\nmand: wea athd mation\nAnd:ichilddhd not a pet milkchSNfc St toning; rough enes \nAt thesewithhood.\nO kiss me, even fromso\noat\nInot rite,[rT?Inor'st aga stilkchSNfines, and inter",
+ "dev_bpc_mix": 1.8582384488424177,
+ "dev_bpc_experts": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063,
+  "L": 3.0272185885063947,
+  "C256": 4.278273671398547,
+  "C1024": 3.6950445471647755,
+  "C4096": 3.2422177293128964,
+  "Cinf": 2.4426451432334346
+ },
+ "poe_w": null,
+ "expert_names": [
+  "A",
+  "W",
+  "S",
+  "L",
+  "C256",
+  "C1024",
+  "C4096",
+  "Cinf"
+ ]
+}

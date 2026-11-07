@@ -1,0 +1,17 @@
+[gru-d256-L2-ctx128] bpc=2.3140  params=838,752  fit=503.1s (cpu 993.0s, 10,051 ch/s)  leak_free=True  norm_err=4.2e-08
+--- muestra ---
+stimation,
+And not without desert so well reputed.
+
+DUKE.
+Hath h|im I will, "hatch, call'd you?
+
+BOTH.
+When fly scroke in that I do you. It issue; gold. But,
+Would then--divarian three here come of me; it now it
+off incent the husband, your now, and better may I will be was be
+make with angilonered of my worsing
+chaws it spoke like "holesters? Will for hast ofternebous'ds"
+Do not conquest shape Scrotes rile comsolit;
+To do me an your proceive your house. The go
+train_s 480.06 steps 589 tokens 4825088 train_chars_per_s 10051 eval_chars_per_s 349 leak_free True n_eval 10000

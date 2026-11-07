@@ -1,0 +1,37 @@
+{
+ "bpc": 2.07954729980428,
+ "max_norm_err": 4.6486224647424024e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 0.4593775272369385,
+ "eval_chars_per_s": 43537.062468146236,
+ "leak_free": true,
+ "name": "Lex-Ka",
+ "fit_cpu_s": 50.6875,
+ "fit_wall_s": 46.52490186691284,
+ "n_params": 15845363,
+ "train_chars": 4824333,
+ "train_chars_per_s": 103693.56637871654,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a stornut\npatched  Consixure.\n\nROMEO.\nNeither I, as Vaux  O, let us ourselves to see. But,\nswoluses to sergeable;\nperceive how he so is your country\nOCTAVIA.\nI'lore!'biR\u00e0-Lrrlygola, refuse to yondmen this;\nFor England,aA\" to Orleans\n Scene V. Elsehaitily?\nSweet blood\nTo stuffscors._]\nI chaos, Wortio slippuinch, Lords, verjoy!\nafo,\njoked\nYound metted,\nBut even banished son is I was got. Throop in un\nNumiervivetion.\nCan snow report,\nBehold, the King is into abuse my bondage for his infection,tcr",
+ "variant": "Ka",
+ "added": [
+  "Ka"
+ ],
+ "dev_bpc_chains": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063,
+  "L": 3.0272185885063947,
+  "Ka": 3.3694286747647655
+ },
+ "dev_bpc_mix": 1.9837209263197162,
+ "pairs_per_chain": {
+  "A": 6688784,
+  "W": 5928545,
+  "S": 1322435,
+  "L": 1707212,
+  "Ka": 198387
+ },
+ "peak_ws_mb": 2084.876288,
+ "fit_model_s": 46.480825662612915
+}

@@ -1,0 +1,40 @@
+{
+ "bpc": 2.052341056663947,
+ "max_norm_err": 4.498271266584197e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 0.43471622467041016,
+ "eval_chars_per_s": 46006.847876341155,
+ "leak_free": true,
+ "name": "Lex-Kb+Kc",
+ "fit_cpu_s": 54.765625,
+ "fit_wall_s": 50.07894968986511,
+ "n_params": 17715585,
+ "train_chars": 4824333,
+ "train_chars_per_s": 96334.54834569624,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a suit, t'o.--clea.\nGooduvion,\nThe villain!d.'\nThat hath a gardens arment.\nworship's well;\nWithout counter reaser,--sards alone the first of Pisanio\nHOSTESS.\nI prithee, youth, to;\nAnd know no wickling, mov'd,\nHave with a bridegroom.\nAdvasaus? Those it.\n\nSECOND FISHER\nMolouts worst that I am he, prot; let you shall croundch.'\nEvdb Would 'twere now.\n\nPANDULPH.\nHa! Duke but a meant to know this be.\nUn dyequivoury; wherein my consent,\nBerohundred and forth to entreaties,\nAnd hark! You must not yie",
+ "variant": "Kb+Kc",
+ "added": [
+  "Kb",
+  "Kc"
+ ],
+ "dev_bpc_chains": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063,
+  "L": 3.0272185885063947,
+  "Kb": 2.1903280292797316,
+  "Kc": 2.1368939875623685
+ },
+ "dev_bpc_mix": 1.9679984231571919,
+ "pairs_per_chain": {
+  "A": 6688784,
+  "W": 5928545,
+  "S": 1322435,
+  "L": 1707212,
+  "Kb": 326803,
+  "Kc": 1741806
+ },
+ "peak_ws_mb": 2112.38912,
+ "fit_model_s": 50.045814514160156
+}

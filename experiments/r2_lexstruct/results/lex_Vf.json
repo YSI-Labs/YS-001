@@ -1,0 +1,37 @@
+{
+ "bpc": 2.078091536661613,
+ "max_norm_err": 4.491925409411124e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 0.7528960704803467,
+ "eval_chars_per_s": 26564.032474930984,
+ "leak_free": true,
+ "name": "Lex-Vf",
+ "fit_cpu_s": 83.859375,
+ "fit_wall_s": 85.87010145187378,
+ "n_params": 16372601,
+ "train_chars": 4824333,
+ "train_chars_per_s": 56181.75498143338,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a stornut\npatched  Consixure:\nAnd straight the state being being thee.\n[_Revoke them.a._pu,-uubycreature,iHli'f\nmough blurb._\n\nEnter Luck-inhability\nI lips that you would bow.,noue, penury lieut run'dainit, see them too base and infectiously repulse,sogdo, romonce.\nD frantordvy,\"alpies,\nHath oftenticing sympathy of wonder at home\nExpect\nTo nerveux points from Raver\nMakes all I was, and through one \nBy tentives. and Prince.\nDaughter dothing_.]\n\nSoft! signs\nAnd dark Mee,'Fae? ]Bening-honour, you",
+ "variant": "Vf",
+ "added": [
+  "Vf"
+ ],
+ "dev_bpc_chains": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063,
+  "L": 3.0272185885063947,
+  "Vf": 3.6437185194131545
+ },
+ "dev_bpc_mix": 1.9847436900961166,
+ "pairs_per_chain": {
+  "A": 6688784,
+  "W": 5928545,
+  "S": 1322435,
+  "L": 1707212,
+  "Vf": 725625
+ },
+ "peak_ws_mb": 2127.822848,
+ "fit_model_s": 85.79581689834595
+}

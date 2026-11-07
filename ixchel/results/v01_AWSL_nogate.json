@@ -1,0 +1,23 @@
+{
+ "bpc": 2.085697249751626,
+ "max_norm_err": 4.373957551706553e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 0.4115266799926758,
+ "eval_chars_per_s": 48599.38137031284,
+ "leak_free": true,
+ "name": "Ixchel-v0.1-AWSL_nogate",
+ "fit_cpu_s": 60.015625,
+ "fit_wall_s": 52.27771544456482,
+ "n_params": 15646976,
+ "train_chars": 4824333,
+ "train_chars_per_s": 92282.78165895969,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a stornti udhasing\nCounswses;\nAnd now mine remain we?\n\"What I do that--younty's graves strants with together,\nSIR WARCHBric0o_ Ulysses.\nWhilst watch\nScene IV. Best how full. Strisg.\" Herhifiedne own!\n\nFOOL.\nThe name stubbling never,\nFor yet is no solus.\nLYSIMACHUS.\nI\nknaves; would wish a bell;\nYour Highness is not every part audible, an omit\nLifying blowed.\n      hTNEDORS and\nIs to greet your good  Oxfordlymets, let thee of it.\nAll is cut the boy, here to contention cast him.\n\nMENENIUS.\nO, you",
+ "dev_bpc_chains": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063,
+  "L": 3.0272185885063947
+ },
+ "dev_bpc_mix": 2.0104936382142524
+}

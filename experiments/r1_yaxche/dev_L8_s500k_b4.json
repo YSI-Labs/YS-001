@@ -1,0 +1,54 @@
+{
+ "kw": {
+  "B": 4,
+  "S": 500000,
+  "L": 8
+ },
+ "fit_wall_s": 13.111473321914673,
+ "per_tree": [
+  {
+   "nodes": 3337,
+   "leaves": 1669,
+   "max_leaf_depth": 34,
+   "mean_leaf_depth": 16.1372079089275,
+   "build_s": 2.8633944988250732,
+   "feats_used": 9
+  },
+  {
+   "nodes": 3357,
+   "leaves": 1679,
+   "max_leaf_depth": 33,
+   "mean_leaf_depth": 16.05598570577725,
+   "build_s": 3.019625425338745,
+   "feats_used": 9
+  },
+  {
+   "nodes": 3349,
+   "leaves": 1675,
+   "max_leaf_depth": 33,
+   "mean_leaf_depth": 15.752835820895523,
+   "build_s": 2.736595869064331,
+   "feats_used": 9
+  },
+  {
+   "nodes": 3293,
+   "leaves": 1647,
+   "max_leaf_depth": 34,
+   "mean_leaf_depth": 15.987856709168184,
+   "build_s": 2.633666753768921,
+   "feats_used": 9
+  }
+ ],
+ "B1": {
+  "bpc": 2.6288961222466134,
+  "n_params": 160224,
+  "eval_s": 0.08809375762939453,
+  "fit_s_prefix": 4.601588726043701
+ },
+ "B4": {
+  "bpc": 2.515956941504351,
+  "n_params": 640320,
+  "eval_s": 0.11286473274230957,
+  "fit_s_prefix": 12.991476774215698
+ }
+}

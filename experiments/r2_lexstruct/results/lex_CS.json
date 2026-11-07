@@ -1,0 +1,37 @@
+{
+ "bpc": 2.076749134203821,
+ "max_norm_err": 4.386356167174199e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 0.6960775852203369,
+ "eval_chars_per_s": 28732.35056270292,
+ "leak_free": true,
+ "name": "Lex-CS",
+ "fit_cpu_s": 71.625,
+ "fit_wall_s": 67.03017568588257,
+ "n_params": 15840212,
+ "train_chars": 4824333,
+ "train_chars_per_s": 71972.55490732762,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a stornus\ngardly gait?\n\nwriting-ladyship's serviceable, became metakes without his revenue\naut,lush tree, Apell\ngor saidding_.] Pope grising:\nLo, et\nRSbblubs can\u00e8d by, awake: wound on it, and yondiscarded?\nAnd MontagueeJ' tle! O, lepp.] yhus-know they have spoke monk\nWorsess'st! thou slain in Junon;\nSir, you shall do such a jewel\nGood lady, Earlyl!\"--\nWiller, BERD_ Yeagle dog at such another's her 'full my wits. The rascal is this far-Itfered and forth to form and Nor squadronal_.] O amiss-way",
+ "variant": "CS",
+ "added": [
+  "CS"
+ ],
+ "dev_bpc_chains": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063,
+  "L": 3.0272185885063947,
+  "CS": 2.6218388875315006
+ },
+ "dev_bpc_mix": 1.984626128230338,
+ "pairs_per_chain": {
+  "A": 6688784,
+  "W": 5928545,
+  "S": 1322435,
+  "L": 1707212,
+  "CS": 193236
+ },
+ "peak_ws_mb": 2163.339264,
+ "fit_model_s": 66.9679946899414
+}

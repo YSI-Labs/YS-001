@@ -1,0 +1,101 @@
+{
+ "bpc": 3.60401079511571,
+ "max_norm_err": 3.7254721974022686e-08,
+ "min_prob": 4.390973001866527e-11,
+ "eval_time_s": 30.330981492996216,
+ "eval_chars_per_s": 329.695881680803,
+ "leak_free": true,
+ "name": "lrfree-coinkt-d256-L2-ctx128",
+ "fit_cpu_s": 6197.703125,
+ "fit_wall_s": 3586.3012721538544,
+ "n_params": 838752,
+ "train_chars": 4824333,
+ "train_chars_per_s": 1345.2113009743352,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he K nringti\nn tere'l ason yworhacon!\nWochelaft laut tal isa mackan whart!oJ.\nrshledpases ttt wyu wrom to met or t oou tBheun dte gorthe tly osu it sho lascit temedte houndy butitser ass hopoed,\nsT owhe rarhv kmea,a itgsmo adse,\nTard, .I\nThw womlhes theym, tarmies ing h oucprutett.\nWhriesd fMdI fFrosth orsfoy .An masacreht om,I bwal cporci\nnpplaingys ot hkod the a. TvIQUEURKAIN.\n\naIrod thourst sali",
+ "arch": "gru",
+ "opt": "coinkt",
+ "steps": 2600,
+ "batch": 64,
+ "block": 128,
+ "tokens_seen": 21299200,
+ "train_cpu_s": 6084.06,
+ "train_wall_s": 3521.2,
+ "fit_wall_incl_dev_s": 3583.21,
+ "train_chars_used": 4583117,
+ "dev_chars": 241216,
+ "epochs_equiv": 4.647317535205843,
+ "final_train_loss_nats": 2.475451946258545,
+ "diverged_at_step": null,
+ "curve_dev": [
+  {
+   "step": 400,
+   "dev_bpc": 3.8391,
+   "train_cpu_s": 1164.11,
+   "train_loss_last": 2.6528,
+   "mean_abs_x": 42.90136940218508
+  },
+  {
+   "step": 800,
+   "dev_bpc": 3.7756,
+   "train_cpu_s": 2110.03,
+   "train_loss_last": 2.6175,
+   "mean_abs_x": 21.514258290895008
+  },
+  {
+   "step": 1200,
+   "dev_bpc": 3.7066,
+   "train_cpu_s": 3081.86,
+   "train_loss_last": 2.5687,
+   "mean_abs_x": 14.163121335547078
+  },
+  {
+   "step": 1600,
+   "dev_bpc": 3.6874,
+   "train_cpu_s": 3931.81,
+   "train_loss_last": 2.5213,
+   "mean_abs_x": 10.496128247204153
+  },
+  {
+   "step": 2000,
+   "dev_bpc": 3.6306,
+   "train_cpu_s": 4803.19,
+   "train_loss_last": 2.5039,
+   "mean_abs_x": 8.047338887710463
+  },
+  {
+   "step": 2400,
+   "dev_bpc": 3.6074,
+   "train_cpu_s": 5659.12,
+   "train_loss_last": 2.5275,
+   "mean_abs_x": 6.642912970009175
+  },
+  {
+   "step": 2600,
+   "dev_bpc": 3.5887,
+   "train_cpu_s": 6084.06,
+   "train_loss_last": 2.4755,
+   "mean_abs_x": 6.118104827674952
+  }
+ ],
+ "hparams": {
+  "opt": "coinkt",
+  "opt_kw": {
+   "wealth0": 0.001
+  },
+  "lr": "none (learning-rate-free)",
+  "schedule": "none",
+  "wd": 0.0,
+  "clip": null,
+  "momentum": 0.9,
+  "dev_frac": 0.05,
+  "dev_positions": 2000,
+  "seed": 0,
+  "d": 256,
+  "n_layer": 2,
+  "block": 128,
+  "batch": 64,
+  "steps": 2600,
+  "eval_every": 400
+ }
+}

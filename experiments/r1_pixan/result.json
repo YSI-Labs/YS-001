@@ -1,0 +1,24 @@
+{
+ "bpc": 4.144106198296112,
+ "max_norm_err": 2.0177449222558153e-07,
+ "min_prob": 3.5778751072967907e-09,
+ "eval_time_s": 51.87770962715149,
+ "eval_chars_per_s": 963.8050519311491,
+ "leak_free": true,
+ "name": "Pixan-T32-b16-d4-K9",
+ "fit_cpu_s": 48.984375,
+ "fit_wall_s": 51.62896990776062,
+ "n_params": 29478375,
+ "train_chars": 4824333,
+ "train_chars_per_s": 93442.36401809035,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he \n\nntenetr\nr\nl se,O\n nihIyullla oiaestFeAiTat i sr.r d hoE\nO' lbm we nteuhelyuepeerdoou ruv\nsvu wtse st,aat\nmh\ne\nhTt r a[uhI's  aiirh,.okuahes dt\nocr\nI\nU.es s dWduoaEtseAy, trlutos  op fthe ie yl\nowhT n lkw io,  r htetou A tmhNiameer i.mey wrerimt teayondr otrNo, eh f\nmt otwrewveouesn!ne e ieel votti omsgry PgsUh odathet od ofduIh\n tom,a\nemli aldyt ln eoud,ond   may hdNono eif avHtseernsorus r he",
+ "dev_diag": {
+  "T1_frac_positions_with_zero_mass_in_all_tables": 0.00075,
+  "T1_frac_table_buckets_unseen": 0.00075,
+  "T8_frac_positions_with_zero_mass_in_all_tables": 0.0,
+  "T8_frac_table_buckets_unseen": 0.0007125,
+  "T32_frac_positions_with_zero_mass_in_all_tables": 0.0,
+  "T32_frac_table_buckets_unseen": 0.0007375
+ }
+}

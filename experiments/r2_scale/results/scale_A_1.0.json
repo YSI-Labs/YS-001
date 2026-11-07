@@ -1,0 +1,16 @@
+{
+ "var": "A",
+ "frac": 1.0,
+ "train_chars": 4824333,
+ "bpc": 2.126102379047691,
+ "leak_free": true,
+ "max_norm_err": 4.471471015676798e-08,
+ "n_params_pairs": 6688784,
+ "n_contexts": 4174612,
+ "table_bytes": 100238160,
+ "fit_wall_s": 22.189440965652466,
+ "peak_rss_mb": 1365.5390625,
+ "dev_bpc_mix": 2.0460652067753147,
+ "eval_chars_per_s": 80909.26627520274,
+ "threads": 2
+}

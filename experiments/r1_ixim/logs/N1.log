@@ -1,0 +1,19 @@
+[Ixim-ngram4-D1024] fit wall=92.7s cpu=162.3s  lam_rel_gcv=0.0001 Dx=1024 calib(dev)=clip
+dev NLL A: {'softmax': 4.0474, 'clip': 2.822, 'newton': 3.466}  B: {'softmax': 4.0346, 'clip': 2.7889, 'newton': 3.4526}
+  calib=softmax  bpc(val)=4.0752 leak_free=None inf=139278 ch/s
+  calib=clip     bpc(val)=2.7902 leak_free=True inf=175622 ch/s
+  calib=newton   bpc(val)=3.4915 leak_free=None inf=136956 ch/s
+gen 400 chars in 0.1s
+[Ixim-ngram4-D1024] bpc=2.7902  params=98,497  fit=92.7s (cpu 162.3s, 52,033 ch/s)  leak_free=True  norm_err=3.9e-08
+--- muestra ---
+stimation,
+And not without desert so well reputed.
+
+DUKE.
+Hath h|im Prunter,
+WARBUS.
+A his your have my heard"cen to teld's all of ate ourse, your lord; answ truestme to mer that
+apt the will,
+And the spreent it those show telintocest, your outhou prals; and yoniup.
+Narks much of thous a the perche! Hory wisshes they her riselear;
+F; this? Lys'st their gain-cesserf thougul is neventent shall wee doth nation himsolen groodend a may me to all I watomentlinis sch'

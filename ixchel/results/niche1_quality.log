@@ -1,0 +1,9 @@
+fit 130.1 s; expertos: ['A', 'W', 'S', 'L', 'Kb', 'Kc', 'WL', 'W2', 'CK', 'CB', 'CI', 'CF', 'CS', 'CSK', 'C8_W256', 'C8_W1024', 'C8_W4096', 'C8_Winf']
+docs 500
+clean full 1.699 A 1.808 zlib 0.54 (45s)
+noise2 full 2.191 A 2.388 zlib 0.555 (69s)
+noise10 full 3.562 A 4.007 zlib 0.601 (91s)
+wshuf full 2.39 A 2.684 zlib 0.554 (119s)
+repeat full 0.168 A 2.206 zlib 0.089 (139s)
+splice full 1.78 A 1.834 zlib 0.563 (163s)
+NICHE1_DONE; chars/s 18441

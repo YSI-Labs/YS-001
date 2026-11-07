@@ -1,0 +1,26 @@
+[progreso] prodigy {'step': 400, 'dev_bpc': 2.2954, 'train_cpu_s': 1131.48, 'train_loss_last': 1.534, 'd': 0.00698579377624994, 'r': -0.0007874818909013508}
+[progreso] prodigy {'step': 800, 'dev_bpc': 2.2255, 'train_cpu_s': 2050.56, 'train_loss_last': 1.4643, 'd': 0.00698579377624994, 'r': -0.12367278315968924}
+[progreso] prodigy {'step': 1200, 'dev_bpc': 2.2083, 'train_cpu_s': 2990.56, 'train_loss_last': 1.4617, 'd': 0.00698579377624994, 'r': -0.26962874110210744}
+[progreso] prodigy {'step': 1600, 'dev_bpc': 2.2257, 'train_cpu_s': 3807.11, 'train_loss_last': 1.39, 'd': 0.00698579377624994, 'r': -0.41409488986658793}
+[progreso] prodigy {'step': 2000, 'dev_bpc': 2.2699, 'train_cpu_s': 4646.23, 'train_loss_last': 1.4636, 'd': 0.00698579377624994, 'r': -0.5555743745596928}
+[progreso] prodigy {'step': 2400, 'dev_bpc': 2.2661, 'train_cpu_s': 5480.94, 'train_loss_last': 1.5107, 'd': 0.00698579377624994, 'r': -0.6862636742007483}
+[progreso] prodigy {'step': 2600, 'dev_bpc': 2.3141, 'train_cpu_s': 5899.62, 'train_loss_last': 1.4652, 'd': 0.00698579377624994, 'r': -0.7449485849835071}
+[lrfree-prodigy-d256-L2-ctx128] bpc=2.3402  params=838,752  fit=3484.6s (cpu 6017.8s, 1,384 ch/s)  leak_free=True  norm_err=4.7e-08
+--- muestra ---
+stimation,
+And not without desert so well reputed.
+
+DUKE.
+Hath h|im I upon; 't set in all lutter'd me, when even as cracing am
+And by boy, herself must tempt truest, and met that
+even and make a mirghooks men holous in groan
+Of you. What couldest both us and widow?
+
+MARIUS.
+Did I throw a tribument.
+
+CORWER.
+These glteen, or free neians orsed? My lord; I am he will and low'ring business
+That free by sin opin enews of his drink
+And, for our liege to known, think 
+nll mean 2.340166419320347 | steps 2600 | train_cpu_s 5899.62 | diverged_at None | leak_free True

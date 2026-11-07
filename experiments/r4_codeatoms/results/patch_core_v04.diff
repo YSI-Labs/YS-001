@@ -1,0 +1,233 @@
+--- ixchel/core_v04.py	2026-11-05 23:12:51.834194300 -0600
++++ experiments/r4_codeatoms/core_codeatoms.py	2026-11-06 00:19:27.046664500 -0600
+@@ -16,11 +16,12 @@
+ import numpy as np
+ import numba as nb
+ import json, sys, time
+-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
++HERE = os.path.dirname(os.path.abspath(__file__))              # experiments/r4_codeatoms
++ROOT = os.path.dirname(os.path.dirname(HERE))                  # arquitectura-nueva
++sys.path.insert(0, os.path.join(ROOT, "ixchel"))                # cache_experts, longcache (sin modificar)
++sys.path.insert(0, HERE)                                        # mixing.py local (E por bloques, misma matematica)
+ from mixing import poe_global, poe_combine
+ 
+-HERE = os.path.dirname(os.path.abspath(__file__))
+-ROOT = os.path.dirname(HERE)
+ DATA = os.path.join(ROOT, "data", os.environ.get("IXCHEL_DATA", "shakespeare"))
+ 
+ # ---------------------------------------------------------------- atomos
+@@ -30,11 +31,21 @@
+ for k in range(1, 9):
+     ATOM_NAMES[f"k{k}"] = 11 + k           # 12..19 clase de caracter t-k
+ ATOM_NAMES.update(dict(wp=20, pw1=21, pw2=22, lpos=23, wlen=24, lfirst=25, pw1f=26, sp=27))
+-NATOM = 28
++# r4_codeatoms (indices 36+ como exige el brief; 28..35 quedan sin usar):
++ATOM_NAMES.update(dict(ind=36, indp=37, bdep=38, kwl=39, fwp=40, strst=41, idl=42, idp=43, endc=44))
++NATOM = 45
+ # wp: hash del prefijo de la palabra actual; pw1/pw2: hash de las 2 palabras previas completas;
+ # lpos: chars desde el ultimo salto de linea (tope 63); wlen: largo del prefijo actual (tope 15);
+ # lfirst: primer caracter de la linea actual (255 si ninguno); pw1f: primer char de la palabra previa;
+ # sp: 1 si hay un salto de linea doble reciente ("estamos al inicio de un bloque")
++# --- r4 (codigo): ind: indentacion de la linea actual /4 (tope 15, tab=4 espacios); indp: idem linea previa;
++# bdep: profundidad () [] {} abiertos fuera de cadenas/comentarios (tope 15); kwl: indice+1 de la ultima palabra
++# clave de KW (0 ninguna); fwp: hash del primer token de la linea previa (64 bits); strst: 0 codigo, 1 ' 2 " 3 """
++# 4 ''' 5 comentario # (aprox. por comillas); idl/idp: hash (64 bits) del ultimo y penultimo identificador completo;
++# endc: ultimo caracter no blanco de la linea previa: 1 ':' 2 '(' 3 ',' 0 otro.
++I64_ATOMS = (20, 21, 22, 40, 42, 43)     # atomos que son hashes de 64 bits (columnas int64)
++KW = ("def", "class", "if", "elif", "else", "for", "while", "return", "import", "from", "with", "try",
++      "except", "lambda", "yield", "raise")
+ 
+ 
+ def build_char_tables(itos):
+@@ -61,11 +72,35 @@
+     return cls, isletter, isnl
+ 
+ 
++def build_code_tables(itos):
++    """r4: tablas de caracteres para atomos de codigo. isid: caracter de identificador [A-Za-z0-9_];
++    tok: codigo de token (1 ' 2 " 3 # 4 ( 5 ) 6 [ 7 ] 8 { 9 } 10 : 11 , 12 espacio 13 tab; 0 otro);
++    kwh: hash de 64 bits de cada palabra de KW con la MISMA recurrencia que los identificadores en _atoms."""
++    idx = {ch: i for i, ch in enumerate(itos)}
++    isid = np.zeros(256, dtype=np.uint8)
++    tok = np.zeros(256, dtype=np.uint8)
++    for i, ch in enumerate(itos):
++        if ch.isalnum() or ch == "_":
++            isid[i] = 1
++    codes = {"'": 1, '"': 2, "#": 3, "(": 4, ")": 5, "[": 6, "]": 7, "{": 8, "}": 9, ":": 10, ",": 11, " ": 12, "\t": 13}
++    for ch, cd in codes.items():
++        if ch in idx:
++            tok[idx[ch]] = cd
++    M = 1 << 64
++    kwh = []
++    for kw in KW:
++        h = 0
++        for ch in kw:
++            h = ((h + idx[ch] + 1) * 1099511628211) % M
++        kwh.append(h)
++    return isid, tok, np.array(kwh, dtype=np.uint64)
++
++
+ @nb.njit(cache=True)
+-def _atoms(ids, cls, isletter, isnl, cols, is64, dst, out8, out64):
++def _atoms(ids, cls, isletter, isnl, cols, is64, dst, out8, out64, isid, tok, kwh):
+     n = ids.shape[0]
+     nc = cols.shape[0]
+-    a = np.zeros(28, dtype=np.int64)
++    a = np.zeros(48, dtype=np.int64)
+     wp = np.uint64(0)
+     pw1 = np.uint64(0)
+     pw2 = np.uint64(0)
+@@ -76,6 +111,24 @@
+     wfirst = 255
+     sp = 0
+     P = np.uint64(1099511628211)
++    # ---- r4: estado de codigo (atomos 36..44)
++    ind_sp = 0          # espacios iniciales de la linea actual (tab = 4)
++    lead = True         # seguimos en la indentacion inicial
++    indp = 0            # indentacion /4 de la linea previa
++    bdep = 0            # profundidad de parentesis/corchetes/llaves abiertos (en codigo)
++    kwl = 0             # indice+1 de la ultima palabra clave vista
++    fst = 0             # primer token de la linea: 0 no empezado, 1 dentro, 2 terminado
++    fh = np.uint64(0)   # hash del primer token de la linea actual
++    fwp = np.uint64(0)  # hash del primer token de la linea previa
++    st = 0              # 0 codigo, 1 ', 2 ", 3 """, 4 ''', 5 comentario #
++    q1 = 255            # ultimo caracter
++    q2 = 255            # penultimo caracter
++    lastnsp = 255       # ultimo caracter no blanco de la linea actual
++    endc = 0            # clase del ultimo no blanco de la linea previa
++    inid = False        # dentro de un identificador
++    ih = np.uint64(0)   # hash del identificador en curso
++    pid1 = np.uint64(0)  # hash del ultimo identificador completo
++    pid2 = np.uint64(0)  # hash del penultimo identificador completo
+     for t in range(n):
+         for k in range(12):
+             c = ids[t - k - 1] if t - k - 1 >= 0 else 255
+@@ -90,6 +143,16 @@
+         a[25] = lfirst
+         a[26] = pw1f
+         a[27] = sp
++        ii = ind_sp // 4
++        a[36] = ii if ii < 15 else 15
++        a[37] = indp if indp < 15 else 15
++        a[38] = bdep if bdep < 15 else 15
++        a[39] = kwl
++        a[40] = np.int64(fwp >> np.uint64(2))
++        a[41] = st
++        a[42] = np.int64(pid1 >> np.uint64(2))
++        a[43] = np.int64(pid2 >> np.uint64(2))
++        a[44] = endc
+         for j in range(nc):
+             if is64[j]:
+                 out64[t, dst[j]] = a[cols[j]]
+@@ -116,10 +179,89 @@
+                 sp = 0
+             lpos = 0
+             lfirst = 255
++            # ---- r4: cierre de linea
++            if inid:
++                pid2 = pid1
++                pid1 = ih
++                for j in range(kwh.shape[0]):
++                    if kwh[j] == pid1:
++                        kwl = j + 1
++                inid = False
++            ih = np.uint64(0)
++            indp = ind_sp // 4
++            fwp = fh if fst > 0 else np.uint64(0)
++            tl = tok[lastnsp]
++            endc = 1 if tl == 10 else (2 if tl == 4 else (3 if tl == 11 else 0))
++            ind_sp = 0
++            lead = True
++            fst = 0
++            fh = np.uint64(0)
++            lastnsp = 255
++            if st == 1 or st == 2 or st == 5:      # ' y " no cruzan lineas; el comentario termina en la linea
++                st = 0
+         else:
+             if lpos == 0:
+                 lfirst = c
+             lpos += 1
++            # ---- r4: codigo (estado de cadenas, bloques, identificadores, indentacion, primer token)
++            s0 = st
++            tc = tok[c]
++            if s0 == 0:
++                if isid[c] == 1:
++                    ih = (ih + np.uint64(c) + np.uint64(1)) * P
++                    inid = True
++                elif inid:
++                    pid2 = pid1
++                    pid1 = ih
++                    for j in range(kwh.shape[0]):
++                        if kwh[j] == pid1:
++                            kwl = j + 1
++                    inid = False
++                    ih = np.uint64(0)
++            isws = tc == 12 or tc == 13
++            if lead:
++                if tc == 12:
++                    ind_sp += 1
++                elif tc == 13:
++                    ind_sp += 4
++                else:
++                    lead = False
++            if not isws:
++                lastnsp = c
++                if fst == 0:
++                    fh = (fh + np.uint64(c) + np.uint64(1)) * P
++                    fst = 1 if isid[c] == 1 else 2
++                elif fst == 1:
++                    if isid[c] == 1:
++                        fh = (fh + np.uint64(c) + np.uint64(1)) * P
++                    else:
++                        fst = 2
++            if s0 == 0:
++                if tc == 3:
++                    st = 5
++                elif tc == 2:
++                    st = 3 if (q1 == 2 and q2 == 2) else 2
++                elif tc == 1:
++                    st = 4 if (q1 == 1 and q2 == 1) else 1
++                elif tc == 4 or tc == 6 or tc == 8:
++                    bdep += 1
++                elif tc == 5 or tc == 7 or tc == 9:
++                    if bdep > 0:
++                        bdep -= 1
++            elif s0 == 1:
++                if tc == 1:
++                    st = 0
++            elif s0 == 2:
++                if tc == 2:
++                    st = 0
++            elif s0 == 3:
++                if tc == 2 and q1 == 2 and q2 == 2:
++                    st = 0
++            elif s0 == 4:
++                if tc == 1 and q1 == 1 and q2 == 1:
++                    st = 0
++        q2 = q1
++        q1 = tok[c]        # codigo de token (no id de vocabulario), para comparar con 1 ' y 2 "
+ 
+ 
+ @nb.njit(inline="always")
+@@ -333,9 +475,10 @@
+         self.xperts = list(xperts)     # r3: KeyedWin (longcache.py); cada uno aporta nw columnas PoE
+         itos = json.load(open(os.path.join(DATA, "vocab.json")))
+         self.cls, self.isletter, self.isnl = build_char_tables(itos)
++        self.isid, self.tok, self.kwh = build_code_tables(itos)
+         used = sorted({ATOM_NAMES[a] for ch in self.chains.values() for lvl in ch for a in lvl})
+         self.cols = np.array(used, dtype=np.int64)
+-        self.is64 = np.array([c in (20, 21, 22) for c in used], dtype=np.bool_)       # wp, pw1, pw2 = hashes de 64 bits
++        self.is64 = np.array([c in I64_ATOMS for c in used], dtype=np.bool_)       # wp, pw1, pw2 (+ hashes r4) = 64 bits
+         self.dst = np.zeros(len(used), dtype=np.int64)
+         n8 = n64 = 0
+         col_pos = {}
+@@ -365,7 +508,8 @@
+     def _atoms_for(self, ids):
+         out8 = np.zeros((len(ids), max(self.n8, 1)), dtype=np.uint8)
+         out64 = np.zeros((len(ids), max(self.n64, 1)), dtype=np.int64)
+-        _atoms(ids, self.cls, self.isletter, self.isnl, self.cols, self.is64, self.dst, out8, out64)
++        _atoms(ids, self.cls, self.isletter, self.isnl, self.cols, self.is64, self.dst, out8, out64,
++               self.isid, self.tok, self.kwh)
+         return (out8, out64)
+ 
+     def _H(self, A, pos, nm):

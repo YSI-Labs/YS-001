@@ -1,0 +1,102 @@
+{
+ "fit_s": 94.2947130203247,
+ "dev_C_bpc": {
+  "em_base": 2.0301549980070126,
+  "em_global": 2.0247517636082235,
+  "em_flat_fine": 2.0276731473782608,
+  "hier_fine": 2.0301552271468224,
+  "poe_global": 1.9833061203315316,
+  "stack2": 1.9879496625789448,
+  "em_base+sse": 2.2736058927271428,
+  "em_global+sse": 2.268625215981689,
+  "em_flat_fine+sse": 2.2750187561980675,
+  "hier_fine+sse": 2.273605874946178,
+  "poe_global+sse": 2.2046445038120654,
+  "stack2+sse": 2.2369847251556765
+ },
+ "heads": {
+  "em_base": {
+   "val_bpc": 2.077124764255324,
+   "eval_chars_per_s": 36307.577510496965,
+   "n_params": 15646976,
+   "dev_C_bpc": 2.0301549980070126
+  },
+  "em_global": {
+   "val_bpc": 2.085715888546677,
+   "eval_chars_per_s": 34549.79785632148,
+   "n_params": 15646976,
+   "dev_C_bpc": 2.0247517636082235
+  },
+  "em_flat_fine": {
+   "val_bpc": 2.0820479170748962,
+   "eval_chars_per_s": 37464.864720016434,
+   "n_params": 15646976,
+   "dev_C_bpc": 2.0276731473782608
+  },
+  "hier_fine": {
+   "val_bpc": 2.077124722910264,
+   "eval_chars_per_s": 38075.311756466384,
+   "n_params": 15646976,
+   "dev_C_bpc": 2.0301552271468224
+  },
+  "poe_global": {
+   "val_bpc": 2.0391226173236507,
+   "eval_chars_per_s": 28607.126914292945,
+   "n_params": 15646976,
+   "dev_C_bpc": 1.9833061203315316
+  },
+  "stack2": {
+   "val_bpc": 2.0455116404219713,
+   "eval_chars_per_s": 24565.775455567225,
+   "n_params": 15646976,
+   "dev_C_bpc": 1.9879496625789448
+  },
+  "em_base+sse": {
+   "val_bpc": 2.3090666186336577,
+   "eval_chars_per_s": 29119.70985152385,
+   "n_params": 15646976,
+   "dev_C_bpc": 2.2736058927271428
+  },
+  "em_global+sse": {
+   "val_bpc": 2.3164917122841167,
+   "eval_chars_per_s": 29630.741113982836,
+   "n_params": 15646976,
+   "dev_C_bpc": 2.268625215981689
+  },
+  "em_flat_fine+sse": {
+   "val_bpc": 2.315096799174049,
+   "eval_chars_per_s": 27996.24741308793,
+   "n_params": 15646976,
+   "dev_C_bpc": 2.2750187561980675
+  },
+  "hier_fine+sse": {
+   "val_bpc": 2.3090665579569287,
+   "eval_chars_per_s": 29119.73006842016,
+   "n_params": 15646976,
+   "dev_C_bpc": 2.273605874946178
+  },
+  "poe_global+sse": {
+   "val_bpc": 2.248583068891228,
+   "eval_chars_per_s": 21535.027052893052,
+   "n_params": 15646976,
+   "dev_C_bpc": 2.2046445038120654
+  },
+  "stack2+sse": {
+   "val_bpc": 2.282847773250785,
+   "eval_chars_per_s": 21560.449056079062,
+   "n_params": 15646976,
+   "dev_C_bpc": 2.2369847251556765
+  }
+ },
+ "chosen_by_dev_C": "poe_global",
+ "eb_info": {
+  "hier_tau2": [
+   1e-08,
+   1e-08,
+   1e-08,
+   1e-08
+  ],
+  "hier_mean_strength": 10979346.764538148,
+  "poe_global_info": null
+ }
+}

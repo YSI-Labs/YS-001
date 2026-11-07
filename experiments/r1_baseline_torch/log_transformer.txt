@@ -1,0 +1,26 @@
+[transformer-d128-L4-h4-ctx128] bpc=3.5933  params=822,016  fit=538.6s (cpu 630.9s, 3,829 ch/s)  leak_free=True  norm_err=4.2e-08
+--- muestra ---
+stimation,
+And not without desert so well reputed.
+
+DUKE.
+Hath h|il Anthinth t s than asoraysire'ckaldit m nd ugh'ss t fanof hacimm, h'stRupelyong.
+Thist stt tut youpert met sibr sht t ghure! adarere cosuliouant t t
+
+
+PERY. JO.
+[_ELoupey ausksthof ppantel's;
+[_
+Tthe offit is f s gretit,
+
+USUEYEnelo mathy yorsirt te;mrecr stler ghe h
+Todlowoowtert. s than lear wisth serery anine s bures scend wee aushar spor deayod-e foul?
+
+
+
+
+
+NDYANGESRRALIL.
+W.
+TEMerssous s he
+train_s 481.34 steps 225 tokens 1843200 train_chars_per_s 3829 eval_chars_per_s 185 leak_free True n_eval 10000

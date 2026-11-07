@@ -1,0 +1,32 @@
+{
+ "bpc": 2.078357829951141,
+ "max_norm_err": 4.4021149392392545e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 0.6135032176971436,
+ "eval_chars_per_s": 32599.450652796713,
+ "leak_free": true,
+ "name": "R2-base",
+ "fit_cpu_s": 75.8125,
+ "fit_wall_s": 72.23232650756836,
+ "n_params": 15646976,
+ "train_chars": 4824333,
+ "train_chars_per_s": 66789.11275956917,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath he a stornut\npatched  Consixure.\n\nROMEO.\nNeither I, as Vaux  O, let us ourselves to see. But,\nswolution;names\nWill souls\nFor her bed. Nothing is it\nple!\n\nMARTEXT.\nIt is these triumph digested in yourself,\nOr_'folicia._]But East;\nNor is not yet must;\nSo you warped,\nDid i huge?ss_wumbrewed, I am loathes,\nWho, you shall do such a jewel\nGood lady, Diomot-licentainded\n   sCTHGfil'd jade windows, your gift 'ev,--Woutcursop, and lively ripe else your hands.\n\nKeeps!\n\nSUFFOLK.\nNear? The heath, lest they t",
+ "dev_bpc_chains": {
+  "A": 2.0460652067753147,
+  "W": 2.39968151474065,
+  "S": 2.218706470196063,
+  "L": 3.0272185885063947
+ },
+ "dev_bpc_mix": 1.9878209797079753,
+ "params_by_chain": {
+  "A": 6688784,
+  "W": 5928545,
+  "S": 1322435,
+  "L": 1707212
+ },
+ "prov_info": {},
+ "prov_time_s": 0.0,
+ "variant": "base"
+}

@@ -1,0 +1,598 @@
+{
+ "cfg": {
+  "B": 64,
+  "S": 1000000,
+  "L": 8,
+  "feat_frac": 1.0,
+  "max_depth": 64,
+  "seed": 0
+ },
+ "n_eval": 50000,
+ "fit_wall_s": 421.40950441360474,
+ "F_build_s": 3.4105374813079834,
+ "tree_info": [
+  {
+   "nodes": 6383,
+   "leaves": 3192,
+   "max_leaf_depth": 37,
+   "mean_leaf_depth": 17.743734335839598,
+   "build_s": 7.305537700653076,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6399,
+   "leaves": 3200,
+   "max_leaf_depth": 38,
+   "mean_leaf_depth": 17.659375,
+   "build_s": 6.61522650718689,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6269,
+   "leaves": 3135,
+   "max_leaf_depth": 34,
+   "mean_leaf_depth": 17.505582137161085,
+   "build_s": 7.3297412395477295,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6483,
+   "leaves": 3242,
+   "max_leaf_depth": 44,
+   "mean_leaf_depth": 17.791178285009252,
+   "build_s": 7.564393758773804,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6387,
+   "leaves": 3194,
+   "max_leaf_depth": 36,
+   "mean_leaf_depth": 17.572949279899813,
+   "build_s": 7.351710796356201,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6299,
+   "leaves": 3150,
+   "max_leaf_depth": 38,
+   "mean_leaf_depth": 17.64666666666667,
+   "build_s": 7.524881601333618,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6387,
+   "leaves": 3194,
+   "max_leaf_depth": 36,
+   "mean_leaf_depth": 17.52035065748278,
+   "build_s": 6.820584297180176,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6333,
+   "leaves": 3167,
+   "max_leaf_depth": 33,
+   "mean_leaf_depth": 17.645089990527314,
+   "build_s": 6.7864274978637695,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6443,
+   "leaves": 3222,
+   "max_leaf_depth": 35,
+   "mean_leaf_depth": 17.693358162631906,
+   "build_s": 7.75827956199646,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6479,
+   "leaves": 3240,
+   "max_leaf_depth": 34,
+   "mean_leaf_depth": 17.70925925925926,
+   "build_s": 8.511066675186157,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6289,
+   "leaves": 3145,
+   "max_leaf_depth": 35,
+   "mean_leaf_depth": 17.720826709062003,
+   "build_s": 7.646480083465576,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6553,
+   "leaves": 3277,
+   "max_leaf_depth": 40,
+   "mean_leaf_depth": 17.714372902044552,
+   "build_s": 6.356875658035278,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6403,
+   "leaves": 3202,
+   "max_leaf_depth": 38,
+   "mean_leaf_depth": 17.776702061211743,
+   "build_s": 6.847316026687622,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6363,
+   "leaves": 3182,
+   "max_leaf_depth": 37,
+   "mean_leaf_depth": 17.659333752357007,
+   "build_s": 6.394418716430664,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6409,
+   "leaves": 3205,
+   "max_leaf_depth": 42,
+   "mean_leaf_depth": 17.670202808112325,
+   "build_s": 5.976847410202026,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6395,
+   "leaves": 3198,
+   "max_leaf_depth": 36,
+   "mean_leaf_depth": 17.472170106316447,
+   "build_s": 6.484272480010986,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6339,
+   "leaves": 3170,
+   "max_leaf_depth": 41,
+   "mean_leaf_depth": 17.58454258675079,
+   "build_s": 6.280273675918579,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6431,
+   "leaves": 3216,
+   "max_leaf_depth": 37,
+   "mean_leaf_depth": 17.509639303482587,
+   "build_s": 5.106998920440674,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6313,
+   "leaves": 3157,
+   "max_leaf_depth": 39,
+   "mean_leaf_depth": 17.63731390560659,
+   "build_s": 6.0599799156188965,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6333,
+   "leaves": 3167,
+   "max_leaf_depth": 38,
+   "mean_leaf_depth": 17.68898010735712,
+   "build_s": 6.766259670257568,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6309,
+   "leaves": 3155,
+   "max_leaf_depth": 36,
+   "mean_leaf_depth": 17.657052297939778,
+   "build_s": 6.2301201820373535,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6385,
+   "leaves": 3193,
+   "max_leaf_depth": 36,
+   "mean_leaf_depth": 17.639837143751958,
+   "build_s": 6.261448860168457,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6347,
+   "leaves": 3174,
+   "max_leaf_depth": 33,
+   "mean_leaf_depth": 17.60396975425331,
+   "build_s": 7.955774784088135,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6323,
+   "leaves": 3162,
+   "max_leaf_depth": 41,
+   "mean_leaf_depth": 17.682795698924732,
+   "build_s": 5.760635614395142,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6323,
+   "leaves": 3162,
+   "max_leaf_depth": 36,
+   "mean_leaf_depth": 17.61258697027198,
+   "build_s": 6.76144552230835,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6447,
+   "leaves": 3224,
+   "max_leaf_depth": 37,
+   "mean_leaf_depth": 17.629962779156326,
+   "build_s": 5.840402603149414,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6403,
+   "leaves": 3202,
+   "max_leaf_depth": 35,
+   "mean_leaf_depth": 17.585571517801373,
+   "build_s": 6.303609848022461,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6421,
+   "leaves": 3211,
+   "max_leaf_depth": 41,
+   "mean_leaf_depth": 17.715353472438494,
+   "build_s": 6.433497667312622,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6413,
+   "leaves": 3207,
+   "max_leaf_depth": 38,
+   "mean_leaf_depth": 17.54318677892111,
+   "build_s": 5.422720193862915,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6407,
+   "leaves": 3204,
+   "max_leaf_depth": 36,
+   "mean_leaf_depth": 17.59207240948814,
+   "build_s": 6.082238674163818,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6433,
+   "leaves": 3217,
+   "max_leaf_depth": 37,
+   "mean_leaf_depth": 17.76282250543985,
+   "build_s": 5.737555503845215,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6285,
+   "leaves": 3143,
+   "max_leaf_depth": 32,
+   "mean_leaf_depth": 17.635380209990455,
+   "build_s": 5.255482196807861,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6481,
+   "leaves": 3241,
+   "max_leaf_depth": 36,
+   "mean_leaf_depth": 17.75532243134835,
+   "build_s": 4.865674257278442,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6467,
+   "leaves": 3234,
+   "max_leaf_depth": 37,
+   "mean_leaf_depth": 17.789115646258505,
+   "build_s": 5.948327541351318,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6405,
+   "leaves": 3203,
+   "max_leaf_depth": 39,
+   "mean_leaf_depth": 17.750234155479237,
+   "build_s": 5.622197151184082,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6395,
+   "leaves": 3198,
+   "max_leaf_depth": 40,
+   "mean_leaf_depth": 17.871794871794872,
+   "build_s": 5.22601056098938,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6413,
+   "leaves": 3207,
+   "max_leaf_depth": 40,
+   "mean_leaf_depth": 17.739008419083255,
+   "build_s": 5.128532409667969,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6409,
+   "leaves": 3205,
+   "max_leaf_depth": 36,
+   "mean_leaf_depth": 17.5201248049922,
+   "build_s": 5.994126558303833,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6453,
+   "leaves": 3227,
+   "max_leaf_depth": 40,
+   "mean_leaf_depth": 17.687945460179733,
+   "build_s": 5.020790100097656,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6421,
+   "leaves": 3211,
+   "max_leaf_depth": 42,
+   "mean_leaf_depth": 17.630956088445966,
+   "build_s": 6.2413928508758545,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6469,
+   "leaves": 3235,
+   "max_leaf_depth": 36,
+   "mean_leaf_depth": 17.487171561051003,
+   "build_s": 6.879052639007568,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6487,
+   "leaves": 3244,
+   "max_leaf_depth": 39,
+   "mean_leaf_depth": 17.910604192355116,
+   "build_s": 7.117478370666504,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6403,
+   "leaves": 3202,
+   "max_leaf_depth": 39,
+   "mean_leaf_depth": 17.76639600249844,
+   "build_s": 7.446823358535767,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6407,
+   "leaves": 3204,
+   "max_leaf_depth": 39,
+   "mean_leaf_depth": 17.587390761548065,
+   "build_s": 7.261696100234985,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6337,
+   "leaves": 3169,
+   "max_leaf_depth": 39,
+   "mean_leaf_depth": 17.732723256547807,
+   "build_s": 5.02679967880249,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6463,
+   "leaves": 3232,
+   "max_leaf_depth": 43,
+   "mean_leaf_depth": 17.689356435643564,
+   "build_s": 5.30572509765625,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6407,
+   "leaves": 3204,
+   "max_leaf_depth": 38,
+   "mean_leaf_depth": 17.710986267166042,
+   "build_s": 6.536946535110474,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6545,
+   "leaves": 3273,
+   "max_leaf_depth": 39,
+   "mean_leaf_depth": 17.761992056217537,
+   "build_s": 7.155777215957642,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6351,
+   "leaves": 3176,
+   "max_leaf_depth": 36,
+   "mean_leaf_depth": 17.67411838790932,
+   "build_s": 7.07704758644104,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6429,
+   "leaves": 3215,
+   "max_leaf_depth": 39,
+   "mean_leaf_depth": 17.68895800933126,
+   "build_s": 7.0133984088897705,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6283,
+   "leaves": 3142,
+   "max_leaf_depth": 37,
+   "mean_leaf_depth": 17.3004455760662,
+   "build_s": 7.149799346923828,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6465,
+   "leaves": 3233,
+   "max_leaf_depth": 38,
+   "mean_leaf_depth": 17.643983915867615,
+   "build_s": 7.413286924362183,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6401,
+   "leaves": 3201,
+   "max_leaf_depth": 39,
+   "mean_leaf_depth": 17.618869103405185,
+   "build_s": 9.266861200332642,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6391,
+   "leaves": 3196,
+   "max_leaf_depth": 36,
+   "mean_leaf_depth": 17.55944931163955,
+   "build_s": 7.641531229019165,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6453,
+   "leaves": 3227,
+   "max_leaf_depth": 36,
+   "mean_leaf_depth": 17.65013944840409,
+   "build_s": 7.734573602676392,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6425,
+   "leaves": 3213,
+   "max_leaf_depth": 36,
+   "mean_leaf_depth": 17.63523187052599,
+   "build_s": 7.15200662612915,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6429,
+   "leaves": 3215,
+   "max_leaf_depth": 38,
+   "mean_leaf_depth": 17.66718506998445,
+   "build_s": 6.62897253036499,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6389,
+   "leaves": 3195,
+   "max_leaf_depth": 39,
+   "mean_leaf_depth": 17.55305164319249,
+   "build_s": 6.015397310256958,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6469,
+   "leaves": 3235,
+   "max_leaf_depth": 35,
+   "mean_leaf_depth": 17.613292117465225,
+   "build_s": 6.067905902862549,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6351,
+   "leaves": 3176,
+   "max_leaf_depth": 38,
+   "mean_leaf_depth": 17.54911838790932,
+   "build_s": 5.82415246963501,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6351,
+   "leaves": 3176,
+   "max_leaf_depth": 38,
+   "mean_leaf_depth": 17.653022670025187,
+   "build_s": 5.756017208099365,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6357,
+   "leaves": 3179,
+   "max_leaf_depth": 34,
+   "mean_leaf_depth": 17.54828562441019,
+   "build_s": 7.050248384475708,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6357,
+   "leaves": 3179,
+   "max_leaf_depth": 37,
+   "mean_leaf_depth": 17.580685750235922,
+   "build_s": 5.601343631744385,
+   "feats_used": 9
+  },
+  {
+   "nodes": 6263,
+   "leaves": 3132,
+   "max_leaf_depth": 35,
+   "mean_leaf_depth": 17.828863346104725,
+   "build_s": 5.93042516708374,
+   "feats_used": 9
+  }
+ ],
+ "by_B": {
+  "1": {
+   "bpc": 2.565453283385201,
+   "n_params": 306432,
+   "eval_chars_per_s": 250749.0240388352,
+   "eval_time_s": 0.1993999481201172,
+   "max_norm_err": 4.161532707325222e-08,
+   "min_prob": 0.0,
+   "leak_free": null,
+   "fit_s_prefix": 10.71607518196106
+  },
+  "4": {
+   "bpc": 2.4393464252203363,
+   "n_params": 1225824,
+   "eval_chars_per_s": 179275.0188921829,
+   "eval_time_s": 0.2788994312286377,
+   "max_norm_err": 7.109114896763913e-08,
+   "min_prob": 0.0,
+   "leak_free": null,
+   "fit_s_prefix": 32.22543668746948
+  },
+  "16": {
+   "bpc": 2.397984106055519,
+   "n_params": 4909920,
+   "eval_chars_per_s": 44776.802642771494,
+   "eval_time_s": 1.1166491508483887,
+   "max_norm_err": 4.3191380139084856e-08,
+   "min_prob": 0.0,
+   "leak_free": null,
+   "fit_s_prefix": 116.68459749221802
+  },
+  "64": {
+   "bpc": 2.38999891787904,
+   "n_params": 19650048,
+   "eval_chars_per_s": 7939.003195434855,
+   "eval_time_s": 6.298018932342529,
+   "max_norm_err": 4.480853788013661e-08,
+   "min_prob": 0.0,
+   "leak_free": true,
+   "fit_s_prefix": 421.04335927963257
+  }
+ },
+ "depth_ablation": {
+  "2": {
+   "bpc": 4.216514881726468
+  },
+  "4": {
+   "bpc": 3.7191032706921163
+  },
+  "6": {
+   "bpc": 3.3730098815804124
+  },
+  "8": {
+   "bpc": 3.1501055491134373
+  },
+  "12": {
+   "bpc": 2.8240632815358846
+  },
+  "16": {
+   "bpc": 2.606437030177447
+  },
+  "24": {
+   "bpc": 2.417891014483958
+  },
+  "32": {
+   "bpc": 2.3965231135035614
+  },
+  "64": {
+   "bpc": 2.3959515015826254
+  }
+ }
+}

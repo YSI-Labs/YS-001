@@ -1,0 +1,126 @@
+{
+ "label": "smoke",
+ "recipe": "base",
+ "T": 1.0,
+ "top_p": null,
+ "penalty": null,
+ "n_per_domain": 2,
+ "n_chars": 50,
+ "texts": [
+  {
+   "domain": "web",
+   "idx": 0,
+   "prompt": "Please note that these are our standard processing specifications. Specifications maybe negotiated for large quantity orders. Please contact us for further information.\n\nrained out two years in a row,",
+   "gen": " so one out over these aeriarl, search\n):\n    out ",
+   "ref": " and we had to sell.\nfinished off with root beer b",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 5,
+    "ttr": 0.9090909090909091,
+    "nw": 11
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 2,
+    "ttr": 1.0,
+    "nw": 12
+   }
+  },
+  {
+   "domain": "web",
+   "idx": 1,
+   "prompt": "Duffy, A., Wolf, P.G, Barrow, J., Longhurst, M., Campbell, D.T, Beckett, H., (2013). Ecological investigations within an interactive plant community simulation.. Science Scope, 36:8, 42-51.\nCampbell, ",
+   "gen": "Shanghai A., T IO 'kedongabe\". Dies A isot207?no s",
+   "ref": "D.T, Longhurst, M., Duffy, A., Wolf, P.G, Nagy, R.",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 2,
+    "ttr": 0.8823529411764706,
+    "nw": 17
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 3,
+    "ttr": 0.5416666666666666,
+    "nw": 24
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 0,
+   "prompt": "\nimport networkx as nx\n\n\nclass TestCutSize:\n    \"\"\"Unit tests for the :func:`~networkx.cut_size` function.\"\"\"\n\n    def test_symmetric(self):\n        \"\"\"Tests that the cut size is symmetric.\"\"\"\n       ",
+   "gen": "           \"\"\"Hanr ,\"tr)nd_ Vvae:\n                ",
+   "ref": " G = nx.barbell_graph(3, 0)\n        S = {0, 1, 4}\n",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 15,
+    "ttr": 0.75,
+    "nw": 12
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 7,
+    "ttr": 0.8095238095238095,
+    "nw": 21
+   }
+  },
+  {
+   "domain": "code",
+   "idx": 1,
+   "prompt": "                x[simulated:(simulated + num_accept)] = rvs[accept]\n                simulated += num_accept\n\n            if (simulated == 0) and (i*N >= 50000):\n                msg = (\n               ",
+   "gen": "   simulation Hannah rocks and  w/ hsoqaccept)role",
+   "ref": "     f\"Not a single random variate could be genera",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 2,
+    "ttr": 1.0,
+    "nw": 9
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 4,
+    "ttr": 1.0,
+    "nw": 10
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 0,
+   "prompt": "Who was Robert Ross Munro?\n\n### Context:\nRobert Ross Munro, OBE, OC (September 6, 1913 - June 21, 1990) was the Canadian Press's lead war correspondent in Europe in World War II. He covered a Canadian",
+   "gen": " Press == warwa \nla`,ae !0 5' is beano?\n\n### Conte",
+   "ref": " raid in Spitsbergen, the 1942 raid on Dieppe, the",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 2,
+    "ttr": 0.8421052631578947,
+    "nw": 19
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 6,
+    "ttr": 0.7272727272727273,
+    "nw": 11
+   }
+  },
+  {
+   "domain": "chat",
+   "idx": 1,
+   "prompt": "- London sewerage system, serving London, England since the late 19th century\n- First transcontinental railroad, 1,912-mile (3,077 km) continuous railroad line connecting existing rail networks in Iow",
+   "gen": "ami mah shr) coming could remembered continuous al",
+   "ref": "a, Nebraska, Wyoming, Utah, Nevada, and California",
+   "gen_m": {
+    "rep4": 0.0,
+    "maxrep": 3,
+    "ttr": 1.0,
+    "nw": 9
+   },
+   "ref_m": {
+    "rep4": 0.0,
+    "maxrep": 4,
+    "ttr": 0.6666666666666666,
+    "nw": 12
+   }
+  }
+ ],
+ "gen_seconds": 4.4
+}

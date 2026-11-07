@@ -1,0 +1,106 @@
+{
+ "bpc": 2.340166419320347,
+ "max_norm_err": 4.6572628975560804e-08,
+ "min_prob": 9.999999960041972e-13,
+ "eval_time_s": 37.295907497406006,
+ "eval_chars_per_s": 268.1259228546271,
+ "leak_free": true,
+ "name": "lrfree-prodigy-d256-L2-ctx128",
+ "fit_cpu_s": 6017.765625,
+ "fit_wall_s": 3484.6313047409058,
+ "n_params": 838752,
+ "train_chars": 4824333,
+ "train_chars_per_s": 1384.4600986728224,
+ "prompt": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath h",
+ "sample": "stimation,\nAnd not without desert so well reputed.\n\nDUKE.\nHath him I upon; 't set in all lutter'd me, when even as cracing am\nAnd by boy, herself must tempt truest, and met that\neven and make a mirghooks men holous in groan\nOf you. What couldest both us and widow?\n\nMARIUS.\nDid I throw a tribument.\n\nCORWER.\nThese glteen, or free neians orsed? My lord; I am he will and low'ring business\nThat free by sin opin enews of his drink\nAnd, for our liege to known, think ",
+ "arch": "gru",
+ "opt": "prodigy",
+ "steps": 2600,
+ "batch": 64,
+ "block": 128,
+ "tokens_seen": 21299200,
+ "train_cpu_s": 5899.62,
+ "train_wall_s": 3415.4,
+ "fit_wall_incl_dev_s": 3481.56,
+ "train_chars_used": 4583117,
+ "dev_chars": 241216,
+ "epochs_equiv": 4.647317535205843,
+ "final_train_loss_nats": 1.4651668071746826,
+ "diverged_at_step": null,
+ "curve_dev": [
+  {
+   "step": 400,
+   "dev_bpc": 2.2954,
+   "train_cpu_s": 1131.48,
+   "train_loss_last": 1.534,
+   "d": 0.00698579377624994,
+   "r": -0.0007874818909013508
+  },
+  {
+   "step": 800,
+   "dev_bpc": 2.2255,
+   "train_cpu_s": 2050.56,
+   "train_loss_last": 1.4643,
+   "d": 0.00698579377624994,
+   "r": -0.12367278315968924
+  },
+  {
+   "step": 1200,
+   "dev_bpc": 2.2083,
+   "train_cpu_s": 2990.56,
+   "train_loss_last": 1.4617,
+   "d": 0.00698579377624994,
+   "r": -0.26962874110210744
+  },
+  {
+   "step": 1600,
+   "dev_bpc": 2.2257,
+   "train_cpu_s": 3807.11,
+   "train_loss_last": 1.39,
+   "d": 0.00698579377624994,
+   "r": -0.41409488986658793
+  },
+  {
+   "step": 2000,
+   "dev_bpc": 2.2699,
+   "train_cpu_s": 4646.23,
+   "train_loss_last": 1.4636,
+   "d": 0.00698579377624994,
+   "r": -0.5555743745596928
+  },
+  {
+   "step": 2400,
+   "dev_bpc": 2.2661,
+   "train_cpu_s": 5480.94,
+   "train_loss_last": 1.5107,
+   "d": 0.00698579377624994,
+   "r": -0.6862636742007483
+  },
+  {
+   "step": 2600,
+   "dev_bpc": 2.3141,
+   "train_cpu_s": 5899.62,
+   "train_loss_last": 1.4652,
+   "d": 0.00698579377624994,
+   "r": -0.7449485849835071
+  }
+ ],
+ "hparams": {
+  "opt": "prodigy",
+  "opt_kw": {},
+  "lr": "none (learning-rate-free)",
+  "schedule": "none",
+  "wd": 0.0,
+  "clip": null,
+  "momentum": 0.9,
+  "dev_frac": 0.05,
+  "dev_positions": 2000,
+  "seed": 0,
+  "d": 256,
+  "n_layer": 2,
+  "block": 128,
+  "batch": 64,
+  "steps": 2600,
+  "eval_every": 400
+ }
+}

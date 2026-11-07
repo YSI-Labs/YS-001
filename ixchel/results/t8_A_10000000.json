@@ -1,0 +1,22 @@
+{
+ "bpc": 1.759736508869713,
+ "max_norm_err": 4.667526809498668e-08,
+ "min_prob": 9.999999717180685e-10,
+ "eval_time_s": 2.4764559268951416,
+ "eval_chars_per_s": 20190.13356485319,
+ "leak_free": true,
+ "cfg": "A",
+ "n_train": 10000000,
+ "n_params": 8109350,
+ "fit_wall_s": 33.71088910102844,
+ "fit_cpu_s": 37.9375,
+ "peak_rss_mb": 2489.23046875,
+ "train_chars_per_s": 296640.0550881621,
+ "n_eval": 50000,
+ "dev_bpc_mix": 1.7364031234867225,
+ "poe_w": null,
+ "expert_names": [
+  "A"
+ ],
+ "sample": "rst auto on some models resting the butt plate against the should abstractics should be nowhere but not of government has a large crooks was written laughts two zero zero zero three three five four henry more than a computer introduced certain sects or perhaps to children s her everyone to compete one zero zero zero per soon after another its numerical and may suggested participation and refuse proper prior to the city has becoming an illegally shipping the in"
+}
